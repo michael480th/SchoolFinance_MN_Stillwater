@@ -1,0 +1,2205 @@
+https://www.osa.state.mn.us/media/ntaaebvs/2025guideschooldistricts.pdf
+→ https://www.osa.state.mn.us/media/ntaaebvs/2025guideschooldistricts.pdf
+Content-Type: application/pdf
+
+OFFICE OF THE 
+STATE AUDITOR
+Minnesota Legal Compliance
+Audit Guide for 
+School Districts 
+12/2025 School Districts
+ORDER
+Pursuant to Minn. Stat. § 6.65, I hereby prescribe the form and scope of the Minnesota Legal Compliance 
+Audit Guide for School Districts. The attached audit guide is hereby incorporated in its entirety. The 
+audit guide consists of the following sections:
+Page 1-1 Depositories of Public Funds and Public Investments,
+Page 2-1 Conflicts of Interest,
+Page 3-1 Public Indebtedness,
+Page 4-1 Contracting - Bid Laws,
+Page 5-1 Claims and Disbursements,
+Page 6-1 Examples of Independent Auditor’s Reports,
+Page 7-1 Uniform Financial Accounting and Reporting Standards 
+(UFARS) for Minnesota School Districts and Charter 
+Schools,
+Page 8-1 School District Miscellaneous Provisions
+These sections will comprise the minimum procedures and audit scope for legal compliance for school 
+districts in Minnesota.
+/s/
+Julie Blaha
+State Auditor
+12/2025 School Districts
+TABLE OF CONTENTS
+Page
+Introduction i 
+1. Depositories of Public Funds and Public Investments 1-1
+2. Conflicts of Interest 2-1
+3. Public Indebtedness 3-1
+4. Contracting - Bid Laws 4-1
+5. Claims and Disbursements 5-1
+6. Examples of Independent Auditor’s Reports 6-1
+ Minnesota Legal Compliance
+ - School Districts 6-2
+ Combined Report
+ Report on Internal Control Over Financial Reporting and on Compliance
+ and Other Matters Based on an Audit of Financial Statements Performed
+ in Accordance with Government Auditing Standards 6-4
+7. Uniform Financial Accounting and Reporting Standards (UFARS) for
+Minnesota School Districts and Charter Schools 7-1
+8. School District Miscellaneous Provisions 8-1
+12/2025 School Districts
+INTRODUCTION
+This Legal Compliance Audit Guide was prepared by the Office of the State Auditor pursuant to Minn. 
+Stat. § 6.65, in consultation with representatives from the Attorney General’s Office, towns, cities, 
+counties, school districts, and private sector public accountants. This Legal Compliance Audit Guide 
+establishes minimum compliance guidelines for verification by auditors engaged in the process of auditing 
+school districts of the state.
+This guide is divided into specific sections and presented in checklist form to assist the auditor of 
+government units in the verification of statutory compliance. The guide is not meant to be a complete 
+compilation of all laws affecting municipalities or a complete analysis of the laws cited throughout. The 
+checklist is meant to act as a reference guide regarding minimum legal compliance, and municipal auditors 
+must examine, in addition to applicable laws cited in the guide, those laws creating, granting power to, 
+and restricting the municipal entities they are auditing. 
+Under each section, except for the initial question establishing the transaction covered by the topic heading 
+and except where the explanation of a given question indicates otherwise, all questions should be answered 
+in the affirmative. A negative answer indicates a compliance problem, and the user of the checklist is 
+directed to the statutory section indicated on the left-hand side of the page. If after examination of the 
+appropriate statute, the auditor using this audit guide is still unsure as to whether there has been legal 
+compliance, he or she should check with legal counsel before rendering the opinion on compliance 
+contained at the end of each section. 
+AUDITOR’S REPORTS ON COMPLIANCE
+Chapter 6 contains model reports, one of which is to be completed by the auditor following his or her 
+completion of the appropriate compliance sections.
+These reports or the language from these reports must be issued as part of the audits of the school districts. 
+PREPARATION OF MINUTES
+Auditing for legal compliance will require a review of the minutes of the governing body. In many 
+instances, the minutes will be inadequate histories of the meetings involved. We have, therefore, deemed 
+it appropriate to include below a discussion of minutes, so that in those instances where the minutes are 
+substandard, auditors can provide a standard to assist clients in the future recording of meeting minutes. 
+i
+12/2025 School Districts
+Minutes may be defined as a record of the “proceedings” of a deliberative body. Various statutes that 
+refer to taking or publishing minutes use the term “proceedings” or “official proceedings.” See Minn. 
+Stat. §§ 384.09 (counties); 412.151, subd. 1 (statutory cities); 367.11(1) (towns); and 123B.09, subd. 10 
+(school districts). The Minnesota Attorney General has used the definition of “proceedings” found at 
+Minn. Stat. § 331A.01, subd. 6, in analyzing the clerk’s duties to take minutes. This statute states:
+“Proceedings” means the substance of all official actions taken by the governing body of a 
+political subdivision at any regular or special meeting, and at minimum includes the subject 
+matter of a motion, the persons making and seconding a motion, the roll call vote on a 
+motion, the character of resolutions or ordinances offered, including a brief description of 
+their subject matter, and whether defeated or adopted.
+While minutes must specifically identify the actions taken by the body, they need not record the 
+discussions of the members and others. At a minimum, the minutes must include the information required 
+by Minn. Stat. ch. 13D [Minnesota Open Meeting Law], unless such information is recorded elsewhere. 
+Minn. Stat. § 13D.01, subd. 4, provides: 
+The votes of the members of the state agency, board, commission, or department; or of the 
+governing body, committee, subcommittee, board, department, or commission on an action 
+taken in a meeting required by this section to be open to the public must be recorded in a 
+journal or minutes. . . The vote of each member must be recorded on each appropriation 
+of money, except for payments of judgments, claims, and amounts fixed by statute.
+In addition, subd. 5 states, “[t]he journal or any minutes used to record votes of a meeting subject to this 
+chapter must be open to the public during all normal business hours where records of the public body are 
+kept.” 
+The above provision requires that the individual votes of each member of the governing body on “an 
+action” be specifically recorded except for votes on “payments of judgments, claims, and amounts fixed 
+by statute.”
+Having satisfied minimum requirements, the question of how elaborate and extensive the minutes should 
+be is largely a policy matter for determination by the particular body in the exercise of reasonable 
+judgment and discretion. The Attorney General has explained:
+...there may be circumstances in which it would be advisable for the town board to provide 
+for the minutes to include information over and above what is necessary to satisfy 
+minimum statutory requirements for a record of its official actions. 
+Op. Atty. Gen. 851-C, March 5, 1992. For example, the board’s reasons for reaching a particular decision 
+could be crucial in defending a challenge to the action taken. The inclusion of such information may be 
+deemed appropriate under other circumstances, such as where the body determines that the public interest 
+warrants the award of a particular contract to a bidder other than the lowest bidder.
+ii
+12/2025 School Districts
+In any case, the amount of detail which is appropriate for inclusion in the minutes of a particular body is 
+likely to vary, depending upon the nature of the proceedings and the subject matter involved.
+While the minutes of a governing body should attempt to furnish relevant information over and above 
+bare minimum requirements, they should not, at the same time, be cluttered with unnecessary detail which 
+hampers efforts to review or otherwise utilize them at a later date. Perhaps the best standard to be applied 
+to the preparation of minutes is the one applied by the courts to the publication of official proceedings, 
+i.e., the minutes should be “sufficiently full to fairly set forth the proceedings.” Ketterer v. Indep. Sch. 
+Dist. No. 1, 79 N.W.2d 428, 438 (Minn. 1956); See Op. Atty. Gen. 161-a-20, Dec. 17, 1970.
+DESTRUCTION OF RECORDS
+Minnesota Statutes § 15.17, subd. 1, requires all officers and agencies of the state, counties, cities, towns, 
+school districts, municipal subdivisions or corporations, and other public authorities or political entities 
+within the state to make and preserve all records necessary for “a full and accurate knowledge of their 
+official activities.” The chief administrative officer is responsible for the preservation and care of the 
+agency’s government records, which include all “written or printed books, papers, letters, contracts, 
+documents, maps, plans, computer-based data, and other records made or received pursuant to law or in 
+connection with the transaction of public business.” Minn. Stat. § 15.17, subd. 2. This duty not only 
+prohibits destruction, but requires the custodian to take such steps as are necessary to protect public 
+records from deterioration, mutilation, loss, or destruction. This statute also requires that all records must 
+be delivered to the legal custodian’s successor upon expiration of the term of office or authority. Minn. 
+Stat. § 15.17, subd. 3. Additional provisions regarding data practices are found in the Minnesota 
+Government Data Practices Act, Minn. Stat., ch. 13.
+For political subdivisions having problems with the storage of obsolete records, Minn. Stat. 
+§§ 138.163-.25 provide relief. Any person who intentionally and unlawfully removes, mutilates, destroys, 
+conceals, alters, defaces or obliterates a public record is guilty of a misdemeanor. Minn. Stat. § 138.225.
+Unless a municipality adopts a records retention schedule (and notifies the Minnesota Historical Society), 
+it may not destroy public records without the permission of the records disposition panel. Applications 
+may be made to the State Archives Department for such permission. For instance, bids with supporting 
+documents received by a school district must be kept forever, unless the school district (1) adopts the 
+General Records Retention Schedule for School Districts, in which case, the school district must maintain 
+these records for the specified period, (2) adopts its own properly approved records retention schedule, or 
+(3) receives authority to dispose of the records from the records disposition panel. 
+A school district that wishes to adopt the appropriate General Records Retention Schedule can find 
+information on the State Archives website.
+iii
+12/2025 School Districts
+For information and assistance in disposing of or transferring government records, contact:
+Minnesota Historical Society
+State Archives Department
+345 Kellogg Boulevard West
+St. Paul, Minnesota 55102-1906
+(651) 259-3260
+http://www.mnhs.org/preserve/records/index.htm
+Questions about the Minnesota Government Data Practices Act should be directed to:
+Minnesota Department of Administration
+Data Practices Office
+320 Centennial Office Building
+658 Cedar Street
+St. Paul, Minnesota 55155
+(651) 296-6733
+https://mn.gov/admin/data-practices/
+In future years, the Minnesota Legal Compliance Audit Guide for School Districts will be updated and 
+additional compliance sections may be added. If you have comments or suggestions with regard to future 
+editions, please contact us at:
+Office of the State Auditor
+525 Park Street, Suite 500
+St. Paul, Minnesota 55103
+(651) 296-2551
+(651) 296-4755 (Fax)
+http://www.osa.state.mn.us
+iv
+SCHOOL DISTRICT
+DEPOSITORIES OF PUBLIC FUNDS
+AND
+PUBLIC INVESTMENTS
+12/2025 School Districts 1-1
+LEGAL COMPLIANCE AUDIT GUIDE
+DEPOSITORIES OF PUBLIC FUNDS
+AND
+PUBLIC INVESTMENTS
+Introduction
+A government entity that receives and disburses funds may deposit the funds only in financial institutions designated by 
+its governing body. The governing body may authorize its treasurer or chief financial officer to make such designations. 
+The government entity may deposit funds in amounts that are federally insured or, if it deposits more than this amount, it 
+must either have the depository furnish a bond or assign collateral to protect the excess deposit.
+“Government entity” for the purpose of this section includes school districts:
+Minn. Stat. § 118A.01, subd. 2. This section does not apply to entities whose investment authority is specified under 
+Minn. Stat. ch. 11A (Investment of State and Pension Assets), or 356A (Public Pension Fiduciary Responsibility). Id.
+“Public funds” for the purpose of this section means all general, special, permanent, trust, or other funds, regardless of 
+source or purpose, held or administered by a government entity, unless otherwise restricted. Minn. Stat. § 118A.01, 
+subd. 4.
+When auditing a school district, complete this section to determine if the school district has properly invested its funds or 
+deposited its funds in a properly designated depository with appropriate collateral or bond. 
+OPEB Trusts - The assets of a trust created to pay postemployment benefits (giving rise to a liability under GASB 
+Stmt. 45) to employees or officers after their termination of service shall be invested and held as provided in Minn. Stat. 
+§ 471.6175.
+Minn. Stat.
+Section
+DEPOSITORIES OF PUBLIC FUNDS AND
+PUBLIC INVESTMENTS Yes No
+Workpaper
+Reference
+12/2025 School Districts 1-2
+Part I. Designation of Depository
+§ 118A.02, 
+subd. 1
+A. In the case of a school district:
+1. Has each depository of public funds been designated by the government 
+entity’s governing body, or by its treasurer or chief financial officer, if the 
+governing body has authorized them to make such a designation?
+§ 118A.01,
+subd. 3
+2. Is each depository one of the following:
+a. a savings association;
+b. a commercial bank;
+c. a trust company;
+d. a credit union; or
+e. an industrial loan and thrift company?
+Part II. Insuring or Securing Deposits
+§ 118A.03 A. If a school district desires to deposit an amount in excess of deposit insurance, it 
+must obtain a bond or collateral which, when computed at its market value, shall 
+be at least ten percent more than the amount of the excess deposit at the close of 
+the banking day. For the purpose of this section, “banking day” has the meaning 
+given in Federal Reserve Board Regulation CC, 12 C.F.R. § 229.2(f), and 
+incorporates a financial institution’s cutoff hour established under Minn. Stat. 
+§ 336.4-108. If irrevocable standby letters of credit from Federal Home Loan 
+Banks are used as collateral, the amount must be equal to the amount of the excess 
+deposit at the close of the banking day.
+B. Review the following general principles of FDIC coverage and complete the 
+spread sheet in this section to determine the amount of the school district’s funds 
+that is not insured and thus need to be either bonded or collateralized. Deposits 
+held by credit unions are covered by separate deposit insurance rules promulgated 
+by the National Credit Union Administration (NCUA).
+General Principles of FDIC coverage:
+1. Deposits are insured only if the depository is a member of FDIC.
+2. Deposits in one depository are insured separately from deposits in another 
+depository which is not a branch of the first one. However, a depository 
+and all of the branches associated with it are treated as a single combined 
+depository, and the funds deposited in the branches are aggregated for 
+purposes of insurance coverage.
+Minn. Stat.
+Section
+DEPOSITORIES OF PUBLIC FUNDS AND
+PUBLIC INVESTMENTS Yes No
+Workpaper
+Reference
+12/2025 School Districts 1-3
+3. The aggregate of a government entity’s time/savings accounts, i.e., savings 
+accounts, NOW accounts, and time deposits (CDs), with the same 
+depository are insured up to a total of $250,000. The aggregate of a 
+government entity’s demand accounts, i.e., non-interest and interestbearing checking accounts, are insured up to a total of $250,000 and are 
+insured separately from the government entity’s time/savings deposits. 
+This separate $250,000 coverage for demand and time/savings accounts 
+only applies if the depository is in the same state as the government entity.
+4. A public authority, public corporation, public commission, or special 
+district receives separate insurance coverage from its parent government 
+entity only if its creation is expressly authorized by state statute, 
+government functions have been delegated to it by law, and funds have 
+been allocated for its exclusive use and control. Subordinate or nonautonomous divisions, agencies, or boards do not receive separate 
+insurance coverage.
+5. Funds held for a special purpose and required by law to be paid to 
+bondholders or beneficiaries such as members of pension funds or relief 
+associations are covered up to $250,000 per bondholder or beneficiary 
+whether the beneficial interest is vested or not. The fiduciary nature must 
+be indicated on the account name in the bank’s records.
+6. If more than one person is legal or official custodian of funds for a 
+government entity, each custodian having plenary authority (including 
+control) over the funds is separately insured up to $250,000. Also, if the 
+same person is the custodian of funds for two separate government 
+entities, the funds for the two government entities are separately insured.
+7. Moneys held by a government entity in trust are insured separately from 
+other government entity funds only if the trust is linked to a written trust 
+agreement, court order or statute, the owner does not retain an interest in 
+the use of the assets, and the interests of beneficiaries are ascertainable and 
+not contingent.
+C. Was collateral coverage sufficient? 
+(Answer after completing the spreadsheet on page 1-11.)
+Part III. The Bond and Collateral
+§ 118A.03, 
+subd. 1
+A. If a bond was furnished by the depository to the school district, answer the 
+following question:
+1. Was the bond executed by a corporate surety company authorized to do 
+business in the state?
+§ 118A.03, 
+subd. 2
+B. If the depository assigned collateral to the school district, answer the following 
+questions:
+1. Was the collateral one of the following:
+a. U.S. government treasury bills, notes, or bonds;
+b. issues of a U.S. government agency or instrumentality that are quoted 
+by a recognized industry quotation service available to the government 
+entity;
+Minn. Stat.
+Section
+DEPOSITORIES OF PUBLIC FUNDS AND
+PUBLIC INVESTMENTS Yes No
+Workpaper
+Reference
+12/2025 School Districts 1-4
+c. a general obligation of a state or local government, with taxing powers, 
+rated “A” or better;
+d. a revenue obligation of a state or local government, with taxing powers, 
+rated “AA” or better;
+e. unrated general obligation securities of a local government, with taxing 
+powers, pledged as collateral against funds deposited by that same local 
+government entity;
+f. an irrevocable standby letter of credit issued by a Federal Home Loan 
+Bank accompanied by written evidence that the Federal Home Loan 
+Bank’s public debt is rated “AA” or better by Moody’s or Standard and 
+Poor’s; or
+g. time deposits insured by any federal agency?
+§ 118A.03,
+subd. 7
+2. Was the collateral placed for safekeeping:
+a. In a restricted account at the Federal Reserve Bank; or
+b. in an account at a trust department of a commercial bank or other 
+financial institution not owned or controlled by the depository?
+3. Did the government entity approve of the selection of the safekeeping 
+entity?
+§ 118A.03,
+subd. 4
+4. Was the collateral assignment in writing?
+5. Did the assignment provide that, upon default, the depository shall release 
+the collateral pledged to the government entity on demand, free of exchange 
+or other charges?
+§ 118A.03,
+subd. 3
+C. Collateral pledged must equal at least ten percent more than the uninsured and 
+unbonded amount on deposit at the close of the banking day. If irrevocable 
+standby letters of credit from Federal Home Loan Banks are used, the amount 
+must be equal to the amount of the excess deposit at the close of the banking day. 
+The depository may, at its discretion, furnish both a bond and collateral 
+aggregating the required amount.
+For the purpose of this section, “banking day” has the meaning given in Federal 
+Reserve Board Regulation CC, 12 C.F.R. § 229.2(f), and incorporates a financial 
+institution’s cutoff hour established under Minn. Stat. § 336.4-108.
+1. If a bond was obtained or standby letters of credit from Federal Home Loan 
+Banks were pledged, was the amount of excess deposit at the close of the 
+banking day (as defined above) equal to or less than the amount of the bond 
+or standby letters of credit?
+2. If other collateral was pledged, was the amount of collateral at least ten 
+percent more than the uninsured amount on deposit at the close of the 
+banking day?
+Minn. Stat.
+Section
+DEPOSITORIES OF PUBLIC FUNDS AND
+PUBLIC INVESTMENTS Yes No
+Workpaper
+Reference
+12/2025 School Districts 1-5
+D. Assignment [Federal Statutory Requirements]
+[12 U.S.C.
+§ 1823(e)]
+1. Was the written assignment approved by the depository’s board of directors 
+or loan committee?
+2. Was the assignment an official record of the depository?
+§ 118A.03 E. If the school district used a sweep account, did the timing of the sweep take place 
+so that all amounts on deposit at the end of the banking day were protected by 
+deposit insurance, bond, or pledged collateral?
+Part IV. Public Investments
+A. Were all repurchase agreements and reverse repurchase agreements only entered 
+into with:
+§ 118A.05,
+subd. 2
+1. a financial institution qualified as a depository of public funds;
+2. any other financial institution which is a member of the Federal Reserve 
+System and whose combined capital and surplus equals or exceeds 
+$10,000,000;
+3. a primary reporting dealer in United States government securities to the 
+Federal Reserve Bank of New York; or 
+4. a securities broker-dealer licensed pursuant to chapter 80A, or an affiliate of 
+it, regulated by the Securities and Exchange Commission and maintaining a 
+combined capital and surplus of $40,000,000 or more, exclusive of 
+subordinated debt?
+§ 118A.06 B. If the school district safekeeps investments with a third party:
+1. Is the school district’s ownership of all securities in which the fund is 
+invested evidenced by written acknowledgments identifying the securities by 
+the names of the issuers, maturity dates, interest rates, CUSIP numbers, or 
+other distinguishing marks?
+2. Were investments, contracts, and agreements held in safekeeping with:
+a. a Federal Reserve Bank;
+b. any bank authorized under the laws of the United States or any state to 
+exercise corporate trust powers, including, but not limited to, the bank 
+from which the investment is purchased;
+c. a primary reporting dealer in United States government securities to the 
+Federal Reserve Bank of New York; or
+d. a securities broker-dealer, or an affiliate of it, that
+(1) Is registered as a broker-dealer under Chapter 80A or is exempt 
+from the registration requirements;
+(2) is regulated by the Securities and Exchange Commission; and
+Minn. Stat.
+Section
+DEPOSITORIES OF PUBLIC FUNDS AND
+PUBLIC INVESTMENTS Yes No
+Workpaper
+Reference
+12/2025 School Districts 1-6
+(3) maintains insurance through the Security Investor Protection 
+Corporation (SIPC) or excess insurance coverage in an amount 
+equal to or greater than the value of the securities held?
+C. Were the securities sold or pledged under the repurchase agreement or reverse 
+repurchase agreement permissible direct investments under Minn. Stat. § 118A.04
+(see L and M below)?
+D. Were all reverse repurchase agreements only entered into:
+§ 118A.05,
+subd. 2
+1. for a period of 90 days or less; and 
+2. only to meet short-term cash needs and not to generate cash for investments?
+E. Were all securities lending agreements (including custody agreements) entered 
+into only with:
+§ 118A.05
+subd. 3
+1. a financial institution qualified as a depository having an office in 
+Minnesota; or
+2. a financial institution which is a member of the Federal Reserve System and
+whose combined capital and surplus equals or exceeds $10,000,000, and
+which has an office in Minnesota?
+F. Did the custodian or entity operating the securities lending program only enter into 
+securities lending transactions with those entities identified in Part IV.A. (above)?
+§ 118A.05, 
+subd. 5
+G. Guaranteed investment contracts or agreements
+1. Were all guaranteed investment contracts or agreements only entered into 
+with an issuer or guarantor that was a U.S. commercial bank, a domestic 
+branch of a foreign bank, a U.S. insurance company, or its Canadian 
+subsidiary, or the domestic affiliates of any of the foregoing?
+2. Was the issuer’s or guarantor’s long-term and short-term unsecured debt:
+a. rated in one of the highest two categories by a nationally recognized 
+rating agency, or
+b. was the term of the guaranteed investment contract 18 months or less, 
+and was the credit quality of the issuer’s short-term unsecured debt 
+rated in the highest category by a nationally recognized rating agency 
+(regardless of the credit quality of the issuer’s or guarantor’s long-term 
+unsecured debt)?
+H. Did all guaranteed investment contracts give the public entity withdrawal rights in 
+the event the issuer’s or guarantor’s credit quality was downgraded below “A”?
+§ 118A.05, 
+subd. 4
+I. Did the school district only invest in shares of a Minnesota joint powers 
+investment trust whose investments were restricted to securities described in Minn. 
+Stat. §§ 118A.04 and 118A.07, subd. 7?
+§ 118A.05,
+subd. 4
+J. Mutual Funds - Did the school district only invest in shares of an investment 
+company that met the criteria in either 1 or 2 below:
+Minn. Stat.
+Section
+DEPOSITORIES OF PUBLIC FUNDS AND
+PUBLIC INVESTMENTS Yes No
+Workpaper
+Reference
+12/2025 School Districts 1-7
+1. a. registered under the Federal Investment Company Act of 1940;
+b. whose shares were registered under the Federal Securities Act of 1933;
+c. whose fund received the highest credit rating;
+d. that was rated in one of the highest risk rating categories by at least one 
+nationally recognized statistical rating organization; and
+e. that only invests in financial instruments with a final maturity no longer 
+than 13 months?
+2. a. registered under the Federal Investment Company Act of 1940;
+b. which holds itself out as a money market fund meeting the conditions 
+of SEC rule 2a-7; and
+c. is rated one of the two highest rating categories for money market funds 
+by at least one nationally recognized statistical rating organization?
+§ 118A.05,
+subd. 4
+K. Did the school district only invest in units of a short-term investment fund:
+1. established and administered pursuant to regulation 9 of the Comptroller of 
+the Currency; and
+2. in which investments are restricted to securities described in Minn. Stat. 
+§ 118A.04?
+L. Were all other funds invested in instruments which met at least one of the 
+following criteria:
+§ 118A.04 1. In governmental bonds, notes, bills, mortgages, and other securities, which 
+were direct obligations or are guaranteed or insured issues of the United 
+States, its agencies, its instrumentalities, or organizations created by an act 
+of Congress, excluding mortgage-backed securities defined as “high risk” 
+(see Section M - Mortgage-Backed Securities);
+2. In a general obligation of a state or local government with taxing powers 
+which was rated “A” or better by a national bond rating service;
+3. In a revenue obligation of a state or local government which was rated “AA” 
+or better by a national bond rating service;
+4. In a general obligation of the Minnesota Housing Finance Agency which 
+was a moral obligation of the State of Minnesota and is rated “A” or better 
+by a national bond rating agency;
+5. In an obligation of a school district with an original maturity not exceeding 
+13 months which is (i) rated in the highest category by a national bond rating 
+service or (ii) enrolled in the credit enhancement program pursuant to Minn. 
+Stat. § 126C.55;
+[Note: This authority is in addition to and does not limit the authority 
+provided by items 2 and 3, above.]
+Minn. Stat.
+Section
+DEPOSITORIES OF PUBLIC FUNDS AND
+PUBLIC INVESTMENTS Yes No
+Workpaper
+Reference
+12/2025 School Districts 1-8
+6. In commercial paper issued by a United States corporation or its Canadian 
+subsidiary and that:
+a. was rated in the highest quality category by at least two nationally 
+recognized rating agencies, and
+b. matures in 270 days or less;
+§ 118A.04,
+subd. 5
+7. In time deposits fully insured by the Federal Deposit Insurance Corporation
+or the National Credit Union Administration;
+§ 118A.04,
+subd. 5
+8. In bankers’ acceptances issued by United States banks;
+§ 118A.04,
+subd. 7
+9. In its own temporary obligations issued under Minn. Stat. §§ 429.091, 
+subd. 7 (special assessments), 469.178, subd. 5 (tax increment bonds), or 
+475.61, subd. 6, or
+§136F.91
+10. (For counties, cities, towns and other municipal corporations, political 
+subdivisions and political bodies) Bonds issued by Minnesota State Colleges 
+and Universities under Minn. Stat. §§ 136F.90 to 136F.98?
+§ 118A.04,
+subd. 8
+Note: A debt service fund can purchase any issue payable from the fund.
+M. Mortgage-Backed Securities
+§ 118A.04,
+subd. 2
+Government entities may only purchase mortgage-backed securities that are direct 
+obligations or guaranteed or insured issues of the United States, its agencies, its 
+instrumentalities, or organizations created by an act of Congress.
+Mortgage-backed securities purchased shall not be “high risk.” Minn. Stat. 
+§ 118A.04, subd. 6, states, “high risk mortgage-backed securities” are:
+§ 118A.04,
+subds. 2 & 6
+1. interest-only or principal-only mortgage-backed securities; and
+2. any mortgage derivative security that:
+a. has an expected average life greater than ten years; or
+b. has an expected average life that:
+(1) will extend by more than four years as the result of an immediate 
+and sustained parallel shift in the yield curve of plus 300 basis 
+points, or
+(2) will shorten by more than six years as the result of an immediate 
+and sustained parallel shift in the yield curve of minus 300 basis 
+points; or
+c. will have an estimated change in price of more than 17 percent as the 
+result of an immediate and sustained parallel shift in the yield curve of 
+plus or minus 300 basis points.
+Minn. Stat.
+Section
+DEPOSITORIES OF PUBLIC FUNDS AND
+PUBLIC INVESTMENTS Yes No
+Workpaper
+Reference
+12/2025 School Districts 1-9
+3. Were all mortgage-backed securities purchased by the school district after 
+August 1, 1993, not “high risk?”
+Part V. Broker Acknowledgement Certification
+§ 118A.04,
+subd. 9
+A. Annually, prior to completing an initial investment transaction with each broker, 
+did the school district provide to that broker a written statement of investment 
+restrictions?
+B. Did the broker acknowledge receipt of the investment restrictions and agree to 
+handle the school district’s account in accordance with the restrictions?
+C. Did the school district retain documentation of compliance with A and B above? 
+Part VI. Audit Conclusion
+The auditor must state a conclusion--based on this questionnaire and any other audit procedures performed--whether the client has 
+complied with the legal provisions reviewed relating to depositories of public funds and investments.
+Conclusion:
+12/2025 School Districts 1-10
+SPREADSHEET
+a B c d (a+b) - (c+d) = e e x 1.1 = f g g - f
+Name of Depository * **
+Time/Savings
+Accounts
+Demand 
+Accounts
+Amount of 
+Insurance 
+Coverage
+Amount of 
+Bond
+Deposits Requiring 
+Collateral
+Amount of 
+Collateral 
+Needed 
+(110% of 
+Deposits 
+Requiring 
+Collateral)
+Market Value 
+of Collateral 
+Provided
+Sufficient (Insufficient) 
+Collateral Coverage
+* Put a check in this column if depository is a member of FDIC or NCUA.
+** Put a check in this column if depository is not a branch of any of the other depositories here.
+SCHOOL DISTRICT
+CONFLICTS OF INTEREST
+12/2025 School Districts 2-1
+LEGAL COMPLIANCE AUDIT GUIDE
+CONFLICTS OF INTEREST
+Introduction
+Rule: A public officer authorized to take part in the making of a sale, lease, or contract shall not voluntarily have 
+a personal financial interest in the transaction or personally benefit financially from it. Minn. Stat. § 471.87. The 
+following persons are specifically forbidden from having any interest in any contract made by their respective 
+governing bodies:
+1. elected officers;
+2. town supervisors and town board members;
+3. county officials, county deputies, county clerks, and employees of such officials; or
+4. school board members.
+Exceptions: For practical reasons, the legislature has created certain limited exceptions to the general prohibition. 
+Exceptions apply to port authorities, seaway port authorities, economic development authorities, watershed 
+districts, soil and water conservation districts, towns, school districts, hospital districts, counties and cities. Minn. 
+Stat. § 471.88. Part I of this questionnaire will assist you in making a determination as to whether an otherwise 
+forbidden transaction fits within any of the statutory exceptions. Care should be taken to determine whether any 
+exception considered applies to the entity and contract being audited. 
+For the purposes of this checklist, “interested officer” shall mean a public officer or employee, as listed above, 
+who directly or through his or her spouse (see “Discussion” below) has a prohibited position or interest in either 
+the entity making or the subject matter of the sale, lease, or contract with the governing body. Examples include:
+1. officer;
+2. director;
+3. employee (see “Discussion” below);
+4. partner;
+5. owner (complete or partial); or
+6. shareholder.
+Discussion: The determination as to whether a particular transaction involves an “interested officer” often calls 
+for a judgment on the part of the auditor. A helpful concept to remember for analysis is that it is a conflict of 
+interest to be on both sides of a contract or transaction.
+12/2025 School Districts 2-2
+Most problems in this regard arise in the examination of the “interest” the public officer has in the person or entity 
+making the contract with the governing body. Two frequent problem areas are:
+1. Contracts with Officer’s or Employee’s Spouse or Family Member. 
+It is not a conflict of interest per se for a governing body to contract or otherwise economically transact with 
+a member officer’s spouse or family member. However, if the facts indicate an economic benefit to the 
+member officer as a result of the contract or transaction, a conflict of interest exists. For example, if a 
+husband and wife, one of whom is a public officer, share a common pool of funds and likewise share debts, 
+conflicts may exist because there is benefit to the public officer or employee flowing from the economic 
+benefit to his or her spouse. Likewise, if a governmental officer or employee and his or her spouse, in fact, 
+do not economically benefit from each other, a conflict may not exist. This analysis would apply to all 
+familial relationships. The auditor will need to factually determine whether an emancipated child living 
+away from home has a financial interest with his or her parents.
+A provision regarding employee contracts involving spouses of school board members was enacted in 2008. 
+See Minn. Stat. § 471.88, subd. 21. 
+2. Contracts with Companies in Which the Officer is an Employee. 
+If the involved governmental officer or employee is simply a company employee without managerial powers 
+and receives the same salary or raise regardless of the company’s contract with the governing body, there 
+probably is no conflict of interest. However, if said officer receives a bonus or commission or other benefit 
+as a result of the contractual transaction between his or her company and the government entity, there is 
+definitely a conflict of interest.
+There are numerous aspects to be examined by the auditor in order to understand the totality of interests involved 
+in a given contract or transaction between the governing body and an entity or person with a relationship to a 
+member officer.
+If, after review of the facts and applicable statutes, you are still unsure as to whether a particular set of 
+circumstances constitutes a conflict of interest, you should contact an attorney for advice prior to preparing the 
+“Audit Conclusion” at the end of this audit guide section.
+12/2025 School Districts 2-3
+Minn. Stat.
+Section
+CONFLICTS OF INTEREST
+Yes No
+Workpaper
+Reference
+Part I. Contracts Generally
+§ 471.87 - Unless a statutory exception applies, a public officer who is authorized to take part 
+in any manner in making any sale, lease, or contract in official capacity shall not 
+voluntarily have a personal financial interest in that sale, lease, or contract or 
+personally benefit therefrom.
+- The school board may contract for goods or services with an interested officer only 
+by unanimous vote. See A, infra. In addition to the unanimous vote, one of the 
+statutory exceptions must apply. See B, infra.
+§ 471.88,
+subd. 1
+A. Contract for Goods or Services/Unanimous Approval
+1. If there were any sales, leases, or contracts between the school board and an 
+interested officer, was each contract a contract for goods or services? and
+2. If there were any sales, leases, or contracts between the school board and an 
+interested officer, did the school board approve the transaction by 
+unanimous vote?
+Note: In general, all members present must vote in order to produce a unanimous 
+vote; except that the interested officer may abstain (as a practical matter).
+B. Statutory Exceptions
+§ 471.88,
+subd. 2
+1. Designation of Bank or Savings Association
+If the transaction involved the designation of a bank or savings association 
+as an authorized depository for public funds and as a source of borrowing:
+a. Did the interested officer disclose to the school board that he or she was 
+a director or employee of the bank or savings association?
+b. Was such disclosure entered into the minutes of the school board’s 
+meeting prior to the first designation of the bank or savings association 
+as a depository or at the time of the interested officer’s election, 
+whichever was later?
+§ 471.88, 
+subd. 3
+2. Designation of Official Newspaper
+If a transaction involved the designation of an official newspaper or 
+publication of official matters therein:
+a. Was the newspaper in which the officer had an interest the only 
+newspaper complying with statutory or charter requirements relating to 
+designation or publication?
+12/2025 School Districts 2-4
+Minn. Stat.
+Section
+CONFLICTS OF INTEREST
+Yes No
+Workpaper
+Reference
+§ 471.88,
+subd. 4
+3. Stockholder of Cooperative Association
+If the transaction involved a contract with a cooperative association:
+a. Was the officer a shareholder or stockholder and not an officer or 
+manager of the cooperative association?
+§ 471.88,
+subd. 5
+4. Contracts That Do Not Need to Be Bid
+If an interested officer entered into a contract for goods and services with the 
+school board:
+a. Was the contract one that did not need to be bid?
+(See discussion of contracts that are subject to bidding on page 4-1.) (If the 
+interested officer is a school board member and employee of the district, see
+Part B.7., infra, “Employment Contracts with School Board Members.” If 
+the contract involves a class of employees that includes the spouse of a 
+school board member; see Part B.12., infra, “School Board Member 
+Spouse/Employee Class.”)
+§ 471.89,
+subd. 2
+b. Did the school board, prior to performance of the contract, authorize 
+the contract by adopting a resolution setting forth the essential facts and 
+determining that the contract price was as low or lower than the price at 
+which the commodity or service could be obtained elsewhere?
+§ 471.89,
+subd. 3
+c. Prior to payment of the contract, did the interested officer file with the 
+clerk of the school board an affidavit stating:
+(1) the name of the officer and office held;
+(2) an itemization of the commodity or services furnished;
+(3) the contract price;
+(4) the reasonable value;
+(5) the interest of the officer in the contract;
+(6) that to the best of his/her knowledge and belief the contract price 
+was as low or lower than the price at which the commodities or 
+services could have been obtained from other sources?
+§ 471.89,
+subd. 2
+d. If the contract was entered into under emergency conditions, did the 
+school board adopt such a resolution prior to payment of the claims in 
+which the facts of the emergency are also stated?
+12/2025 School Districts 2-5
+Minn. Stat.
+Section
+CONFLICTS OF INTEREST
+Yes No
+Workpaper
+Reference
+§ 123B.195 5. Employment Contracts with School Board Members
+If the interested officer was a school board member and an employee of the 
+school district:
+a. Was the employment contract not reasonably anticipated to exceed 
+$20,000 during the fiscal year?
+b. Was the contract entered into or renewed at a meeting where all board 
+members were present and was the contract approved by a majority?
+§ 471.88,
+subd. 12
+6. Contract for Construction Materials or Services
+If an interested officer contracted with the school district to provide 
+construction materials or services, or both:
+a. Was the contract done by a sealed bid process?
+b. Does the unit have a population of 1,000 or less according to the last 
+federal census?
+c. When the question of the contract came before the school board for 
+consideration, did the officer refrain from voting?
+§ 471.88,
+subd. 13
+7. Contract for Renting Space
+If a public officer rented space in a public facility, was the rate 
+commensurate with that paid by other members of the public?
+§ 471.88, 
+subd. 21
+8. School Board Member Spouse/Employee Class
+A local school board may contract with a class of school district employees 
+such as teachers or custodians where the spouse of a school board member is 
+a member of the class of employees contracting with the school board. If 
+this occurred:
+a. Did the employee spouse receive no special monetary or other benefit 
+that is substantially different from the benefits that other members of 
+the class receive under the employment contract?
+b. In addition, did the school board:
+(1) have a majority of disinterested school board members vote to 
+approve the contract,
+(2) direct the school board member spouse to abstain from voting to 
+approve the contract, and
+(3) publicly set out the essential facts of the contract at the meeting 
+where the contract is approved?
+12/2025 School Districts 2-6
+Minn. Stat.
+Section
+CONFLICTS OF INTEREST
+Yes No
+Workpaper
+Reference
+§§ 
+123B.52, 
+subd. 5, 
+471.88
+9. Conflicts of Interest: All Other Contracts or Transactions
+If there were any contracts or transactions between an interested officer and 
+the school board, were the contracts or transactions included in the 
+exceptions above (B1-10)?
+Part II. Purchase of Merchandise from Governmental Agency
+§ 15.054 A. Political subdivisions are prohibited from selling property or materials owned by 
+the political subdivision to its officers or employees. Employees may make 
+purchases from political subdivisions if the following criteria are met.
+For all purchases:
+1. Was the property or materials purchased by the public employee not needed 
+for public purposes?
+2. Was the purchase made through sealed bids or public auction?
+3. Was the employee not directly involved with the sealed bid or auction 
+process?
+4 Was the applicable “notice” law followed, and did the same require at least 
+one week of published notice?
+Minn. Stat. § 15.054 does not apply to property or materials acquired or produced by 
+political subdivisions for sale to the general public in the ordinary course of business.
+Part III. Audit Conclusion
+The auditor must state a conclusion--based on this questionnaire and any other audit procedures performed--whether the client has 
+complied with the legal provisions reviewed relating to conflicts of interest.
+Conclusion:
+SCHOOL DISTRICT
+PUBLIC INDEBTEDNESS
+12/2025 School Districts 3-1
+LEGAL COMPLIANCE AUDIT GUIDE
+PUBLIC INDEBTEDNESS
+Introduction
+The power of a government unit to incur indebtedness is governed by statutory and home rule charter provisions. 
+Statutory provisions vary depending on the type of government unit involved.
+Each type of borrowing instrument may also be governed by different statutes. Therefore, it is essential that the 
+auditor examine the specific statutes or charter provisions that are applicable to the particular borrowing 
+transaction.
+This questionnaire is intended only to highlight certain general provisions of the Minnesota statutes relating to 
+indebtedness and is not intended to cover all questions that may be pertinent.
+Which of the following types of borrowing has the municipality been involved with during the past year? 
+Please check all forms of borrowing that have either been issued or redeemed during the past year or which 
+are currently outstanding at year-end.
+During the Year
+LONG-TERM BORROWING: Issued Outstanding
+ General Obligation Bonds (Minn. Stat. ch. 475)
+ Revenue Bonds (Minn. Stat. ch. 475)
+ General Obligation Revenue Bonds (Minn. Stat. ch. 475)
+During the Year
+SHORT-TERM BORROWING: Issued Outstanding
+ Aid Anticipation Certificates (Minn. Stat. §§ 126C.52, 126C.53)
+ Tax Anticipation Certificates (Minn. Stat. §§ 126C.52, 126C.53)
+ Orders Not Paid for Want of Funds (Minn. Stat. § 123B.12)
+ Emergency Certificates of Indebtedness (Minn. Stat. § 475.754)
+ Certificates of Indebtedness (Minn. Stat. § 123B.61)
+ Reverse Repurchase Agreements/Securities Lending Agreements (Minn.
+ Stat. § 118A.05)
+ Lease Purchase Agreements (Minn. Stat. § 465.71)
+Minn. Stat. 
+Section
+PUBLIC INDEBTEDNESS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 3-2
+Part I. Answer the following questions with respect to all types of
+indebtedness that were issued during this fiscal year:
+§ 475.51, 
+et. seq.
+A. Was school board approval obtained for new debt issued during this fiscal year?
+§ 475.58, 
+subd. 2
+B. For debt funding or refunding obligations issued under Minn. Stat. § 475.58, 
+subd. 2:
+1. Did the entity’s outstanding gross debt exceed 1.62% of its estimated market 
+value?
+2. Was a listing of the indebtedness to be funded or refunded prepared by the 
+treasurer and recording officer and filed in the office of the recording officer?
+§ 475.58
+subd. 2
+3. Was the resolution, stating the amount of bonds to be issued and referring to 
+the listing of indebtedness to be funded or refunded, published in the legal 
+newspaper once each week for two successive weeks?
+Note: Refunding obligations may be authorized by Minn. Stat. § 475.67 for which 
+the notice required here is not applicable.
+C. Considering the issuance of the obligations, will the net debt (as defined in Minn. 
+Stat. § 475.51, subd. 4) of the school district not exceed the net debt limit as is 
+applicable below:
+§ 475.53,
+subd. 4
+For all school districts does the net debt not exceed 15 percent of the estimated
+market value of all taxable property within the district? (Market value is the 
+total value of the district as certified by the county auditor or, where 
+applicable, this value divided by a ratio certified by the Commissioner of 
+Revenue.)
+§ 475.58,
+subd. 1
+D. Was the request to issue the obligations submitted for approval at an election?
+§ 475.58,
+subd. 4
+1. If so, were the proceeds only spent:
+a. (1) for the purposes stated in the ballot language; or (2) to pay, redeem, 
+or defease obligations and interest, penalties, premiums, and costs of 
+issuance of the obligations; and
+b. were none of the proceeds spent for a different purpose or for an 
+expansion of the original purpose without approval by a majority of the 
+electors voting on the question of changing or expanding the purpose of 
+the obligations?
+§ 475.58,
+subd. 1
+2
+.
+If not, was this issuance exempt from approval by the electors for one of the 
+following reasons:
+It represented an obligation characterized as:
+a. any unpaid judgment against the school district;
+b. refunding obligations;
+Minn. Stat. 
+Section
+PUBLIC INDEBTEDNESS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 3-3
+c. an improvement or improvement program, the obligation for which is 
+payable wholly or partly from the proceeds of special assessments levied 
+upon property specially benefited by the improvement or by an 
+improvement within the improvement program or from tax increments,
+including obligations which are the general obligations of the school 
+district, if the school district is entitled to reimbursement in whole or in 
+part from the proceeds of such special assessments or tax increments and 
+not less than 20 percent of the cost of the improvement or the 
+improvement program is to be assessed against benefited property or is to 
+be paid from the proceeds of federal grant funds or a combination thereof, 
+or is estimated to be received from tax increments.
+d. an obligation which is payable wholly from the income of revenue 
+producing conveniences;
+e. an obligation exempt from electoral approval by the terms of the home 
+rule charter;
+f. exempt under the provisions of a law which permits the issuance of 
+obligations of a school district without an election;
+g. an obligation to fund pension or retirement fund liabilities of a school 
+district pursuant to Minn. Stat. § 475.52, subd. 6;
+h. issued under Minn. Stat. §§ 469.1813 to 469.1815 (property tax 
+abatement authority bonds), if the bonds are not used for a purpose 
+prohibited under § 469.176, subd. 4g, para. (b); 
+§ 475.58,
+subd. 3a
+i. issued to refund existing debt of an indoor ice arena that is used 
+predominantly for youth athletic activity as provided in Minn. Stat. 
+§ 475.58, subd. 3a;
+§ 475.58,
+subd. 3b
+j. issued for street reconstruction and bituminous overlays, and were the 
+conditions of Minn. Stat. § 471.58, subd. 3b met?
+§ 475.58,
+subd. 1a
+E. If the issuance of obligations for the same purpose and in the same amount has 
+previously been proposed to the electors and voted down, did this election take place 
+at least 180 days after the first election?
+F. If this is the third request for the same purpose and in the same amount, did this 
+election take place at least one year after the second election?
+§ 475.60,
+subds. 2 
+& 3
+G. Was the sale of these obligations in accordance with the public notice and public sale 
+requirements of Minnesota statutes?
+§ 475.60,
+subd. 2
+1. If no, was the sale exempt from public sale due to any of the following reasons:
+a. obligations issued under the provisions of a home rule charter, or under a 
+law specifically authorizing a different method of sale or authorizing them 
+to be issued in such a manner as the school board may determine;
+b. obligations sold by the school district in an amount not exceeding the total 
+sum of $1,200,000 in any 12-month period;
+Minn. Stat. 
+Section
+PUBLIC INDEBTEDNESS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 3-4
+c. obligations sold to any board, department, or agency of the United States 
+of America or the State of Minnesota, in accordance with the rules of the 
+board, department, or agency;
+d. obligations issued to fund pension and retirement fund liabilities under 
+Minn. Stat. § 475.52, subd. 6; obligations issued with tender options 
+under Minn. Stat. § 475.54, subd. 5a; crossover refunding referred to in 
+Minn. Stat. § 475.67, subd. 13; and any issue of obligations comprised in 
+whole or in part of obligations bearing interest at a rate or rates which 
+vary periodically referred to in Minn. Stat. § 475.56;
+e. obligations to be issued for a purpose, in a manner, and upon terms and 
+conditions authorized by law, if the school board, on the advice of bond 
+counsel or special tax counsel, determines that interest on the obligations 
+cannot be represented to be excluded from gross income for purposes of 
+federal income taxation;
+f. obligations issued in the form of an installment purchase contract, lease 
+purchase agreement, or other similar agreement;
+g. obligations sold under a bond reinvestment program; or
+h. obligations which the school board determines shall be sold by private 
+negotiation if the school district has retained an independent municipal
+adviser?
+§ 475.55,
+subd. 1
+H. Were all obligations signed manually by one officer of the school district or by a 
+designated authenticating agent?
+§ 475.65 I. Did the treasurer account for the receipt and disbursement of the proceeds of the 
+issue, for the use named in the resolution, in a separate fund or account in the official 
+financial records of the school district?
+§ 475.61,
+subd. 2, &
+§ 475.62
+J. Was the appropriate information reported to the county auditor for all new issues of 
+indebtedness so that the county register could be updated? (Information to include: 
+the purpose and date of the issue; the number, denomination, interest rate, and 
+maturity date of each bond; place and time of payment of principal and interest; and 
+the amount of the tax levied for the payment thereof.)
+§ 471.69 K. Limitation on Outstanding Warrants and Orders
+1. Did the school district, county, statutory city, or town not contract debt, or issue 
+any warrant or order in anticipation of taxes levied or to be levied, in excess of:
+- the average amount actually received from tax collections for the last 
+three years, plus
+- ten percent?
+The Minn. Stat. § 471.69 limitations do not apply to government entities wherein the 
+mineral net tax capacity exceeds 25 percent of its net tax capacity. Nor does it apply to a 
+school district in a city of the first class, which constitutes a single school district.
+Minn. Stat. 
+Section
+PUBLIC INDEBTEDNESS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 3-5
+Part II. Answer only the questions below that relate to the specific types of 
+debt that were issued during the current fiscal year:
+§ 475.61,
+subd. 1
+A. GENERAL OBLIGATION BONDS:
+1. Did the school district, prior to delivery of the obligations, levy by resolution a 
+direct general ad valorem tax upon all taxable property to be spread each year of 
+the obligations?
+2. For all school districts, were the levies specified and such that if collected in full 
+they, together with estimated collection of other revenues pledged for the 
+payment of the obligations, will produce five percent in excess of the amount 
+needed to meet the principal and interest payments on the obligations, rounded 
+to the nearest dollar, when due?
+§ 126C.53 B. AID ANTICIPATION CERTIFICATES: (This form of borrowing is available only 
+to school districts)
+1. Was the approving resolution passed by a two-thirds vote of the board 
+membership? (Two-thirds of a quorum is not sufficient.)
+§ 126C.54 2. Do the aid anticipation certificates mature no later than three months after the 
+close of the school year in which the certificates were issued?
+3. Do the aid anticipation certificates mature no later than the estimated date of 
+receipt of the aids so anticipated?
+§ 126C.52,
+subds. 2, 3
+4. Was the amount borrowed not in excess of 75 percent of the aids receivable by 
+the school district in the fiscal year as estimated and certified by the 
+Commissioner of Education?
+[Note: For intermediate school districts, this computation may include 
+membership fees/tuition from member school districts.]
+§§ 126C.52,
+126C.53, &
+126C.54
+C. TAX ANTICIPATION CERTIFICATES: (Statutes relating to school districts only)
+1. Was the approving resolution passed by a two-thirds vote of the board 
+membership? (Two-thirds of a quorum is not sufficient.)
+2. Do tax anticipation certificates mature no later than three months after the close 
+of the calendar year in which the certificates were issued?
+3. Do tax anticipation certificates mature no later than the estimated date of receipt 
+in full of the taxes anticipated?
+4. Is the aggregate amount borrowed not more than 75 percent of such taxes which 
+are due and payable in the calendar year, and as to which taxes no penalty for 
+nonpayment or delinquency has attached?
+Minn. Stat. 
+Section
+PUBLIC INDEBTEDNESS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 3-6
+§ 123B.61 D. CERTIFICATES OF INDEBTEDNESS OR CAPITAL NOTES: (School district -
+purchase of certain equipment)
+1. Were the notes or certificates issued to:
+a. purchase vehicles, computers, telephone systems, cable equipment, 
+photocopy and office equipment, technological equipment for instruction, or 
+other capital equipment having an expected useful life at least as long as the 
+terms of the certificates or notes; or
+b. purchase computer hardware and software, without regard to its expected 
+useful life, whether bundled with machinery or equipment or unbundled, 
+together with application development services and training related to the 
+use of the computer; or
+c. prepay special assessments?
+2. Were the notes or certificates payable in not more than 20 years?
+3. Did the sum of the tax levies under Minn. Stat. § 123B.61 and § 123B.62 for 
+each year not exceed the lesser of (1) the district’s total operating capital 
+revenue, or (2) the sum of the district’s levy in the general and community 
+service funds, excluding the adjustments under Minn. Stat. § 123B.61 for the 
+year preceding the year in which the initial debt service levies are certified?
+Was the district’s general fund levy for each year reduced by the sum of (1) the 
+amount of the tax levies for debt service certified for each year for payment of the 
+principal and interest on the certificates or notes issued under Minn. Stat. § 123B.61
+as required by Minn. Stat. § 475.61, and (2) the amount of the tax levies for debt 
+service certified for each year for payment of the principal and interest on bonds 
+issued under § 123B.62, and (3) any excess amount in the debt redemption fund used 
+to retire bonds, certificates, or notes issued under Minn. Stat. §§ 123B.61, .62 after 
+April 1, 1997, other than amounts used to pay capitalized interest?
+4. If the district’s general fund levy is less than the reduction, was the balance 
+deducted first from the district’s community service fund levy, and next from the 
+district’s general fund or community service fund levies for the following year?
+5. If the district used an excess amount in the debt redemption fund to retire the 
+certificates or notes, did the district report this amount to the Commissioner of 
+Education by July 15 of the following year?
+6. If the district used an excess amount in the debt redemption fund to retire the 
+certificates or notes, did the district not have an outstanding capital loan under 
+Minn. Stat. § 126C.69?
+Part III. Answer the following questions for each type of issue that was 
+outstanding at some point during the fiscal year:
+§ 475.61,
+subd. 1
+A. For all school districts, was the certified levy specified and such that it, together 
+with estimated collections of other revenues pledged for the payment of the 
+obligations, will produce five percent in excess of the amount needed to meet the 
+principal and interest payments when due?
+Minn. Stat. 
+Section
+PUBLIC INDEBTEDNESS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 3-7
+1. If not, did the board adopt a resolution levying another amount of such taxes?
+§ 475.61,
+subd. 3
+B. For school districts, did the district report to the Commissioner of Education, the 
+district’s debt redemption fund balance as of June 30 of the prior year attributable to 
+refunding of existing bonds; and
+1. Did the commissioner reduce the levies; or
+2. Did the school board, with the commissioner’s approval, retain all or part of 
+the excess balance?
+§ 475.61,
+subd. 4
+C. 1. For obligations authorized before July 1, 2005, was the amount of any surplus 
+remaining in the debt redemption fund of a school district when the obligations 
+and interest thereon are paid used to reduce the general fund levies or state 
+aids?
+2. For obligations authorized on July 1, 2005 or thereafter, was the amount of any 
+surplus remaining in the debt service fund of a school district when the 
+obligations and interest thereon are paid in full (a) appropriated to any other 
+general purpose without any reductions in state aid or levies or (b) used to 
+reduce the general fund levies or state aid? 
+§ 471.70 D. Has the principal accounting officer of the school district reported, on or before 
+February 1st of each year, to the auditor of each county in which the municipality is 
+situated, the total amount of outstanding obligations and the purpose for which 
+issued, as of December 31st of the preceding year?
+Part IV. Audit Conclusion
+The auditor must state a conclusion--based on this questionnaire and any other audit procedures performed--whether the client has 
+complied with the legal provisions reviewed relating to public indebtedness.
+Conclusion:
+SCHOOL DISTRICT
+CONTRACTING - BID LAWS
+12/2025 School Districts 4-1
+LEGAL COMPLIANCE AUDIT GUIDE
+CONTRACTING - BID LAWS
+Introduction
+A school district entering into an agreement for the sale or purchase of supplies, materials, equipment or the rental 
+thereof, or the construction, alteration, repair or maintenance of real or personal property must abide by the 
+statutes relating to contracting and bidding. In addition, for counties, such statutory requirements also apply to 
+contracts for “work or labor.”
+Complete the questionnaire to determine if the school district conformed to the contracting and bidding statutes.
+Minn. Stat. § 471.345, the Uniform Municipal Contracting Law, was established to provide dollar limits for all 
+municipalities upon contracts which shall or may be entered into on the basis of competitive bids, quotations, or 
+purchase or sale in the open market. Vendors may now submit bids, quotations, and proposals electronically in a 
+form and manner required by the municipality. Minn. Stat. § 471.345, subd. 18. Generally, the following 
+thresholds apply:
+1. For contracts over $175,000 – sealed bids, solicited by public notice and subject to the particular requirements 
+of the governmental subdivision. 
+2. For contracts from $25,000 to $175,000 – sealed bids or direct negotiation, with two quotations whenever 
+possible. 
+3. For contracts of $25,000 or less – open market or quotations (with at least two contract quotations, if 
+practicable). 
+In addition, Minn. Stat. § 471.345, subds. 16 and 17, allow school districts to purchase supplies, materials, and 
+equipment using an electronic reverse auction process; and to sell supplies, materials, and equipment which is 
+surplus, obsolete, or unused using an electronic selling process.
+Best value procurement is a process based on competitive proposals (as an alternative to bids) that awards the 
+contract to “the vendor or contractor offering the best value, taking into account the specifications of the request 
+for proposals, the price and performance criteria as set forth in Minn. Stat. § 16C.28, subd. 1b, and described in 
+the solicitation document.” Minn. Stat. § 16C.28, subd. 1(a)(2). Before administering best value procurement 
+procedures, personnel must be trained in the best value RFP process. See Minn. Stat. § 16C.28, subd. 1d.
+Another alternative to bidding is the “construction manager at risk” contract available for contracts for 
+construction, alteration, repair, or maintenance work. The process of selection of a construction manager at risk 
+as well as the requirements of a construction manager at risk contract are set forth in Minn. Stat. § 471.463.
+12/2025 School Districts 4-2
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-3
+Part I. Uniform Municipal and Contracting Law - Applies to All Municipalities
+A. Generally, for all school districts:
+§ 471.345 The estimated contract amount determines whether sealed bids or quotations are 
+required. Vendors may submit bids, quotations, and proposals electronically in a 
+form and manner required by the school districts.
+1. Contracts over $175,000 (sealed bids or best value procurement)
+a. Sealed bids
+§ 471.345,
+subd. 3
+(1) Have all contracts estimated to exceed $175,000 been let on 
+sealed bids?
+(2) Have the bids been solicited by public notice?
+Minn. Stat.
+§§ 15.17,
+138.17
+(3) Were bids preserved and on file if the appropriate records 
+retention period has not expired? (See Introduction section 
+entitled “Destruction of Records,” pages iii – iv, and the 
+entity’s records retention schedule.)
+Minn. Stat.
+§§ 123B.52,
+subd. 1b;
+and 
+471.345,
+subds. 3a,
+4a, and 5
+b. Best value procurement alternative
+§ 16C.28,
+sub. 1
+If a best value procurement procedure was used as an alternative:
+Minn. Stat.
+§§ 123B.52,
+subd. 1b;
+and 
+471.345,
+subds. 3a,
+4a, and 5
+(1) Was the contract a contract for construction, building, 
+alteration, improvement, repair or maintenance?
+§ 16C.28,
+subd. 1(c)
+(2) Did the solicitation document state the relative weight of price 
+and other selection criteria? 
+(3) Was the award made to the vendor or contractor offering the 
+best value applying the weighted selection criteria? 
+(4) If an interview of the vendor’s or contractor’s personnel was 
+one of the selection criteria, was the relative weight of the 
+interview stated in the solicitation document and applied 
+accordingly? Minn. Stat. § 16C.28, subd. 1(c) (2008).
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-4
+Minn. Stat. 
+§ 471.35, 
+subd. 2
+c. Construction manager at risk alternative.
+Minn. Stat. 
+§ 471.463
+If a construction manager at risk procurement procedure was used as an 
+alternative:
+(1) Was the contract for the construction, alteration, repair, or 
+maintenance work in excess of $175,000?
+(2) Was a solicitation of qualifications prepared for each 
+construction manager that contained at least the following:
+(a) procedures for submitting qualifications, the criteria and 
+subcriteria for evaluating the qualifications and the 
+relative weight for each criteria and subcriteria, and the 
+procedures for making awards in an open, competitive, 
+and objective manner, applying a scoring or trade-off 
+evaluation method, including a reference to the 
+requirements of this section;
+(b) the proposed terms and conditions for the contract;
+(c) the desired qualifications of the construction manager at 
+risk;
+(d) the schedule for commencement and completion of the 
+project;
+(e) any applicable budget limits for the project;
+(f) the requirements for insurance and statutorily required 
+performance and payment bonds; and
+(g) the identification and location of any other information in 
+the possession or control of a municipality that the 
+municipality determines is material, including surveys, 
+soil reports, drawings or models of existing structures, 
+environmental studies, photographs, or references to 
+public records.
+(3) Was the Notice of requests for qualifications advertised in a 
+manner designated by the municipality?
+(4) Did the municipality create a selection committee composed of 
+at least three persons, at least one of whom has construction 
+industry expertise?
+(5) Did the selection committee review the qualification of each 
+proposer and create a short list of two to five proposers?
+(6) If the municipality did not receive at least two proposals from 
+the construction managers, did it:
+(a) solicit new proposals,
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-5
+(b) revise the request for qualifications, and then solicit new 
+proposals using the revised request for qualifications,
+(c) select another procurement method, or
+(d) reject all proposals?
+(7) Did the municipality then issue a request for proposals requiring 
+cost and other information from the short-listed proposers?
+(8) Did the municipality enter into a guaranteed maximum price 
+contract with the construction manager at risk?
+2. Contracts from $25,000 to $175,000 can be made on sealed bids, by direct 
+negotiation based on quotations, or through best value procurement.
+§ 471.345,
+subd. 4
+a. Sealed bids or quotations
+(1) Have contracts estimated to exceed $25,000 but not to exceed 
+$175,000 been let on sealed bids or negotiated quotes?
+(2) If sealed bids were used, were the requirements of A.1. met?
+(3) If quotations were used and obtaining two or more quotes was 
+possible, were two or more quotes obtained?
+(4) If quotations were used, were the quotations kept on file for at 
+least one year?
+Minn. Stat.
+§§ 123B.52,
+subd. 1b;
+and 
+471.345,
+subds. 3a,
+4a, and 5
+b. Best value procurement alternative
+§ 16C.28,
+subd. 1
+If a best value procurement procedure was used as an alternative:
+Minn. Stat.
+§§ 123B.52,
+subd. 1b;
+and 
+471.345,
+subds. 3a,
+4a, and 5
+(1) Was the contract a contract for construction, building, 
+alteration, improvement, repair or maintenance?
+§ 16C.28,
+subd. 1(c)
+(2) Did the solicitation document state the relative weight of price 
+and other selection criteria? 
+(3) Was the award made to the vendor or contractor offering the 
+best value applying the weighted selection criteria?
+ 
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-6
+(4) If an interview of the vendor’s or contractor’s personnel was 
+one of the selection criteria, was the relative weight of the 
+interview stated in the solicitation document and applied 
+accordingly? Minn. Stat. § 16C.28, subd. 1(c) (2008).
+3. Contracts estimated to be $25,000 or less may be made either upon 
+quotation, in the open market, or through best value procurement.
+§ 471.345,
+subd. 5
+a. If quotations were used, are they on file?
+Minn. Stat.
+§§ 123B.52,
+subd. 1b;
+and 
+471.345,
+subds. 3a,
+4a, and 5
+b. Best value procurement alternative
+§ 16C.28,
+subd. 1
+If a best value procurement procedure was used as an alternative:
+Minn. Stat.
+§§ 123B.52,
+subd. 1b;
+and 
+471.345,
+subds. 3a,
+4a, and 5
+(1) Was the contract a contract for construction, building, 
+alteration, improvement, repair or maintenance?
+§ 16C.28,
+subd. 1(c)
+(2) Did the solicitation document state the relative weight of price 
+and other selection criteria? 
+(3) Was the award made to the vendor or contractor offering the 
+best value applying the weighted selection criteria?
+ 
+(4) If an interview of the vendor’s or contractor’s personnel was 
+one of the selection criteria, was the relative weight of the 
+interview stated in the solicitation document and applied 
+accordingly? Minn. Stat. § 16C.28, subd. 1(c).
+§ 471.345,
+subd. 16
+B. Reverse Auction Purchase
+If the school district contracted to purchase using an electronic purchasing 
+process: 
+1. Was the purchase a purchase of supplies, materials, or equipment, and not a 
+contract for services or a service contract as defined in Minn. Stat. 
+§§ 16C.02, subds. 7(a) and 17; and
+2. Was the electronic process a purchasing process in which vendors competed 
+to provide the supplies, materials, or equipment at the lowest selling price in 
+an open and interactive environment?
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-7
+§ 471.345,
+subd. 17
+C. Electronic Sale
+If the school district contracted to sell using an electronic selling process:
+1. Was the sale a sale of supplies, materials, or equipment which was surplus, 
+obsolete, or unused; and
+2. Was the electronic process a selling process in which purchasers competed 
+to purchase the surplus supplies, materials, or equipment at the highest 
+purchase price in an open and interactive environment?
+§ 331A.03,
+subd. 3
+D. Alternative Dissemination of Bids and Requests
+If, as an alternative to publishing them in a newspaper, a school district
+disseminated solicitations of bids, requests for information or requests for 
+proposals by using a Web site or recognized industry trade journals:
+1. Did the school district simultaneously publish, either in minutes or 
+separately, in a notice published in the official newspaper, a description of 
+all solicitations or requests so disseminated, along with the means by which 
+the disseminations occurred?
+2. Was the dissemination by alternative means in substantially the same format 
+and for the same period of time as a publication in a qualified newspaper?
+3. For the first six months after the school district designated an alternative 
+means of dissemination, did it continue to publish solicitation of bids, 
+requests for information, and requests for proposals in the official newspaper 
+in addition to the alternative method?
+4. Did the publication in the official newspaper indicate where to find the 
+designated alternative method?
+§ 331A.01,
+subd. 11
+Note: “Recognized industry trade journal” means a printed or digital
+publication or Web site that contains building and construction news of 
+interest to contractors in this state, or that publishes project advertisements
+and bids for review by contractors or other interested bidders in its regular
+course of business.
+§ 471.345,
+subd. 15
+E. If the municipality contracted for the purchase of supplies, materials, or 
+equipment without regard to competitive bidding requirements, was the purchase 
+through the State of Minnesota’s cooperative purchasing venture or a national 
+municipal association’s purchasing alliance or cooperative created by a joint 
+powers agreement that purchases items from more than one source on the basis of 
+competitive bids or competitive quotations?
+§ 471.345,
+subd. 15
+F. For each contract for the purchase of supplies, materials, or equipment over 
+$25,000, did the municipality consider the availability, price and quality of 
+supplies, materials, or equipment available through the state's cooperative 
+purchasing venture before purchasing through another source?
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-8
+Note: Exceptions to the competitive bidding requirements of Minn. Stat. 
+§ 471.345 exist for water tank service contracts, procurement from economically 
+disadvantaged persons, shared hospital or ambulance service purchasing, fuel 
+contracts for generation of municipal power, procurement from rehabilitation 
+facilities, energy efficient projects, solid waste contracts, and town road 
+construction or maintenance contracts based on terms of county contracts for 
+adjoining roads. If a contract you audit falls into one of these categories, review 
+the relevant exceptions to see if its criteria are met. See Minn. Stat. §§ 471.345, 
+subds. 5b, 8, 10, 11, 12, 13, and 19; and 400.04.
+§ 16C.285 G. Responsible Contractor Requirement
+For each construction contract in excess of $50,000, awarded pursuant to a lowest 
+responsible bidder or best value process, did the successful contractor submit a 
+verification of compliance signed under oath by an owner or officer verifying 
+compliance with the minimum criteria set forth in Minn. Stat. § 16C.285, 
+subdivision 3 (with the exception of clause (7), as required by Minn. Stat. 
+§ 16C.285, subdivision 4?
+H. Other Considerations
+§ 471.35 1. Specifications on contracts. If sealed bids were solicited, were the 
+specifications written so as not to exclude all but one type or kind of 
+supplies or equipment?
+2. Interest in contract. (See Conflicts of Interest Section, page 2-1.)
+§ 574.26 3. Contractor’s performance and payment bonds. Contractors doing public 
+work are required to give both a performance bond and a payment bond in 
+an amount not less than the contract price if the contract is more than 
+$175,000.
+a. Were bonds received for all contracts greater than $175,000?
+b. Were the amounts sufficient?
+Note: The contractor’s performance and payment bond requirement does not 
+apply to contracts for snow removal, ice removal, grading, or other similar routine 
+road maintenance on town roads.
+§ 574.261,
+subd. 1a
+Note: If the project is under $50,000, contractor may provide for irrevocable 
+bank letter of credit in place of a performance bond provided the letter of credit is 
+subject to the same conditions as a performance bond.
+For school district contracts limited to the purchase of a finished tangible product, 
+see note in Part II.D., infra.
+§ 471.6161 I. Group Insurance
+A school district that provides group insurance for 25 or more employees must 
+comply with certain bidding requirements in contracting for or renewing said 
+insurance.
+§ 43A.316,
+subd. 10
+Note: School districts participating in the public employee insurance program are 
+exempt from the bidding requirements of Minn. Stat. § 471.6161. If this 
+exemption does not apply:
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-9
+§ 471.6161,
+subd. 2
+1. Was the request for proposals (RFP) in writing?
+2. Did the RFP include:
+a. the coverage to be provided;
+b. the criteria for evaluation of proposals; and
+c. the aggregate claims record for the appropriate period?
+3. Was the RFP notice placed in a newspaper or trade journal at least 21 days 
+before the final date for submitting proposals?
+§ 471.6161,
+subd. 3
+4. Was a written rationale explaining the political subdivision’s decision 
+prepared prior to entering into a contract?
+§ 471.6161,
+subd. 8
+5. If the exclusive representative of the largest employment group in the school 
+district did not agree otherwise, was the term of the contract two years or 
+less?
+§ 471.3455 J. Public Safety Equipment Purchase or Lease (Applies to statutory or home rule 
+charter cities, counties, towns, special taxing districts or any other political 
+subdivision that acquires public safety equipment.)
+If equipment was acquired pursuant to this statute without competitive 
+bidding or proposals:
+1. Was the public safety equipment used, and
+2. was the equipment “public safety equipment,” defined as vehicles and 
+specialized equipment used by a fire department, as defined in Minn. Stat. 
+§ 299N.01, subdivision 2, in firefighting, ambulance and emergency medical 
+treatment services, rescue, and hazardous materials response, and
+3. was the equipment clearly and legitimately limited to a single source of 
+supply? 
+§ 471.425,
+subd. 4a
+K. Did each contract between the school district and a prime contractor require the 
+prime contractor to pay subcontractors within ten days of receipt of payment from 
+the government entity or pay interest at the rate of 1½ percent per month or any 
+part of a month?
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-10
+§ 15.72
+(See also
+§ 541.051,
+subd. 1(a))
+L. Retainage
+For a contract for public improvement, a public contracting agency may withhold 
+up to five percent of any progress payment as retainage to ensure satisfactory 
+performance. If it does so, it must release the retainage no more than 60 days after 
+substantial completion.
+“Substantial completion” is the date when construction is sufficiently completed so 
+that the owner can occupy or use the improvement for the intended purpose. For 
+streets, highways, and bridges, “substantial completion” is defined as the date 
+when construction-related traffic devices and ongoing inspections are no longer 
+required. 
+The public contracting agency is permitted to continue to withhold the following 
+two amounts even after the 60-day period:
+1. up to 250 percent of the cost to correct or complete work known at the time of 
+substantial completion, and
+2. the greater of $500 or one percent of the value of the contract pending 
+submission of final paperwork.
+The first amount must be released within 60 days of work completion. The second 
+must be released within 60 days of submission of final paperwork.
+If the school district withheld retainage in a contract for public improvement, did it 
+release the retainage 60 days after substantial completion, except for those amounts 
+permitted to be withheld to complete or correct work, and for final paperwork?
+§ 270C.66 M. Withholding Affidavit/Certificate
+Before making final settlement with any contractor under a contract requiring the 
+employment of employees for wages by said contractor and by subcontractors, did 
+the school district obtain a certificate by the Commissioner of Revenue that the 
+contractor or subcontractor has complied with the withholding requirements of 
+Minn. Stat. § 290.92 (either Form IC134 or a Contractor’s Withholding Affidavit 
+Confirmation)?
+Part II. Laws Relating Specifically to School Districts
+§ 123B.52,
+subd. 1
+A. School Districts (For contracts awarded by bidding)
+1. Advertisement for Bids
+a. Was two weeks published notice of the request for bids made in the 
+official newspaper? (For alternative methods, see Section I.D., 
+above.)
+b. Did the notice state the time and place for submitting bids?
+c. Did the notice include a brief description of the subject matter?
+§ 123B.52,
+subd. 1
+2. Awarding the Contract
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-11
+a. Was the contract awarded to the lowest responsible bidder?
+b. If the contract was not awarded to the lowest bidder, were reasonable 
+and appropriate reasons documented in the minutes?
+c. Was the contract executed in writing?
+d. Was a faithful performance bond received from the contractor?
+Note: If the contract is limited to the purchase of a finished tangible product, the board 
+may require, at its discretion, a performance bond in the amount it deems necessary.
+3. Contract Duration
+a. If the contract was a standard requirement price contract awarded on 
+bid, did the term of the contract not exceed two years with an option 
+on the part of the school district to renew for an additional two years?
+Note: Food service contracts in compliance with 7 cfr 210.16 may be renewed 
+annually after their initial term for not more than four years. Contracts for the 
+transportation of school children or fuel for heating or transportation must not 
+exceed ten years.
+§ 123B.52,
+subd. 1
+4. Are records retained on all bids with:
+a. the names of the bidders;
+b. the amounts of the bids;
+c. an indication as to the successful bidder?
+§ 123B.52,
+subd. 1a
+5. If a project labor agreement is used to construct or repair a facility:
+a. did the school board adopt at a public meeting a written resolution 
+authorizing the project labor agreement? and
+b. did the school board publish notice of the meeting in the district’s 
+official newspaper at least 30 days in advance?
+§ 123B.52,
+subd. 1
+6. Tie Low Bids or Single Bids
+a. In the case of identical low bids from two or more bidders, the board 
+may, at its discretion, utilize negotiated procurement methods with the 
+tied low bidders for that particular transaction, so long as the price 
+paid does not exceed the low tied bid price.
+(1) If there were any tie low bids, was the ultimate price paid less 
+than or equal to the tie low bid price?
+b. In the case where only a single bid is received, the board may, at its 
+discretion, negotiate a mutually agreeable contract with the bidder so 
+long as the price paid does not exceed the original bid.
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-12
+(1) If there were any cases of single bids, was the ultimate price 
+paid less than or equal to the bid?
+§ 123B.52,
+subds. 1 & 3
+7. Direct Negotiated Contracts
+a. Contracts for the purchase of perishable foods. Perishable food items 
+(except milk for school lunches and vocational training programs) in 
+any amount may be made by direct negotiation with two or more 
+quotations received without advertising for bids. Were 
+writtenquotations received and were they kept on file for at least one 
+year?
+b. Contracts for transportation/fuel. A contract for transportation of 
+school children or for the purchase of petroleum heating fuel or fuel 
+for vehicles may be made by direct negotiation by obtaining two or 
+more written quotations when possible or on sealed bids.
+(1) If a contract was made by direct negotiations, were quotations 
+requested by published notice at least 30 days before the 
+contract was awarded?
+(2) Were written quotes received and were all quotations kept on 
+file for at least one year?
+§ 123B.52,
+subd. 6
+8. School District Surplus Computers Exception
+If the school district disposed of a surplus school computer and related 
+equipment without complying with the competitive bidding requirements of 
+Minn. Stat. § 471.345, did the district: 
+Dispose of the surplus computer and related equipment by conveying the 
+property and title to another school district, the State Department of 
+Corrections, the board of trustees of the Minnesota state colleges and 
+universities, the family of a student residing in the district whose total family 
+income meets the federal definition of poverty, or a 501(c)(3) charitable 
+organization registered with the Attorney General’s Office for educational 
+use, or
+Sell or give the computer/tablet used primarily by students, to a qualified 
+student in accordance with a board resolution made pursuant to Minn. Stat. 
+§ 123B.52, subd., 6. Students are eligible to apply for the computer/tablet if 
+they are currently enrolled and intend to enroll the year after receipt of the 
+computer/tablet. If more students apply than available computers/tablets, 
+school must first qualify students from families eligible for free or 
+reduced-priced meals, then dispose of the remaining computers/tablets by 
+lottery.
+§ 123B.52,
+subd. 6a
+9. Disposition of Surplus Books
+If the school district disposed of school books, including library books, and 
+textbooks with accompanying materials without following Minn. Stat. 
+§§ 471.345, 123B.52 or any other provisions, did it do so by:
+a. Donating them to a family of a student residing in the district, or
+b. Donating them to a charitable organization under section 501(c)(3) of 
+the I.R.S. Code?
+Minn. Stat. 
+Section
+CONTRACTING - BID LAWS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 4-13
+Part III. Audit Conclusion
+The auditor must state a conclusion--based on this questionnaire and any other audit procedures performed--whether the client has 
+complied with the legal provisions reviewed relating to miscellaneous provisions.
+Conclusion:
+SCHOOL DISTRICT
+CLAIMS AND DISBURSEMENTS
+12/2025 School Districts 5-1
+LEGAL COMPLIANCE AUDIT GUIDE
+CLAIMS AND DISBURSEMENTS
+Introduction
+Municipal transactions involving an account, claim, or demand made for any property or service which can be 
+itemized in the ordinary course of business and disbursements of municipal funds are covered in this section.
+“Municipality” for the purposes of this section includes school districts. In addition, Minn. Stat. § 471.425
+(Prompt Payment of Local Government Bills), applies to school districts. 
+Minn. Stat. 
+Section
+CLAIMS AND DISBURSEMENTS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 5-2
+Part I. General Provisions
+§ 471.38,
+subd. 1
+A
+.
+Has every person, or the person’s agent, claiming payment provided an itemized 
+list in writing or electronic transaction record?
+§ 471.425,
+subd. 2
+B. Prompt Payment of Local Government Bills
+- Standard payment period is:
+- 35 days from receipt for governing boards that meet at least once a 
+month;
+- 45 days from receipt of goods or services or invoice, whichever is 
+later, for governing boards that do not meet at least once per month; 
+and
+- 45 days from receipt for joint powers entities.
+§ 471.425,
+subd. 2
+1. Were all bills paid within the time period set by the terms of the contract or 
+within the standard payment period?
+§ 471.425,
+subd. 4
+- The government entity must pay interest on bills not paid in a timely 
+manner. The interest rate is 1½ percent per month or part of a month. 
+The minimum monthly interest on a bill of $100 or more is $10.
+§ 471.425,
+subd. 4
+2. For bills paid after the time period set by the contract or the standard payment 
+period, did the government entity calculate and pay interest as required by 
+law?
+Note: The interest penalties in these questions do not apply to good faith 
+disputes.
+Part II. Electronic Funds Transfer - For School Districts Specifically
+§§ 471.38,
+subds. 3
+and 3a
+A. School districts may make electronic funds transfers under certain conditions.
+1. A school district may make electronic funds transfers for:
+a. a claim for payment from an imprest payroll bank account or 
+investment of excess money;
+b. payment of tax or aid anticipation certificates;
+c. payment of contributions to a pension or retirement fund;
+d. vendor payments; and
+e. payment of bond principal, bond interest, and a fiscal agent service 
+charge from the debt redemption fund.
+B. Did the school district use electronic funds transfers only for the above 
+enumerated transactions?
+Minn. Stat. 
+Section
+CLAIMS AND DISBURSEMENTS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 5-3
+C. Did the school district enact a plan containing the following policy controls 
+requiring:
+1. annual delegation of authority to make electronic funds transfers to a chief 
+financial officer or the officer’s designee?
+2. the disbursing bank to keep a certified copy of delegation of authority?
+3. identification of the initiator of each electronic transfer?
+4. the initiator to document the request and obtain approval for each transfer 
+from the chief financial officer or the officer’s designee, before initiating the 
+transfer, as required by the internal control policies?
+5. written confirmation of each transaction within one business day?
+6. a list of transactions to be submitted to the school board at the next regular 
+meeting after the transaction?
+Part III. Payments With Credit Cards - School Districts
+§ 123B.02,
+subd. 23
+A. If a school district officer or employee made a purchase on behalf of the school 
+district by credit card:
+1. Had the school district authorized the use of the credit card by the officer or 
+employee;
+2. Was the officer or employee otherwise authorized to make a purchase on 
+behalf of the school district; and
+3. Did the purchase otherwise comply with all statutes, rules, and school district 
+policies applicable to school district purchases?
+B. If a school district officer or employee made a purchase by credit card that was 
+not approved by the school district, was the officer or employee held personally 
+liable for the amount of the purchase?
+Part IV. Audit Conclusion
+The auditor must state a conclusion--based on this questionnaire and any other audit procedures performed--whether the client has 
+complied with the legal provisions reviewed relating to claims and disbursements.
+Conclusion:
+School District
+Examples of Independent Auditor’s Reports
+12/2025 School Districts 6-1
+Legal Compliance Audit Guide
+Examples of Independent Auditor’s Reports
+Minnesota Legal Compliance
+ School Districts – Government Auditing Standards 6-2
+Combined Report
+ Report on Internal Control Over Financial Reporting 
+ and on Compliance and Other Matters Based on an Audit
+ of Financial Statements Performed in Accordance with
+ Government Auditing Standards 6-4
+12/2025 School Districts 6-2
+Independent auditor’s report for school districts. (Note: Eliminate this paragraph in red before issuing 
+the report. Professional guidance can be found at AU-C 806.)
+Minnesota Legal Compliance
+Independent Auditor’s Report
+(School Board)
+(School District)
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards,
+issued by the Comptroller General of the United States, the financial statements of the (list related
+opinion units) of (district name) as of and for the year ended June 30, 2026, and the related notes to the 
+financial statements, which collectively comprise the District’s basic financial statements, and have 
+issued our report thereon dated __________.
+In connection with our audit, nothing came to our attention that caused us to believe that (district 
+name) failed to comply with the provisions of the contracting – bid laws, depositories of public funds 
+and public investments, conflicts of interest, public indebtedness, claims and disbursements, 
+miscellaneous provisions, and uniform financial accounting and reporting standards for Minnesota 
+school districts (UFARS) (delete sections not required to test) sections of the Minnesota Legal 
+Compliance Audit Guide for School Districts, promulgated by the State Auditor pursuant to Minn. Stat. § 
+6.65, insofar as they relate to accounting matters. However, our audit was not directed primarily toward 
+obtaining knowledge of such noncompliance. Accordingly, had we performed additional procedures, 
+other matters may have come to our attention regarding the District’s noncompliance with the above 
+referenced provisions, insofar as they relate to accounting matters. 
+• If legal compliance findings are reported, use the following wording:
+In connection with our audit, we noted that (district name) failed to comply with provisions of the (list 
+section titles of guide in which noncompliance was identified) of the Minnesota Legal Compliance Audit 
+Guide for School Districts, promulgated by the State Auditor pursuant to Minn. Stat. § 6.65, insofar as 
+they relate to accounting matters as described in the (schedule name where findings are listed) as items 
+(list related finding reference numbers). Also, in connection with our audit, nothing came to our 
+attention that caused us to believe that (district name) failed to comply with the provisions of the 
+contracting – bid laws, depositories of public funds and public investments, conflicts of interest, public 
+indebtedness, claims and disbursements, miscellaneous provisions, and uniform financial accounting 
+and reporting standards for Minnesota school districts (UFARS) (delete sections not required to test & 
+delete any section titles that identified reported findings) sections of the Minnesota Legal Compliance 
+Audit Guide for School Districts, insofar as they relate to accounting matters. However, our audit was not 
+directed primarily toward obtaining knowledge of such noncompliance. Accordingly, had we performed 
+additional procedures, other matters may have come to our attention regarding the District’s 
+noncompliance with the above referenced provisions, insofar as they relate to accounting matters.
+12/2025 School Districts 6-3
+Government Auditing Standards requires the auditor to perform limited procedures on the (district 
+name)’s response to the legal compliance findings identified in our audit and described in the 
+accompanying (name of report where the responses/corrective action plans are included). The District’s 
+response was not subjected to the other auditing procedures applied in the audit of the financial 
+statements and, accordingly, we express no opinion on the response.
+[Leave out if no findings and no responses are included.]
+The purpose of this report is solely to describe the scope of our testing of compliance and the results of 
+that testing, and not to provide an opinion on compliance. Accordingly, this communication is not 
+suitable for any other purpose. 
+(Signature)
+(Date)
+12/2025 School Districts 6-4
+Auditor’s internal control and compliance report based on an audit of financial statements performed in 
+accordance with Government Auditing Standards and the Minnesota Legal Compliance Audit Guide for 
+School Districts. (Note: Eliminate this paragraph in red before issuing the report.)
+Report on Internal Control Over Financial Reporting and on Compliance and
+Other Matters Based on an Audit of Financial Statements Performed in
+Accordance with Government Auditing Standards
+Independent Auditor’s Report
+(School Board)
+(School District)
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards,
+issued by the Comptroller General of the United States, the financial statements of (list related opinion 
+units) of (district name) as of and for the year ended June 30, 2026, and the related notes to the 
+financial statements, which collectively comprise the District’s basic financial statements, and have 
+issued our report thereon dated __________. 
+Report on Internal Control Over Financial Reporting*
+In planning and performing our audit of the financial statements, we considered (district name)’s 
+internal control over financial reporting as a basis for designing audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinions on the financial statements, but not for 
+the purpose of expressing an opinion on the effectiveness of the District’s internal control over financial 
+reporting. Accordingly, we do not express an opinion on the effectiveness of the District’s internal 
+control over financial reporting.
+A deficiency in internal control over financial reporting exists when the design or operation of a control 
+does not allow management or employees, in the normal course of performing their assigned functions, 
+to prevent, or detect and correct, misstatements on a timely basis. A material weakness is a deficiency, 
+or combination of deficiencies, in internal control over financial reporting such that there is a reasonable 
+possibility that a material misstatement of the District’s financial statements will not be prevented, or 
+detected and corrected, on a timely basis. A significant deficiency is a deficiency, or combination of 
+deficiencies, in internal control over financial reporting that is less severe than a material weakness, yet 
+important enough to merit the attention of those charged with governance.
+Our consideration of internal control over financial reporting was for the limited purpose described in 
+the first paragraph of this section and was not designed to identify all deficiencies in internal control 
+over financial reporting that might be material weaknesses or significant deficiencies. Given these 
+limitations, during our audit we did not identify any deficiencies in internal control over financial 
+reporting that we consider to be material weaknesses. However, material weaknesses or significant 
+deficiencies may exist that have not been identified.
+Report on Compliance and Other Matters**
+12/2025 School Districts 6-5
+As part of obtaining reasonable assurance about whether (district name)’s financial statements are free 
+from material misstatement, we performed tests of its compliance with certain provisions of laws, 
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and 
+material effect on the financial statements. However, providing an opinion on compliance with those 
+provisions was not an objective of our audit and, accordingly, we do not express such an opinion. The 
+results of our tests disclosed no instances of noncompliance or other matters that are required to be 
+reported under Government Auditing Standards.
+Minnesota Legal Compliance
+In connection with our audit, nothing came to our attention that caused us to believe that (district 
+name) failed to comply with the provisions of the contracting – bid laws, depositories of public funds 
+and public investments, conflicts of interest, public indebtedness, claims and disbursements, 
+miscellaneous provisions, and uniform financial accounting and reporting standards for Minnesota 
+school districts (UFARS) (delete sections not required to test) sections of the Minnesota Legal 
+Compliance Audit Guide for School Districts, promulgated by the State Auditor pursuant to Minn. Stat. § 
+6.65, insofar as they relate to accounting matters. However, our audit was not directed primarily toward 
+obtaining knowledge of such noncompliance. Accordingly, had we performed additional procedures, 
+other matters may have come to our attention regarding the District’s noncompliance with the above 
+referenced provisions, insofar as they relate to accounting matters.*** 
+[District Name]’s Response to Findings
+Government Auditing Standards requires the auditor to perform limited procedures on the (district 
+name)’s response to the internal control and legal compliance findings (adjust as necessary for what 
+they responded to) identified in our audit and described in the accompanying (name of report where the 
+responses/corrective action plans are included). The District’s response was not subjected to the other 
+auditing procedures applied in the audit of the financial statements and, accordingly, we express no 
+opinion on the response.
+[Leave out if no findings and no responses are included.]
+Purpose of This Report
+The purpose of this report is solely to describe the scope of our testing of internal control over financial 
+reporting and compliance, and the provisions of the Minnesota Legal Compliance Audit Guide for School 
+Districts and the results of that testing, and not to provide an opinion on the effectiveness of the 
+District’s internal control over financial reporting or on compliance. This report is an integral part of an 
+audit performed in accordance with Government Auditing Standards in considering the District’s internal 
+control over financial reporting and compliance. Accordingly, this communication is not suitable for any 
+other purpose. 
+(Signature)
+(Date)
+12/2025 School Districts 6-6
+*Paragraphs to be used when no significant deficiencies or material weaknesses are identified.
+• If significant deficiencies, but no material weaknesses, are identified, use the following wording:
+In planning and performing our audit of the financial statements, we considered (district name)’s 
+internal control over financial reporting as a basis for designing audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinions on the financial statements, but not for 
+the purpose of expressing an opinion on the effectiveness of the District’s internal control over financial 
+reporting. Accordingly, we do not express an opinion on the effectiveness of the District’s internal 
+control over financial reporting.
+A deficiency in internal control over financial reporting exists when the design or operation of a control 
+does not allow management or employees, in the normal course of performing their assigned functions, 
+to prevent, or detect and correct, misstatements on a timely basis. A material weakness is a deficiency, 
+or combination of deficiencies, in internal control over financial reporting such that there is a reasonable 
+possibility that a material misstatement of the District’s financial statements will not be prevented, or 
+detected and corrected, on a timely basis. A significant deficiency is a deficiency, or combination of 
+deficiencies, in internal control over financial reporting that is less severe than a material weakness, yet 
+important enough to merit the attention of those charged with governance.
+Our consideration of internal control over financial reporting was for the limited purpose described in 
+the first paragraph of this section and was not designed to identify all deficiencies in internal control 
+over financial reporting that might be material weaknesses or significant deficiencies and, therefore, 
+material weaknesses or significant deficiencies may exist that were not identified. Given these 
+limitations, during our audit, we did not identify any deficiencies in internal control over financial 
+reporting that we consider to be material weaknesses. We identified certain deficiencies (a deficiency)
+in internal control over financial reporting, described in the accompanying (schedule name where 
+findings are listed) as items (list related finding numbers) that we consider to be significant deficiencies 
+(a significant deficiency). 
+• If material weaknesses and no significant deficiencies are identified, use the following wording:
+In planning and performing our audit of the financial statements, we considered (district name)’s 
+internal control over financial reporting as a basis for designing audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinions on the financial statements, but not for 
+the purpose of expressing an opinion on the effectiveness of the District’s internal control over financial 
+reporting. Accordingly, we do not express an opinion on the effectiveness of the District’s internal 
+control over financial reporting.
+A deficiency in internal control over financial reporting exists when the design or operation of a control 
+does not allow management or employees, in the normal course of performing their assigned functions, 
+to prevent, or detect and correct, misstatements on a timely basis. A material weakness is a deficiency, 
+or combination of deficiencies, in internal control over financial reporting such that there is a reasonable 
+possibility that a material misstatement of the District’s financial statements will not be prevented, or 
+detected and corrected, on a timely basis. A significant deficiency is a deficiency, or combination of 
+deficiencies, in internal control over financial reporting that is less severe than a material weakness, yet 
+important enough to merit the attention of those charged with governance.
+Our consideration of internal control over financial reporting was for the limited purpose described in 
+the first paragraph of this section and was not designed to identify all deficiencies in internal control 
+over financial reporting that might be material weaknesses or significant deficiencies and, therefore, 
+12/2025 School Districts 6-7
+material weaknesses or significant deficiencies may exist that were not identified. We identified certain 
+deficiencies (a deficiency) in internal control over financial reporting, described in the accompanying 
+(schedule name where findings are listed) as items (list related finding numbers), that we consider to be 
+material weaknesses (a material weakness). 
+• If material weaknesses and significant deficiencies are identified, use the following wording:
+In planning and performing our audit of the financial statements, we considered (district name)’s 
+internal control over financial reporting as a basis for designing audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinions on the financial statements, but not for 
+the purpose of expressing an opinion on the effectiveness of the District’s internal control over financial 
+reporting. Accordingly, we do not express an opinion on the effectiveness of the District’s internal 
+control over financial reporting.
+Our consideration of internal control over financial reporting was for the limited purpose described in 
+the preceding paragraph and was not designed to identify all deficiencies in internal control over 
+financial reporting that might be material weaknesses or significant deficiencies and, therefore, material 
+weaknesses or significant deficiencies may exist that were not identified. However, as described in the 
+accompanying (schedule name where findings are listed), we identified certain deficiencies in internal 
+control over financial reporting that we consider to be material weaknesses (a material weakness) and 
+significant deficiencies (a significant deficiency).
+A deficiency in internal control over financial reporting exists when the design or operation of a control 
+does not allow management or employees, in the normal course of performing their assigned functions, 
+to prevent, or detect and correct, misstatements on a timely basis. A material weakness is a deficiency, 
+or combination of deficiencies, in internal control over financial reporting such that there is a reasonable 
+possibility that a material misstatement of the District’s financial statements will not be prevented, or 
+detected and corrected, on a timely basis. We consider the deficiencies (deficiency) described in the 
+accompanying (schedule name where findings are listed) as items (list related finding numbers) to be 
+material weaknesses (a material weakness).
+A significant deficiency is a deficiency, or combination of deficiencies, in internal control over financial 
+reporting that is less severe than a material weakness, yet important enough to merit attention by those 
+charged with governance. We consider the deficiencies (deficiency) described in the accompanying 
+(schedule name where findings are listed) as items (list related finding numbers) to be significant 
+deficiencies (a significant deficiency).
+**Paragraph to be used when there are no reportable instances of noncompliance or other matters.
+• If instances of noncompliance are reported, use the following wording:
+As part of obtaining reasonable assurance about whether (district name)’s financial statements are free 
+from material misstatement, we performed tests of its compliance with certain provisions of laws, 
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and 
+material effect on the financial statements. However, providing an opinion on compliance with those 
+provisions was not an objective of our audit and, accordingly, we do not express such an opinion. The 
+results of our tests disclosed instances of noncompliance or other matters that are required to be 
+reported under Government Auditing Standards, and which are described in the accompanying 
+(schedule name where findings are listed) as items (list related finding numbers).
+***Paragraph when there are no legal compliance findings.
+12/2025 School Districts 6-8
+• If legal compliance findings are reported, use the following wording:
+In connection with our audit, we noted that (district name) failed to comply with provisions of the (list 
+section titles of guide in which noncompliance was identified) of the Minnesota Legal Compliance Audit 
+Guide for School Districts, promulgated by the State Auditor pursuant to Minn. Stat. § 6.65, insofar as 
+they relate to accounting matters as described in the (schedule name where findings are listed) as items 
+(list related finding reference numbers). Also, in connection with our audit, nothing came to our 
+attention that caused us to believe that (district name) failed to comply with the provisions of the 
+contracting – bid laws, depositories of public funds and public investments, conflicts of interest, public 
+indebtedness, claims and disbursements, miscellaneous provisions, and uniform financial accounting 
+and reporting standards for Minnesota school districts (UFARS) (delete sections not required to test & 
+delete any section titles that identified reported findings) sections of the Minnesota Legal Compliance 
+Audit Guide for School Districts, insofar as they relate to accounting matters. However, our audit was not 
+directed primarily toward obtaining knowledge of such noncompliance. Accordingly, had we performed 
+additional procedures, other matters may have come to our attention regarding the District’s 
+noncompliance with the above referenced provisions, insofar as they relate to accounting matters.
+UNIFORM FINANCIAL ACCOUNTING
+AND REPORTING STANDARDS (UFARS)
+FOR MINNESOTA SCHOOL DISTRICTS
+AND CHARTER SCHOOLS
+12/2025 School Districts 7-1
+LEGAL COMPLIANCE AUDIT GUIDE
+UNIFORM FINANCIAL ACCOUNTING AND REPORTING STANDARDS (UFARS)
+FOR MINNESOTA SCHOOL DISTRICTS AND CHARTER SCHOOLS
+Introduction
+Minnesota law requires that the audits of all school districts, all governmental units formed by joint powers 
+agreements entered into by school districts, and all service cooperatives and education districts must include a 
+determination of compliance with uniform financial accounting and reporting standards (UFARS). Minn. Stat. 
+§§ 6.65; 123B.77, subd. 3. This requirement applies to charter schools under Minn. Stat. § 124E.16, subd. 1(a).
+Minn. Stat. § 6.65 states (emphasis added):
+The state auditor shall prescribe minimum procedures and the audit scope for auditing the books, 
+records, accounts, and affairs of political subdivisions in Minnesota. The minimum scope for audits 
+of all political subdivisions must include financial and legal compliance audits. Audits of all school 
+districts must include a determination of compliance with uniform financial accounting and reporting 
+standards. The state auditor shall promulgate an audit guide for legal compliance audits, in 
+consultation with representatives of the state auditor, the attorney general, towns, cities, counties, 
+school districts, and private sector public accountants.
+Minn. Stat. § 123B.77, subd. 3, states (emphasis added):
+By November 30 of the calendar year of the submission of the unaudited financial data, the district 
+must provide to the commissioner audited financial data for the preceding fiscal year. The audit must 
+be conducted in compliance with generally accepted governmental auditing standards, the federal 
+Single Audit Act, and the Minnesota legal compliance guide issued by the Office of the State Auditor. 
+An audited financial statement prepared in a form which will allow comparison with and correction 
+of material differences in the unaudited financial data shall be submitted to the commissioner and the 
+state auditor by December 31. The audited financial statement must also provide a statement of 
+assurance pertaining to uniform financial accounting and reporting standards compliance and a copy 
+of the management letter submitted to the district by the school district’s auditor.
+Uniform Financial Accounting and Reporting Standards (UFARS)
+The uniform financial accounting and reporting standards to be used by school districts for automated state 
+reporting purposes are described in the UFARS Manual and in School Business Bulletins issued by the 
+Minnesota Department of Education. The UFARS Manual and School Business Bulletins provide an account 
+code structure and guidance on application of accounting principles. At any point in time, parts of the UFARS 
+Manual may have been superseded by legislative, program, and accounting principle changes. The School 
+Business Bulletins serve as updates to the UFARS Manual for such changes. It is the auditor’s responsibility 
+to stay abreast of current developments.
+12/2025 School Districts 7-2
+UFARS Compliance
+In order to determine compliance with UFARS, the auditor should consider the following items.
+Account Coding
+Conformance with UFARS includes the classification of revenues and expenditures into appropriate 
+UFARS codes. UFARS revenue and expenditure codes consist of 17 digits organized into six dimensions. 
+Chapter Ten of the UFARS Manual defines how the six dimensions may be combined into valid 17-digit 
+codes for state reporting purposes.
+1. Revenue and expenditure account codes that have been developed by school districts for their internal 
+use must be linked (crosswalked) to the appropriate 17-digit UFARS codes. In some cases, the internal 
+district code bears little resemblance to the UFARS code. The underlying UFARS codes, not the 
+district codes, are used for automated reporting to the state.
+2. Audit procedures should be developed to ensure that revenues and expenditures have been recorded 
+in the proper UFARS codes.
+A. Such procedures must include tests of controls as identified in and where required by the American 
+Institute of Certified Public Accountants (AICPA) Statement of Auditing Standards – Clarity,
+Section AU-C 330, Performing Audit Procedures in Response to Assessed Risks and Evaluating 
+the Audit Evidence Obtained. The procedures developed should be in response to assessed risks 
+identified pursuant to Section AU-C 315, Understanding the Entity and Its Environment and 
+Assessing the Risks of Material Misstatement. Sampling may be used to determine the 
+reasonableness of recorded UFARS amounts and classifications based on examination of source 
+documentation.
+.
+B. Such audit procedures may include the following:
+• Verify appropriate UFARS coding as part of a test of transactions (individual revenue and expenditure 
+transactions).
+• Test linkage (crosswalk) of internal use account codes to the appropriate 17-digit UFARS codes.
+• Review the “UFARS Turnaround Edit Report” for errors. (To access the report, select “Minnesota Funding 
+Reports (MFR)” at: https://public.education.mn.gov/MDEAnalytics/DataTopic.jsp?TOPICID=9, then use 
+the drop downs.)
+• Verify appropriate UFARS coding as part of testing of revenue and expenditure account totals for the 
+year.
+• Other tests that are considered necessary.
+Auditors should use their judgment in determining the nature, timing, and extent of testing necessary to provide 
+a statement of assurance pertaining to UFARS compliance.
+12/2025 School Districts 7-3
+Audit Reporting
+The Auditor’s Report on Compliance should indicate that the audit was conducted to determine conformance 
+with UFARS standards. Chapter Six of this audit guide includes suggested wording for Auditor’s Reports on 
+Compliance.
+SCHOOL DISTRICT
+MISCELLANEOUS PROVISIONS
+12/2025 School Districts 8-1
+LEGAL COMPLIANCE AUDIT GUIDE
+POLITICAL SUBDIVISION MISCELLANEOUS PROVISIONS
+Introduction
+This checklist, “School District Miscellaneous Provisions” must be completed by auditors in the course of each 
+audit of a school district. It contains provisions that do not fit squarely into the other checklists.
+Minn. Stat. 
+Section
+MISCELLANEOUS PROVISIONS
+Yes No
+Workpaper
+Reference
+12/2025 School Districts 8-2
+Part I. School Districts Generally
+§ 13D.01 A. Minnesota Open Meeting Law (Applies to governing body of a school district, 
+unorganized territory, county, city, town, or other public body; and to any 
+committee, subcommittee, board, department, or commission of the public body.)
+1. Were all meetings of the governing board and of any committee, 
+subcommittee, board, department, or commission of the governing board 
+open to the public?
+2. If a meeting was closed, did the governing board state on the record the 
+specific grounds permitting the meeting to be closed and describe the 
+subject to be discussed?
+§§ 13D.05,
+subd. 1(d),
+13D.03
+3. Were all closed meetings, except those closed as permitted by the 
+attorney-client privilege, electronically recorded at the expense of the 
+public body?
+§§ 345.38-
+.43
+B. Unclaimed Property (Applies to any court, public corporation, public authority or 
+public officer of this state, or a political subdivision.)
+If the political subdivision’s records show unclaimed or uncashed checks or other 
+intangible property held for more than three years (or one year for unpaid 
+compensation); was the property reported and paid or delivered to the state 
+Commissioner of Commerce pursuant to Minn. Stat. §§ 345.41, .43?
+§ 465.03 C. Acceptance of Gifts (Applies to any city, county, school district or town.)
+Was every acceptance of a grant or devise of real or personal property on terms 
+prescribed by the donor made by resolution of the governing board adopted by a 
+two-thirds majority of its members and expressing such terms in full?
+§ 471.665,
+subd. 3
+D. Mileage Reimbursement/Automobile allowance (Applies to any county, home rule 
+charter or statutory city, town, or school district.) [Note: The City of St. Paul and 
+counties having more than 550,000 inhabitants have additional authority. See
+Minn. Stat. § 471.665, subd. 2

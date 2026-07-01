@@ -1,0 +1,2047 @@
+https://www.house.mn.gov/hrd/pubs/mnschfin.pdf
+→ https://www.house.mn.gov/hrd/pubs/mnschfin.pdf
+Content-Type: application/pdf
+
+Minnesota School 
+Finance: A Guide for 
+Legislators
+About this Publication
+This guidebook explains how 
+public elementary and 
+secondary schools are 
+funded in Minnesota.
+By Tim Strom, Legislative 
+Analyst
+November 2025
+Contents
+Executive Summary................................................................................................. 1 
+Introduction ............................................................................................................ 2 
+School Finance Terminology ................................................................................. 12
+Property Tax System Terminology........................................................................ 19
+Counting Students................................................................................................. 21
+General Education Revenue.................................................................................. 23
+School Transportation........................................................................................... 46
+Capital Finance...................................................................................................... 48
+Special Education.................................................................................................. 60
+American Indian Programs.................................................................................... 65
+Community, Early Childhood, and Adult Education ............................................. 68
+Cooperative Programs.......................................................................................... 82
+Dual Enrollment Programs.................................................................................... 85
+Charter Schools..................................................................................................... 88
+School Desegregation and Integration ................................................................. 91
+Career and Technical Education ........................................................................... 97
+State Academies.................................................................................................. 100
+School Nutrition Programs.................................................................................. 103
+Miscellaneous Funds for Education.................................................................... 106
+Income Tax Subtraction and Credit .................................................................... 117
+Taconite Revenue for School Districts................................................................ 119
+Tax Relief Aids and Aids in Lieu of Taxes ............................................................ 127
+Teacher Retirement............................................................................................ 130
+Postemployment Benefits .................................................................................. 134
+School District Accounting .................................................................................. 136
+Appendix ............................................................................................................. 145
+This publication was prepared by Tim Strom, a legislative analyst specializing in the area of K-12 
+education finance. Questions can be addressed to Tim at 651-296-1886.
+Minnesota Statutes cited in this work can be located on of the Office of the Revisor of Statutes 
+website, https://www.revisor.mn.gov/statutes/. 
+Minnesota House Research Department provides nonpartisan legislative, legal, and 
+information services to the Minnesota House of Representatives. This document can 
+be made available in alternative formats.
+www.house.mn.gov/hrd | 651-296-6753 | Third Floor, Centennial Office Building | St. Paul, MN 55155
+List of Tables
+Table 1: Characteristics of Minnesota Independent School Districts, 2023-24 ..... 5 
+Table 2: Characteristics of Minnesota Charter Schools, 2023-24........................... 6 
+Table 3: School Enrollment 1959-60 to 2028-29 by School Type........................... 7 
+Table 4: Minnesota School Enrollment 1960 to 2024 Actual; 2025 to 2029 
+Estimated ......................................................................................................... 10
+Table 5: Students in Minnesota Public Schools 1960 to 2029 (2025 to 2029 
+Estimated) ........................................................................................................ 11
+Table 6: General Education Formula Increases 1989 to 2027.............................. 13
+Table 7: Education Acronyms ............................................................................... 17
+Table 8: Enrollment Weights by Grade................................................................. 22
+Table 9: General Education Revenue Components Excluding Referendum 
+Revenue............................................................................................................ 23
+Table 10: Basic Education Formula Allowances.................................................... 24
+Table 11: Compensatory Revenue Characteristics for Selected School 
+Buildings for the 2025-26 School Year............................................................. 28
+Table 12: English Learner Revenue Characteristics for Selected School 
+Districts 2025-26 School Year .......................................................................... 30
+Table 13: Equity Revenue Percentiles................................................................... 35
+Table 14: Pension Adjustment Aid Entitlement.................................................... 36
+Table 15: Characteristics of Largest and Smallest School Districts....................... 38
+Table 16: Revenue Reserved for Class Size Reduction ......................................... 39
+Table 17: General Education Program Aid Entitlement and Levy ........................ 40
+Table 18: Referendum Revenue Allowances and Equalizing Factors................... 43
+Table 19: Referendum Revenue Amounts............................................................ 43
+Table 20: Permanent School Fund Endowment and Income ............................... 45
+Table 21: Debt Service Equalizing Factors............................................................ 50
+Table 22: Debt Service Equalization Aid Calculation for a Hypothetical 
+District.............................................................................................................. 50
+Table 23: Total Statewide Debt Service Amounts; Regular and Enhanced 
+Equalization Aid................................................................................................ 51
+Table 24: School Building Bond Agricultural Credit.............................................. 52
+Table 25: Capital Project Levy............................................................................... 52
+Table 26: Maximum Effort Bond Sales.................................................................. 55
+Table 27: Long-Term Facilities Maintenance Revenue; Appropriation and 
+Levy .................................................................................................................. 57
+Table 28: Building Lease Levy Amounts................................................................ 58
+Table 29: Telecommunications/Internet Access Aid ............................................ 59
+Table 30: Special Education Unduplicated Child Count by Disability Category 
+(All Ages) as of December 1, 2024 ................................................................... 60
+Table 31: Special Education Appropriations......................................................... 64
+Table 32: Tribal Contract School Estimated Enrollment and Initial Estimated 
+Aid for Fiscal Year 2026.................................................................................... 67
+Table 33: Appropriations for American Indian Programs..................................... 67
+Table 34: Community Education Revenue............................................................ 69
+Table 35: Programs for Adults with Disabilities.................................................... 70
+Table 36: Early Childhood Family Education Revenue.......................................... 71
+Table 37: Early Childhood Home-visiting Program............................................... 71
+Table 38: VPK/SRP Students Served ..................................................................... 73
+Table 39: School Readiness Aid ............................................................................ 74
+Table 40: Early Learning Scholarship Appropriations........................................... 76
+Table 41: Developmental Screening Aid............................................................... 77
+Table 42: Head Start Revenue .............................................................................. 78
+Table 43: School-age Care Program...................................................................... 79
+Table 44: Adult Basic Education Programs........................................................... 81
+Table 45: Consolidation Transition Revenue ........................................................ 82
+Table 46: Concurrent Enrollment Aid ................................................................... 87
+Table 47: Charter School Tuition Billing Percentage Point Reimbursement 
+Rates................................................................................................................. 89
+Table 48: Charter School General Education, Special Education, and Building 
+Lease Aid .......................................................................................................... 90
+Table 49: Achievement and Integration Maximum Revenue for Fiscal Year 
+2026.................................................................................................................. 91
+Table 50: Integration Revenue Allowances Per Pupil Fiscal Years 2001 to 
+2013.................................................................................................................. 92
+Table 51: Estimated Appropriations and Levies for Integration Activities 
+Based on 100% Aid Entitlement; Amounts for Aid Fiscal Year........................ 92
+Table 52: Appropriations for Interdistrict Desegregation Grants......................... 93
+Table 53: Appropriations for Teacher Supply Programs....................................... 95
+Table 54: Funding Formulas for Career and Technical Revenue .......................... 97
+Table 55: Career and Technical Revenue.............................................................. 98
+Table 56: Appropriations for ServeMinnesota and the Minnesota Reading 
+and Math Corps................................................................................................ 99
+Table 57: Direct Appropriations for the Minnesota State Academies for the 
+Deaf and Blind................................................................................................ 100
+Table 58: Minnesota Center for Arts Education ................................................. 101
+Table 59: Federal and State Reimbursement Rates Per Meal for Lunch and 
+Breakfast 2025-26 School Year...................................................................... 104
+Table 60: State and Federal Funds for School Nutrition Programs.................... 105
+Table 61: Q-Comp Revenue ................................................................................ 106
+Table 62: Literacy Aid.......................................................................................... 107
+Table 63: Abatement Aid and Levy..................................................................... 108
+Table 64: Nonpublic School Student Aid ............................................................ 110
+Table 65: Shared Time Programs........................................................................ 110
+Table 66: Nonpublic Pupil Transportation.......................................................... 111
+Table 67: School Library Funding........................................................................ 112
+Table 68: Regional Library Funding..................................................................... 113
+Table 69: Safe Schools Levy ................................................................................ 114
+Table 70: Miscellaneous Levy Amounts.............................................................. 115
+Table 71: Estimated Cost to State in Foregone Tax Revenue............................. 118
+Table 72: Taconite Revenue Used to Reduce School District Levies.................. 120
+Table 73: Estimated Taconite Revenue Used to Equalize Referendum Levies... 121
+Table 74: Taconite Revenue for Building Maintenance: 4.0 Cents per Ton....... 121
+Table 75: Iron Range School Account................................................................. 123
+Table 76: Iron Range Schools and Community Development Account 
+Distributions Awarded to School Districts..................................................... 123
+Table 77: School District Taconite Assistance through Bonding Provided by 
+Enacted Laws.................................................................................................. 126
+Table 78: Property Tax Credits and Aids Reducing School District Levies for 
+Taxes Payable in 2024 (Fiscal Year 2025)....................................................... 129
+Table 79: Membership Counts, Fund Assets, and Liabilities by Retirement 
+Plan................................................................................................................. 131
+Table 80: Employee and Employer Coordinated Plan Contribution Rates 
+(Fiscal Years)................................................................................................... 132
+Table 81: Social Security and Medicare Employer Contribution Rates.............. 133
+Table 82: Postemployment Benefit Levies ......................................................... 135
+Table 83: School Funds....................................................................................... 136
+Table 84: Aid Payment Percentage..................................................................... 138
+Table 85: Example of Appropriation Payments.................................................. 139
+Table 86: Relationship Among the Years............................................................ 141
+Table 87: Metered Payments.............................................................................. 143
+Table 88: General Education Levy....................................................................... 145
+Table 89: Total Statewide Debt Service Amounts; Regular and Enhanced 
+Equalization Aid.............................................................................................. 146
+Table 90: Health and Safety Revenue................................................................. 147
+Table 91: Alternative Facilities Revenue............................................................. 148
+Table 92: Maximum Effort Bond Sales................................................................ 149
+Table 93: Cooperative Facilities Grants.............................................................. 149
+Table 94: Building Lease Levy Restrictions ......................................................... 150
+Table 95: Charter School General Education, Special Education, and Building 
+Lease Aid ........................................................................................................ 151
+Table 96: Estimated Appropriations and Levies for Integration Activities 
+Based on 100% Aid Entitlement; Amounts for Aid Fiscal Year...................... 152
+Table 97: Appropriations for Other Integration Funding Programs................... 154
+Table 98: Safe Schools Levy ................................................................................ 155
+Minnesota School Finance
+Minnesota House Research Department Page 1 
+Executive Summary
+Minnesota’s school finance system provides funds to operate the state’s public elementary 
+and secondary schools. The bulk of Minnesota’s support for elementary and secondary 
+education is distributed to school districts and charter schools through the general education 
+revenue program, which provides money for the current operating expenditures of the 
+districts. The state’s remaining appropriations are provided through special purpose or 
+categorical aids, such as special education aid and local property tax relief aids. The state 
+legislature also controls the amount each school district can levy through limits on the 
+amounts and type of property tax levies. The purpose of this guide is to describe the 
+programs that provide funding for Minnesota’s school districts and charter schools. The 
+guide provides program descriptions, financial information, and some historical background 
+for each school funding program.
+For the 2024-25 school year, a full-time equivalent staff of roughly 57,000 teachers served 
+approximately 852,000 public school students. Minnesota’s nonpublic schools served 72,900
+students, and 31,200 students were homeschooled. During the same school year, total 
+revenue for Minnesota’s public schools is estimated at $18.186 billion, of which $12.254 
+billion is from state aid, $5.213 billion is from local property taxes and other local source 
+revenue, and $719 million is from federal funds.
+This publication describes the current system for funding the K-12 education system. It 
+includes definitions of common terminology, explains how students are counted, details 
+funding formulas, and describes various education programs. An appendix at the end of the 
+document also provides some historical information for certain long-standing programs and 
+programs that are no longer in effect but are referenced by current programs. 
+Minnesota School Finance
+Minnesota House Research Department Page 2 
+Introduction
+Minnesota’s school finance system is shaped by the historical and legal context of public 
+schools in the United States.
+Historical and Legal Background
+Public education in the United States is the legal responsibility of state government. In 
+Minnesota, as in most states, the state constitution charges the legislature with responsibility 
+for public schools. Minnesota’s constitutional charge reads as follows: 
+The stability of a republican form of government depending mainly upon the 
+intelligence of the people, it is the duty of the legislature to establish a general 
+and uniform system of public schools. The legislature shall make such provisions 
+by taxation or otherwise as will secure a thorough and efficient system of public 
+schools throughout the state.
+(Minn. Const., art. XIII, § 1)
+Minnesota delegates responsibility for the actual operation of schools to local school districts 
+and charter schools, whose powers and duties are prescribed by state statute. Historically, the 
+property taxes levied by the school boards governing these school districts have been the 
+primary source of revenue for running schools. Some time after 1900, property taxes were 
+supplemented by limited amounts of state appropriations for aid to school districts. By the 
+1970-71 school year, the Minnesota state foundation aid program provided all districts a flat 
+grant per pupil unit (a pupil unit is a weighted enrollment measure) and provided some districts 
+an additional “equalized” amount that varied inversely with a district’s property valuation. 
+Under this system, state aid funded about 43 percent of the cost of running schools, and school 
+expenditures per pupil varied widely from district to district. Local property taxes rose rapidly 
+in all districts in the late 1960s, and the tax rate for schools also varied widely among districts.
+The 1971 Legislature addressed these disparities by substantially increasing the amount of 
+equalized state foundation aid per pupil unit and imposing a uniform statewide limit on the 
+property tax rate for schools. The 1973 Legislature eliminated flat grants and established a 
+system whereby the amount of foundation aid program revenue available per pupil unit to lowspending districts would be increased to the state average over a six-year period. From 1973 to 
+1983, the legislature adjusted the foundation aid formula several times making it more 
+responsive to differences among districts and altering the relationship between local tax effort 
+and state aid, without changing the formula’s basic structure.
+The 1983 Legislature enacted a new foundation aid program replacing several components of 
+the previous foundation aid formula with five tiers of optional aids and levies. The main 
+characteristics of the new five-tier program were equal access to revenues, recognition of some 
+specific cost differences, and more discretion on the part of school boards in choosing the 
+necessary level of revenue.
+Minnesota School Finance
+Minnesota House Research Department Page 3 
+Current Program Design. General education revenue is the primary source of operating funds 
+for Minnesota’s public schools, which for the 2025-26 school year, consists of 327 operating 
+school districts, two nonoperating school districts, and 168 charter schools. General education 
+revenue pays for operating expenses of the district including employee salaries, fringe benefits, 
+and supply costs. For fiscal year 2026, each school district’s general education revenue is the 
+sum of 14 components; two of which are the same per pupil unit for all districts and charter 
+schools and 12 components that vary by district demographic and geographic characteristics.
+General education revenue replaced the foundation aid program through legislation first 
+enacted in 1987 for the 1988-89 school year. Most of the components of general education 
+revenue have remained relatively stable over the last 35 years.
+In addition to general education revenue, school districts also receive state appropriations 
+through categorical aids and authorized property tax levies, which provide funds for specific 
+purposes (such as special education, school integration/desegregation, and safe schools 
+activities). 
+School Finance Litigation
+Across the nation, there have been and are a number of legal challenges to states’ school 
+finance formulas. These lawsuits have been based on a series of principles, including 
+equalization, fiscal neutrality, equal protection, and adequacy, among others.
+Equalization. Equalization challenges measured state aid to districts compared with perceived 
+need (using property wealth as the measure of need). The earliest challenges under the equal 
+protection clause of the Fourteenth Amendment to the United States Constitution (“...nor shall 
+any state...deny to any person within its jurisdiction the equal protection of the laws”) were 
+unsuccessful. These challenges claimed that the only permissible variations in public school 
+expenditures across districts should be based on “educational needs.” The courts concluded 
+this standard was too political and unclear for them to apply to state school finance systems.
+Fiscal neutrality. The second round of challenges, also made under the Fourteenth 
+Amendment, proposed the standard of “fiscal neutrality.” Fiscal neutrality means that the 
+quality of a child’s education, measured by the amount expended for that education, cannot be 
+permitted to vary according to the property wealth of his or her parents and their neighbors. 
+The taxpayers in a property poor district cannot be required to pay a higher tax rate than 
+taxpayers in a property rich district to attain the same quality of education for their children. 
+This standard was first endorsed by the California Supreme Court under the federal and state 
+equal protection clauses in its 1971 decision, which refused to dismiss the complaint in Serrano 
+v. Priest. In short order, a number of other courts also adopted the standard of fiscal neutrality, 
+including the Minnesota federal district court in its October 1971 decision upholding the validity 
+of the claim in Van Dusartz v. Hatfield. This round of litigation came to an abrupt halt in March 
+1973 when the U.S. Supreme Court, in San Antonio Independent School District v. Rodriguez, 
+reversed a lower court’s decision in support of fiscal neutrality under the Fourteenth 
+Amendment.
+Minnesota School Finance
+Minnesota House Research Department Page 4 
+Equal Protection and adequacy. The next round of school finance litigation is occurring under 
+the equal protection and education provisions of state constitutions. The Serrano case in 
+California went to trial in 1974, and both the trial court and the California Supreme Court (in 
+1977) found that the school finance system violated the state equal protection clause under the 
+principles of fiscal neutrality. 
+Since that time, legal theories for suits under state constitutions’ education clauses also include 
+the arguments that school finance systems must provide for minimum levels of pupil 
+achievement, must ensure that districts have the minimum resources necessary to supply a 
+basic education, must respond to differences among districts’ tax burdens, costs, and needs, or 
+cannot predominantly base the availability of funds on voters’ willingness to approve taxes. 
+Since the 1970s, challenges to school finance systems under state constitutional provisions 
+have occurred in all but a handful of states, and more recent lawsuits are pending in many 
+states, including states where earlier challenges were successful and states where earlier 
+challenges were unsuccessful.
+In 1993, the Minnesota Supreme Court reversed an earlier trial court decision and held 
+Minnesota’s school finance system constitutionally permissible. The ruling in Skeen v. State of 
+Minnesota stemmed from a lawsuit filed in 1988 by 52 outer ring suburban and rural school 
+districts representing 25 percent of the state’s K-12 enrollment. The suit claimed that 
+Minnesota’s school finance system was unconstitutional because the finance system was not 
+uniform and school districts received disparate amounts of government aid.
+The plaintiff school districts challenged the constitutionality of the operating referendum and 
+debt service levies that at the time of the suit, were unequalized levies based solely upon local 
+property tax bases and some parts of general education revenue that varied among school 
+districts, including training and experience revenue, and supplemental revenue. The Minnesota 
+Supreme Court declared the issues in the case to be “whether the state’s present system of 
+education finance is sufficient to meet the state constitutional requirement that the legislature 
+‘establish a general and uniform system of public schools’ and provide sufficient financing to 
+‘secure a thorough and efficient system of public schools throughout the state.’”
+However, the court ruled that education in Minnesota is a fundamental right and that the 
+system of education finance in place at that time satisfied that right. The court found that “all 
+plaintiff [school] districts are provided with an adequate level of education which meets or 
+exceeds the state’s basic education requirements and ... are given sufficient funding to meet 
+their basic needs.” The court used the term “adequate” or “adequacy” to mean the measure of 
+need that must be met and not some minimal floor. The court’s ruling establishes the 
+minimum standard the state must meet in designing an education funding system that is 
+constitutional.1
+The state of Minnesota is currently in litigation over an adequacy case named Cruz-Guzman. 
+1 For further information on the Skeen decision, see Skeen vs. State of Minnesota, The School Finance Lawsuit, 
+House Research Department, September 1993.
+Minnesota School Finance
+Minnesota House Research Department Page 5 
+Descriptive Information for Minnesota
+Public elementary and secondary education is provided via a financial partnership between the 
+state and local school districts and charter schools. These school districts and charter schools 
+exhibit diversity in terms of enrollment, local property wealth, and expenditure levels, as shown 
+in Table 1 and Table 2. 
+Minnesota’s total public school enrollment crested in 2020 at 875,000 students and has started 
+a period of slow decline. While school district enrollment is declining, charter school 
+enrollment is continuing to grow at a modest pace. Tables 3 and 4 display the state total 
+enrollment history and projections for the period from 1959-60 to 2028-29. 
+The state and federal governments share in financial partnership with local districts and charter 
+schools to fund elementary and secondary education. For the 2024-25 school year, the state 
+provided approximately 67.4 percent of the total costs of elementary and secondary education. 
+Local revenue sources (primarily property taxes and fees for services such as athletics) provided 
+approximately 28.6 percent of 2024-25 operating revenues, and the federal government 
+provided approximately 4.0 percent of the public schools’ revenue. 
+The bulk of state support for elementary and secondary education is distributed to the districts 
+through the general education revenue program, which provides money for the current 
+operating expenditures of the districts. The remaining portion of the state’s appropriation to 
+local districts is provided through special purpose or categorical aids, such as special education 
+aid and local property tax relief aids. The state programs that provide financial aid to 
+Minnesota school districts are described in the following pages.
+Table 1: Characteristics of Minnesota Independent School Districts, 2023-24
+Data for school districts only, excludes charter schools* 
+Maximum
+95th 
+Percentile Mean Median
+5th 
+Percentile Minimum State Total
+Average Daily 
+Membership 
+Served and 
+Tuitioned 
+Students
+38,631 9,167 2,423 896 198 20 792,273
+English Learning 
+Students
+8,918 1,076 202 15 0 0 66,002
+50% 18% 8% 1% 0% 0% 8%
+Students Eligible 
+for Free or 
+Reduced-Price 
+Meals
+25,565 3,450 984 362 86 0 321,741
+96% 69% 41% 41% 21% 0% 41%
+Students of 
+Color
+24,884 3,863 874 152 20 4 285,837
+100% 65% 36% 17% 5% 2% 36%
+Minnesota School Finance
+Minnesota House Research Department Page 6 
+Maximum
+95th 
+Percentile Mean Median
+5th 
+Percentile Minimum State Total
+2021 Adjusted 
+Net Tax 
+Capacity per 
+Pupil Unit
+$54,523 $26,366 $11,103 $10,268 $5,240 $0** $9,500,829,141
+Total PK-12 
+Operating 
+Expenditures 
+per Pupil
+$32,129 $19,772 $15,582 $14,602 $11,979 $10,564 $12,344,776,417
+*Two districts, Franconia and Prinsburg, are nonoperating districts, and don’t directly serve regular education students and 
+are excluded from this data.
+**The Pine Point school district exists entirely within the Park Rapids school district and has no tax base.
+Sources: Minnesota Department of Education Profiles 2023-24; Research Department, Minnesota House of Representatives
+House Research Department
+Table 2: Characteristics of Minnesota Charter Schools, 2023-24
+Maximum
+95th 
+Percentile Mean Median
+5th 
+Percentile Minimum State Total
+Average Daily 
+Membership 
+Served and 
+Tuitioned 
+Students
+5,257 1,136 381 213 54 17 68,926
+English Learning 
+Students
+1,272 417 96 15 0 0 17,436
+100% 79% 25% 6% 0% 0% 25%
+Students Eligible 
+for Free or 
+Reduced-Price 
+Meals
+3,845 631 164 105 17 6 47,466
+90% 88% 41% 37% 15% 1% 61%
+Students of Color 2,506 956 252 119 9 0 45,527
+100% 100% 65% 64% 9% 0% 65%
+Total PK-12 
+Operating 
+Expenditures per 
+Pupil
+$71,046 $26,068 $16,797 $15,185 $10,134 $9,359 $1,055,524,958
+Sources: Minnesota, Department of Education Profiles Data 2023-24; Research Department, MN House of Representatives; 
+excludes charter schools operating only a portion of the school year.
+House Research Department
+Minnesota School Finance
+Minnesota House Research Department Page 7 
+Table 3: School Enrollment 1959-60 to 2028-29 by School Type
+All Public School
+(including Charter 
+Students) Charter Schools Traditional Nonpublic Homeschool
+School 
+Year
+Adjusted 
+Avg. Daily 
+Membership
+Percent 
+Change 
+from 
+Prior 
+Year
+Average Daily 
+Membership
+Percent 
+Change 
+from 
+Prior 
+Year Enrollment
+Percent 
+Change 
+from 
+Prior 
+Year Enrollment
+Percent 
+Change 
+from 
+Prior 
+Year
+1960 671,682 NA — — 158,560 NA — —
+1961 692,136 3.0% — — 163,253 3.0% — —
+1962 713,461 3.1 — — 167,909 2.9 — —
+1963 739,735 3.7 — — 171,968 2.4 — —
+1964 768,089 3.8 — — 174,265 1.3 — —
+1965 794,304 3.4 — — 173,534 -0.4 — —
+1966 818,255 3.0 — — 169,207 -2.5 — —
+1967 844,554 3.2 — — 161,523 -4.5 — —
+1968 871,510 3.2 — — 150,596 -6.8 — —
+1969 899,597 3.2 — — 137,319 -8.8 — —
+1970 914,847 1.7 — — 124,934 -9.0 — —
+1971 921,957 0.8 — — 118,091 -5.5 — —
+1972 914,018 -0.9 — — 106,392 -9.9 — —
+1973 903,778 -1.1 — — 99,139 -6.8 — —
+1974 893,465 -1.1 — — 94,023 -5.2 — —
+1975 884,648 -1.0 — — 92,128 -2.0 — —
+1976 874,961 -1.1 — — 91,893 -0.3 — —
+1977 856,964 -2.0 — — 91,793 -0.1 — —
+1978 831,250 -3.0 — — 90,919 -1.0 — —
+1979 803,312 -3.4 — — 88,524 -2.6 — —
+1980 772,101 -3.9 — — 90,954 2.7 — —
+1981 751,373 -2.7 — — 91,077 0.1 — —
+1982 729,105 -3.0 — — 91,803 0.8 — —
+1983 710,972 -2.5 — — 92,302 0.5 — —
+1984 700,167 -1.5 — — 92,760 0.5 — —
+1985 695,777 -0.6 — — 92,822 0.1 — —
+1986 699,191 0.5 — — 90,530 -2.5 — —
+Minnesota School Finance
+Minnesota House Research Department Page 8 
+All Public School
+(including Charter 
+Students) Charter Schools Traditional Nonpublic Homeschool
+School 
+Year
+Adjusted 
+Avg. Daily 
+Membership
+Percent 
+Change 
+from 
+Prior 
+Year
+Average Daily 
+Membership
+Percent 
+Change 
+from 
+Prior 
+Year Enrollment
+Percent 
+Change 
+from 
+Prior 
+Year Enrollment
+Percent 
+Change 
+from 
+Prior 
+Year
+1987 708,446 1.3 — — 87,208 -3.7 — —
+1988 716,125 1.1 — — 85,043 -2.5 2,322 NA
+1989 723,598 1.0 — — 82,165 -3.4 2,900 24.9%
+1990 733,338 1.3 — — 80,293 -2.3 3,538 22.0
+1991 750,865 2.4 — — 81,262 1.2 4,418 24.9
+1992 767,786 2.3 — — 80,743 -0.6 5,086 15.1
+1993 785,072 2.3 47 NA 81,631 1.1 6,149 20.9
+1994 799,285 1.8 615 1,208.5% 81,697 0.1 7,671 24.8
+1995 812,582 1.7 1,046 70.1 83,435 2.1 9,135 19.1
+1996 827,588 1.8 1,494 42.8 84,278 1.0 10,519 15.2
+1997 838,336 1.3 2,138 43.1 83,955 -0.4 12,145 15.5
+1998 845,117 0.8 3,292 54.0 85,122 1.4 13,081 7.7
+1999 851,729 0.8 4,991 51.6 85,988 1.0 13,638 4.3
+2000 852,675 0.1 7,526 50.8 88,502 2.9 14,906 9.3
+2001 854,042 0.2 9,199 22.2 89,680 1.3 15,249 2.3
+2002 851,536 -0.3 10,170 10.6 84,538 -5.7 15,510 2.4
+2003 835,217 -1.9 11,998 18.0 89,944 6.4 16,519 5.8
+2004 829,832 -0.6 13,948 16.3 86,513 -3.8 17,533 6.1
+2005 825,843 -0.5 17,121 22.7 86,956 0.5 17,135 -2.3
+2006 826,542 0.1 20,306 18.6 82,258 -5.4 17,334 1.2
+2007 827,197 0.1 23,588 16.2 79,200 -3.7 17,621 1.7
+2008 823,755 -0.4 27,753 17.7 81,598 3.0 15,256 -13.4
+2009 821,021 -0.3 31,687 14.2 79,793 -2.2 15,653 2.6
+2010 821,923 0.1 34,463 8.8 77,121 -3.3 17,036 8.8
+2011 823,347 0.2 36,087 4.7 74,384 -3.5 16,523 -3.0
+2012 825,049 0.2 37,958 5.2 72,458 -2.6 16,081 -2.7
+2013 831,692 0.8 40,856 7.6 70,715 -2.4 17,129 6.5
+2014 837,630 0.7 43,237 5.8 68,521 -3.1 17,451 1.9
+Minnesota School Finance
+Minnesota House Research Department Page 9 
+All Public School
+(including Charter 
+Students) Charter Schools Traditional Nonpublic Homeschool
+School 
+Year
+Adjusted 
+Avg. Daily 
+Membership
+Percent 
+Change 
+from 
+Prior 
+Year
+Average Daily 
+Membership
+Percent 
+Change 
+from 
+Prior 
+Year Enrollment
+Percent 
+Change 
+from 
+Prior 
+Year Enrollment
+Percent 
+Change 
+from 
+Prior 
+Year
+2015 845,512 0.9 47,439 9.7 67,992 -0.8 18,085 3.6
+2016 852,384 0.8 50,390 6.2 66,188 -2.7 18,772 3.8
+2017 861,624 1.1 53,582 6.3 67,614 2.2 19,432 3.5
+2018 868,951 0.9 56,060 4.6 65,785 -2.7 18,988 -2.3
+2019 873,022 0.5 58,904 5.1 65,638 -0.2 19,228 1.3
+2020 874,999 0.2 61,813 4.9 65,657 0.0 20,701 7.7
+2021 855,774 -2.2 64,618 4.5 66,138 0.7 30,955 49.5
+2022 856,427 0.1 65,728 1.7 69,971 5.8 27,801 -10.2
+2023 855,224 -0.1 66,886 1.8 72,478 3.6 26,423 -5.0
+2024 849,728 -0.6 68,262 2.1 73,142 0.9 29,062 10.0
+2025 851,631 0.2 70,744 3.6 72,871 -0.4 32,216 7.4
+2026 845,969 -0.7 73,048 3.3 — — — —
+2027 840,627 -0.6 75,406 3.2 — — — —
+2028 835,125 -0.7 77,841 3.2 — — — —
+2029 830,994 -0.5 80,354 3.2 — — — —
+Notes:
+Adjusted average daily membership from 1960 to 1971 are fall enrollment counts.
+For all public schools, a large portion of the enrollment decline shown between 2003 and 2004 results from the limit on average daily 
+membership to not more than 1.0. 
+Adjusted average daily membership for public schools and average daily membership for charter schools from 2022 to 2029 are
+estimated.
+For nonpublic student enrollment for 2001-02 and 2006-07 school years, the Department of Education officials suspect significant 
+under-reporting of nonpublic pupil count by nonpublic schools.
+Homeschool enrollment for 2007 to 2025 is from Minnesota Department of Education Homeschool Enrollment by Compulsory 
+Attendance Count. All ages compliant and noncompliant; 2012 to 2025. 
+Counts for 2025 through 2029 are estimated.
+Source: Pupil Unit Estimates, Minnesota Department of Education
+House Research Department
+Minnesota School Finance
+Minnesota House Research Department Page 10
+Table 4: Minnesota School Enrollment
+1960 to 2024 Actual; 2025 to 2029 Estimated
+House Research Department
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Minnesota School Finance
+Minnesota House Research Department Page 11
+Table 5: Students in Minnesota Public Schools
+1960 to 2029 (2025 to 2029 Estimated)
+House Research Department
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Minnesota School Finance
+Minnesota House Research Department Page 12
+School Finance Terminology
+The following terms and concepts are essential to understand Minnesota’s school finance 
+program.
+Adjusted Marginal Cost Pupil Units (AMCPU): The counts of pupils used for most school 
+funding formulas through fiscal year 2014 and replaced by “adjusted pupil units” for fiscal year 
+2015 and later. The count is adjusted (meaning students actually served by the district), 
+marginal (the greater of the current year’s count, or 77 percent of current year’s count and 23 
+percent of the previous year’s count), and weighted by grade level (pupil units).
+Adjusted Net Tax Capacity (ANTC): The net tax capacity of a school district as divided by the 
+sales ratio. The purpose of the sales ratio adjustment is to neutralize the effect of different 
+assessment practices among the taxing jurisdictions of the state.
+Adjusted Pupils Units: Adjusted pupil units, or adjusted weighted average daily membership, is 
+the primary pupil count used in school-funding formulas. The count is weighted by grade level 
+(.55 for half-day kindergarten, 1.0 for full-day kindergarten and elementary grades, and 1.2 for 
+secondary grades) and “adjusted” to reflect students served.
+Aid Entitlement: 100 percent of the state aid due a school district for a fiscal year, regardless 
+of when the aid is actually received by the school district.
+Appropriation: Amount of state aid paid to a school district during a fiscal year. The 
+appropriation consists of a portion of the aid entitlement for the current year (for fiscal year 
+2025 this is 90 percent) and the remaining cleanup payments owed by the state to the school 
+district for the previous fiscal year (10 percent).
+Average Daily Membership (ADM): The sum for all pupils of the number of days in the 
+district’s school year that each pupil is enrolled, divided by the number of days the schools are 
+in session.
+Categorical Aid: Funds paid by the state to school districts and designated for specific 
+purposes, such as transportation, special education for disabled children, and career and 
+technical education. Categorical aids are relatively minor compared to general education 
+revenue, the main school district funding stream.
+Elementary Sparsity Revenue: Revenue available to small, sparsely populated school districts. 
+Elementary sparsity revenue is part of general education revenue. To qualify for elementary 
+sparsity revenue, a district must have an elementary school that is at least 19 miles from the 
+next nearest elementary school and have an average of 20 or fewer students per elementary 
+grade.
+Equalization: A school finance formula is said to be “equalized” when a school district’s aid and 
+levy share of the revenue are computed based on some measure of the school district’s tax 
+base. In general, an equalization formula is designed to wash out a portion of the effects of tax 
+Minnesota School Finance
+Minnesota House Research Department Page 13
+base differentials across school districts. An equalized school revenue program provides a 
+higher level of state aid to property poor school districts providing more tax base equality 
+across school districts. Minnesota’s school finance system uses a number of equalizing factors 
+in its aid and levy formulas but most of these equalized formulas do not fully eliminate the 
+property tax advantages of high property tax base school districts.
+Equalizing Factor: For school funding formulas that are a mix of state aid and local property 
+taxes, the “equalizing factor” is a way of calculating the local levy share. The equalizing factor is 
+usually specified as a fixed number in statute, which, if a district’s tax base per pupil is lower 
+than this amount, is used as the denominator to determine the local levy share. The equalizing 
+factor is intended to partially equalize tax rates among school districts based on each district’s 
+property tax base per pupil. The lower the district’s tax base per pupil, the lower the levy ratio, 
+and the higher the state aid. Currently, many other school funding program formulas have 
+statutorily fixed equalizing factors ranging from very generous to very small amounts of state 
+aid.
+Fiscal Year: A 12-month period between settlements of financial accounts. The fiscal year for 
+the state and school districts runs from July 1 through June 30 and is identified by the calendar 
+year in which it ends. For example, fiscal year 2026 runs from July 1, 2025, through June 30, 
+2026. A fiscal year is interchangeable with a school year for school finance purposes. For 
+example, fiscal year 2026 is equivalent to the 2025-26 school year.
+Formula Allowance: The dollar amount per pupil unit used to calculate each district’s basic 
+general education revenuethe “front end” of the formula. The formula allowance for fiscal 
+year 2026 is $7,481. This amount changes either because (1) the total funding is increasing or 
+(2) existing separate formulas are “rolled in” to the general formula or funding for specific 
+programs are “rolled out” of the general formula and into a separate formula.
+Table 6: General Education Formula Increases 1989 to 2027
+($ per Pupil Unit)
+Fiscal Year
+General Ed 
+Formula 
+Allowance
+Statutory 
+Dollar Increase 
+in Formula
+Formula 
+Increase 
+Adjusted for 
+Roll-ins and 
+Roll-outs & 
+pupil weight 
+changes 
+% Increase for 
+Adjusted 
+Formulas
+Biennial 
+Adjusted 
+Formula 
+Increases Over 
+Previous 
+Biennium
+2027* $7,705 $224 $224 3.00% 5.74%
+2026 $7,481 $200 $200 2.74%
+2025 $7,281 $143 $143 2.0% 6%
+2024 $7,138 $275 $275 4.0% —
+2023 $6,863 $135 $135 2.0% 4.45%
+2022 $6,728 $161 $161 2.45% —
+Minnesota School Finance
+Minnesota House Research Department Page 14
+Fiscal Year
+General Ed 
+Formula 
+Allowance
+Statutory 
+Dollar Increase 
+in Formula
+Formula 
+Increase 
+Adjusted for 
+Roll-ins and 
+Roll-outs & 
+pupil weight 
+changes 
+% Increase for 
+Adjusted 
+Formulas
+Biennial 
+Adjusted 
+Formula 
+Increases Over 
+Previous 
+Biennium
+2021 $6,567 $129 $129 2.0% 4%
+2020 $6,438 $126 $126 2.0% —
+2019 $6,312 $124 $124 2.0% 4%
+2018 $6,188 $121 $121 2.0% —
+2017 $6,067 $119 $119 2.0% 4%
+2016 $5,948 $117 $117 2.0% —
+2015 $5,831 $529 $105 2.0% 3.5%
+2014 $5,302 $78 $78 1.5% —
+2013 $5,224 $50 $50 1.0% 2.0%
+2012 $5,174 $50 $50 1.0% —
+2011 $5,124 $0 $0 0.0% 0.0%
+2010 $5,124 $0 $0 0.0% —
+2009 $5,124 $50 $50 1.0% 3.0%
+2008 $5,074 $100 $100 2.0% —
+2007 $4,974 $181 $191 4.0% 8.1%
+2006 $4,783 $182 $182 4.0% —
+2005 $4,601 $0 $0 0.0% 0.0%
+2004 $4,601 $0 $0 0.0% —
+2003 $4,601 $533 $104 2.6% 5.3%
+2002 $4,068 $104 $104 2.6% —
+2001 $3,964 $224 $157 4.2% 9.2%
+2000 $3,740 $210 $167 4.7% —
+1999 $3,530 -$51 $79 2.2% 4.4%
+1998 $3,581 $76 $76 2.2% —
+1997 $3,505 $300 $0 0.0% 1.8%
+1996 $3,205 $55 $55 1.7% —
+1995 $3,150 $100 $0 0.0% 0.0%
+1994 $3,050 $0 $0 0.0% —
+1993 $3,050 $0 $0 0.0% 3.3%
+1992 $3,050 $97 $97 3.3% —
+Minnesota School Finance
+Minnesota House Research Department Page 15
+Fiscal Year
+General Ed 
+Formula 
+Allowance
+Statutory 
+Dollar Increase 
+in Formula
+Formula 
+Increase 
+Adjusted for 
+Roll-ins and 
+Roll-outs & 
+pupil weight 
+changes 
+% Increase for 
+Adjusted 
+Formulas
+Biennial 
+Adjusted 
+Formula 
+Increases Over 
+Previous 
+Biennium
+1991 $2,953 $115 $115 4.1% 7.2%
+1990 $2,838 $83 $83 3.0% —
+1989 $2,755 ― ― ― —
+Notes to Formula Adjustments
+*Estimated; increase is based on rate of inflation, but limited to at least 2 percent and not more than 3 percent over the 
+previous year’s formula level.
+In 2015: The $529 increase included a pupil weight adjustment of $424 to account for lower pupil weights and other changes 
+to the general education program.
+In 2003: The $533 increase included a $415 roll-in of referendum revenue and a $14 roll-in of assurance of mastery revenue
+In 2001: The $224 increase was reduced by the $67 roll-in of cooperation revenue
+In 2000: The $210 increase was reduced by the $43 roll-in of graduation rule revenue 
+In 1999: The $51 decrease was offset by the restoration of $130 for training and experience revenue
+In 1997: The $300 increase was offset by reductions in training and experience and transportation funding
+In 1995: For most school districts, the $100 increase was offset by a corresponding reduction in referendum revenue
+House Research Department
+General Education Aid: Funds paid by the state to school districts as part of the general 
+education revenue program and permitted to be used for any operating expense.
+General Education Levy: Portion of general education revenue received through the property 
+tax. For fiscal years 2003 through 2012, there was no general education levy. A modified form 
+of the general education levy was reinstituted in fiscal year 2013 under the name “student 
+achievement levy.” The 2015 Legislature repealed this levy beginning in fiscal year 2019.
+General Education Tax Rate: The tax rate that when multiplied by the adjusted net tax capacity 
+of all districts, raises the dollar value specified in statute. Prior to levies made in 1985, the 
+legislature set the tax rate instead of the total dollar value that was to be raised. The general 
+education tax rate equaled zero for fiscal years 2003 (taxes payable in 2002) through 2014. The 
+general education tax rate (student achievement tax rate) was 0.30 percent for fiscal year 2017, 
+0.16 for fiscal year 2018, and was eliminated for fiscal year 2019 and later. 
+General Education Revenue: General education revenue is the primary formula for providing 
+general operating funds to school districts and charter schools and is composed of basic general 
+education revenue; extended time revenue; declining pupil revenue; local optional revenue; 
+gifted and talented revenue; basic skills revenue, including EL and compensatory revenue; 
+elementary and secondary sparsity revenue; transportation revenue; operating capital; equity 
+revenue; small schools revenue; pension adjustment reserve; and transition revenue.
+Levy: A tax imposed on property. The amount of property taxes that a school board may levy 
+is limited by statute. Each autumn, the Minnesota Department of Education computes the 
+Minnesota School Finance
+Minnesota House Research Department Page 16
+exact amounts of the limits on the permitted levies for each district. For levies based on 
+adjusted tax capacity, the previous year’s adjusted tax capacity value is used. Each year, school 
+boards hold truth-in-taxation hearings, vote on how much of their maximum they want to levy, 
+and “certify” that amount to the county auditor. Most districts certify the maximum levy 
+possible. A levy certified in the late fall by the school board is collected by the county from the 
+taxpayers in the calendar year beginning the following January. (See Table 86 on page 141 for 
+an illustration of the relationship among the years for valuation, certification, collection, and 
+use of levies.)
+Net Tax Capacity (NTC): This value is derived by multiplying the taxable market value of each 
+net tax capacity parcel by the appropriate class (use) rate for that parcel. Class rates range 
+from 0.25 percent for certain low-income housing, but the majority of property has a class rate 
+of either 1 percent (residential homesteads with market values of less than $500,000) or 2 
+percent for that portion of commercial/industrial property with a market value in excess of 
+150,000. 
+Nonresident School District: A district other than the student’s district of residence that 
+provides educational services to the student (same as serving school district for funding 
+purposes).
+Pupil Units: A weighted count of pupils in ADM used in the calculation of state aid and local tax 
+levies.
+Resident District: The district where the student’s parent or guardian lives.
+Serving School District: The district providing educational services to a student.
+Secondary Sparsity Revenue: Revenue paid to small, sparsely populated school districts. The 
+secondary sparsity revenue formula takes into account the secondary enrollment, the distance 
+between high schools, and the geographic area of the district. Secondary sparsity revenue is a 
+component of the general education revenue program.
+Tax Capacity Percentages (class rates): Statutory classification percentages that are applied to 
+market values to vary property tax by class of property.
+Tax Capacity Rate: The rate arrived at by dividing each district’s levy amount by the district’s 
+net tax capacity. Tax capacity rate replaces the term “mill rate.”
+Transportation Sparsity Revenue: Component of the general education revenue program used 
+to provide additional revenue to school districts that have a relatively low ratio of pupils to the 
+square mile area of the school district.
+Uniform Financial Accounting and Reporting Standards (UFARS): Rules and instructions 
+adopted under legislative mandate to govern the methods by which school districts record 
+financial transactions and inform the Department of Education and public about their finances.
+The following is a list of acronyms that are commonly used when discussing education issues.
+Minnesota School Finance
+Minnesota House Research Department Page 17
+Table 7: Education Acronyms
+Acronym Name Meaning/Use
+ADM Average Daily 
+Membership
+Count of resident students attending public school
+ANTC Adjusted Net Tax Capacity Taxable tax base adjusted by the sales ratio
+APU Adjusted Pupil Units Weighted count of students actually served by a public school
+(adjusted average daily membership) used to compute most 
+education revenue amounts
+EBD Emotional Behavioral 
+Disorder
+Condition characterized by an established pattern of behavior that 
+may include such things as severely aggressive or impulsive behaviors
+ECFE Early Childhood Family 
+Education
+School district operated programs designed to provide parenting 
+skills and early learning opportunities for children five years of age 
+and younger
+EL English Learner Students who are not yet proficient in the English language
+ESSA Every Student Succeeds 
+Act
+2015 federal law reauthorizing the Elementary and Secondary 
+Education Act (ESEA), replacing the No Child Left Behind (NCLB) Act
+HSGI High School Graduation 
+Incentive Program
+Alternative program for students who are not succeeding in a 
+traditional academic setting 
+IDEA Individual with Disabilities 
+Education Act
+Federal law governing many special education procedures 
+IEP Individualized Education 
+Program
+Plan developed by school officials and student’s parent or guardian to 
+address educational needs of a special education pupil
+K-12 Kindergarten through 
+Grade 12
+Grades generally served by public schools; shorthand for elementary 
+and secondary education, sometimes also referred to as E-12 and 
+PreK-12
+LD Specific Learning Disability Condition within the student affecting learning, relative to potential, 
+manifested by interference with learning
+LRE Least Restrictive 
+Environment
+Special education term that refers to the requirement that a special 
+education student must be kept in the most mainstreamed program 
+possible
+NTC Net Tax Capacity Taxable tax base most levies are spread against. This value is derived 
+by multiplying the taxable market value of each parcel of property by 
+the appropriate class (use) rate for that parcel.
+PELRA Public Employee Labor 
+Relations Act
+Laws governing collective bargaining for Minnesota’s public 
+employees
+PK Prekindergarten Students not yet enrolled in kindergarten
+PSEO Postsecondary Enrollment 
+Options Program
+Choice program allowing certain 10th grade students and 11th and 
+12th grade students to attend postsecondary institutions
+SR+ School Readiness Plus School readiness program for four-year-old students operated by 
+school districts and charter schools (similar to VPK)
+Minnesota School Finance
+Minnesota House Research Department Page 18
+Acronym Name Meaning/Use
+T&E Training and Experience Former category of the general education funding program that 
+generated additional revenue for additional levels of teacher training 
+and experience
+WADM Weighted Average Daily 
+Membership
+Count of pupils formerly used in some education funding formulas
+VPK Voluntary Prekindergarten School readiness program for four-year-old students operated by 
+school districts and charter schools
+House Research Department
+Minnesota School Finance
+Minnesota House Research Department Page 19
+Property Tax System Terminology
+In order to understand education finance, it is important to be familiar with Minnesota’s 
+property tax terminology and its two types of property tax bases that are used to compute and 
+spread school district levies.
+Tax Base Terms
+Market Value: Each individual parcel of property is valued by an assessor. This value is 
+referred to as estimated market value. Estimated market value is the value, as the name 
+implies, that the property would bring in a sale on the open market. 
+Taxable Market Value: This value is derived by multiplying the taxable market value of each 
+parcel of property by the appropriate class (use) rate for that parcel, for homes with a value 
+under $517,200, state law excludes a portion of each home’s market value for property tax 
+purposes. For homes valued at $95,000 or less, 40 percent of the value is excluded from 
+taxable market value. As the value of the home increases, the exclusion is phased out. A home 
+with a value in excess of $517,200 receives no exclusion. The maximum exclusion amount is
+$38,000 for properties valued at $95,000, with no exclusion for properties valued over 
+$517,200. Each property’s taxable market value is its estimated market value less its 
+homestead market value exclusion.
+Referendum Market Value: Referendum market value is the taxable market value of all taxable 
+property in the school district excluding two classes of property; seasonal recreational 
+properties, and agricultural lands. School taxes for the local share of the operating referendum, 
+local optional revenue, equity revenue, and transition revenue are computed and spread 
+against referendum market value. All other school levies are calculated and spread on various 
+versions of net tax capacity.
+Net Tax Capacity (NTC): The legislature has established class rates for different types of 
+property (e.g., homestead, commercial, residential, rental, etc.), and the assessor applies the 
+appropriate class rate to the taxable market value of each parcel of property. The resulting 
+value is called tax capacity or net tax capacity. Tax capacity is the value of the property that the 
+property taxes will be levied against for all school funding formulas, except for the levy share of 
+operating referendum revenue, local optional revenue, equity revenue, and transition revenue 
+(which are levied against the referendum market value of the school district). 
+Sales Ratio: A sales ratio is a statistical measure prepared by the Department of Revenue that 
+measures the difference between the actual sale prices of property and the assessor’s market 
+values on those properties. The purpose of the sales ratio is to neutralize the effect of different 
+assessment practices among the taxing jurisdictions of the state. The sales ratio is divided into 
+the taxable value (net tax capacity) to obtain the adjusted tax capacity of a school district.
+Minnesota School Finance
+Minnesota House Research Department Page 20
+Adjusted Net Tax Capacity (ANTC): School funding formulas that are spread on net tax capacity 
+are generally calculated using adjusted net tax capacity. Adjusted net tax capacity is the net tax 
+capacity of the district divided by its sales ratio.
+Calculating and Paying School Taxes
+Tax Rates: The property taxes levied against each parcel of property are computed by the 
+county auditor, who adds up the total dollars of property tax levied by each local unit of 
+government and determines what rate of taxation needs to be applied to the tax capacity of the 
+taxing jurisdictions in order to raise that dollar amount. The rate of taxation is called the tax 
+rate. A net tax capacity tax rate is expressed as a percentage of taxable value. A 50 percent tax 
+rate, therefore, raises $50 for each $100 of taxable value (tax capacity). A similar tax rate is 
+calculated for tax levies spread on referendum market value.
+Tax Statement: The property taxpayer receives a statement listing the total tax rate levied by 
+each taxing jurisdiction (school district, county, and city or township) and the total dollar 
+amount of taxes owed. A preliminary version of this statement, called the Notice of Proposed 
+Property Taxes, is sent out in November each year. The final version is sent out the following 
+spring.
+Payment of Property Taxes: The taxpayer makes two payments to the county treasurer for the 
+total taxes owed for all jurisdictions, and the county treasurer then forwards the remitted 
+amounts to the appropriate taxing jurisdiction (city, county, or school district).
+Minnesota School Finance
+Minnesota House Research Department Page 21
+Counting Students
+Minnesota funds the majority of its K-12 programs on a rather involved count of the number of 
+students attending each public school. For most funding programs, the pupil count, known as 
+adjusted pupil units, is used to determine school revenue amounts. This count does not include 
+homeschool or traditional nonpublic students.
+Determining Pupil Units
+There are three steps involved in calculating the student count, called adjusted pupil units, 
+which are used in most of the K-12 funding formulas.
+1) Average Daily Membership (ADM): Students are counted in average daily 
+membership. Average daily membership is the count of resident students in the 
+district for the full school year. A “resident” student means a student who lives in 
+that school district and attends a school district, charter school, or other public K12 education program. Students that are present for only part of the year are 
+prorated for their time attending the school. Excused absences from school (for 
+things such as illness, etc.) do not reduce a school district’s ADM.
+2) Adjusted Pupils or Adjusted Average Daily Membership (AADM): The ADM 
+student count is adjusted to reflect only the students actually served by the 
+district. Each district’s pupil count is reduced by the number of students leaving 
+the district to attend a charter school or through open enrollment and increased 
+by the number of students entering the district from another district.
+3) Adjusted Pupil Units: Each student is weighted by grade level according to the 
+weights listed in Table 8. The different weights are intended to reflect differing 
+educational costs across the grade levels.
+Other Pupil Counts
+There are a variety of other counts used for select school finance formulas. The following is a 
+brief list of these counts.
+Resident Pupil Units or Weighted Average Daily Membership (WADM): For purposes of 
+calculating a school district’s operating referendum revenue aid and levy shares, resident pupil 
+units or WADM are used. This count is the same as the adjusted pupil units except that it is 
+based on resident pupils, instead of pupils served by the school district.
+Enrollees: Student enrollment is based on the count of students as of October 1 of the school 
+year. This count of students is used for some school formulas, especially where a fixed final 
+count or a site count is necessary, such as the alternative compensation revenue calculation. 
+Enrollment counts are also used as the denominator for formulas such as compensatory 
+revenue, where the numerator is based on free and reduced lunch counts, which are taken as 
+part of the October 1 census data.
+Minnesota School Finance
+Minnesota House Research Department Page 22
+Pupil Weights
+Pupils are weighted by grade level. The following table shows the weights by grade. Pupil 
+units, called actual pupil units or weighted average daily membership (WADM), are equal to the 
+number of full-time pupils times the appropriate pupil unit weight by grade.
+Table 8: Enrollment Weights by Grade
+Fiscal 
+Year(s)
+Prekindergarten 
+Disabled Weight*
+Voluntary 
+Prekindergarten 
+Weight
+Half-day 
+Kindergarten 
+Weight
+Full-day 
+Kindergarten 
+Weight
+Grades 
+1-3 
+Weight
+Grades 
+4-6 
+Weight
+Secondary 
+Weight
+2017 and 
+later
+Hours served 0.60** .550 1.00 1.00 1.00 1.20
+2015 and 
+2016
+Hours served NA .550 1.00 1.00 1.00 1.20
+2008 to 
+2014
+Hours served NA .612 .612 1.115 1.06 1.30
+2000 to 
+2007
+Hours served NA .557 .557 1.115 1.06 1.30
+1995 to 
+1999
+Hours served NA .530 .530 1.06 1.06 1.30
+1994 Hours served NA .515 .515 1.03 1.03 1.30
+1992 to 
+1993
+Hours served NA .500 .500 1.00 1.00 1.30
+1990 to 
+1991
+Hours served NA .500 .500 1.00 1.00 1.35
+*The prekindergarten disabled pupil weight equals the ratio of the actual hours served to 825 times 1.25, limited to minimum of 0.28 and a 
+maximum of 1.25. The kindergarten disabled weight equals the ratio of the actual hours served to 875, but not more than 1.0.
+**The voluntary prekindergarten weight applies only to specifically approved programs. The maximum weight is 0.60 regardless of the 
+maximum hours of service. A program must provide at least 350 hours of service to receive the minimum weight of 0.412. The funding was 
+first available for fiscal year 2017.
+House Research Department
+For fiscal years 1994 to 2014, the additional kindergarten (above .50) and elementary pupil 
+weights (above 1.0) provided reserved revenue that had to be set aside to reduce elementary 
+class sizes. For fiscal year 2015 and later, a school must reserve $299 per kindergarten pupil 
+and $459 per pupil for all other elementary grades for class size reduction efforts.
+Minnesota School Finance
+Minnesota House Research Department Page 23
+General Education Revenue
+Elementary and secondary schools receive the bulk of their general operating funds from the 
+state through the general education revenue program. General education revenue is provided 
+mainly through state aid payments, but within the general education program, there are 
+equalized levies for operating capital, equity revenue, and transition revenue.
+Components of General Education Revenue
+The general education revenue funding formula is the primary source of general operating 
+funds for school districts. Statewide, approximately two-thirds of school districts’ total revenue 
+comes from the general education program. Each school district’s general education revenue is 
+the sum of the components shown in Table 9. The table shows each general education revenue 
+component name, revenue amount, and the number of districts eligible for the revenue for that 
+year.
+Table 9: General Education Revenue Components
+Excluding Referendum Revenue
+Estimated for Fiscal Year 2026
+General Education Revenue 
+Component
+All Revenue 
+(District and 
+Charter)
+Percent of 
+General 
+Ed 
+Revenue
+Number of 
+Eligible 
+Districts 
+Charter School 
+Revenue Only
+Est. 
+Number 
+of Eligible 
+Charters*
+1 Basic Education Revenue 
+(Formula Allowance)
+$6,934,496,000 67.4% 329/329 $579,210,000 172/172
+2 Extended Time Revenue 45,528,000 0.4 139/329 143,000 24/172
+3 Gifted and Talented 12,050,000 0.1 329/329 1,006,000 172/172
+4 Small Schools Revenue 16,665,000 0.2 167/329 0 0/172
+5 Declining Enrollment 
+Revenue
+31,104,000 0.3 229/329 10,757,000 47/172
+6 Local Optional Revenue 613,292,000 6.0 328/329 0 0/172
+7a Basic Skills Revenue 
+(compensatory)
+901,903,000 8.8 327/329 151,572,000 172/172
+7b Basic Skills Revenue 
+(English learner)
+117,184,000 1.1 255/329 24,951,000 124/172
+8 Sparsity Revenue 
+(elementary and 
+secondary)
+32,890,000 0.3 103/329 2,752,000 172/172
+9 Operating Capital 
+Revenue
+212,345,000 2.1 328/329 17,736,000 172,172
+10 Transportation Sparsity 
+Revenue
+99,117,000 1.0 318/329 3,097,000 112/180
+Minnesota School Finance
+Minnesota House Research Department Page 24
+General Education Revenue 
+Component
+All Revenue 
+(District and 
+Charter)
+Percent of 
+General 
+Ed 
+Revenue
+Number of 
+Eligible 
+Districts 
+Charter School 
+Revenue Only
+Est. 
+Number 
+of Eligible 
+Charters*
+11 Equity Revenue 104,222,000 1.0 328/329 8,705,000 172/172
+12 Transition Revenue 27,261,000 0.3 198/329 2,259,000 34/172
+13 Pension Adjustment 
+Revenue
+158,932,000 1.5 329/329 9,739,000 172/172
+14 Options Adjustments 1,802,000 0.02 33/329 -4,164,000 121/172
+Total General Education 
+Revenue
+$10,290,824,000 329/329 $807,763,000 172/172
+*As of June 30, 2025, 172 charter schools and 329 school districts were reporting estimated pupils for the 2025-26 school 
+year. Another four charter schools have closed as of July 1, 2025.
+House Research Department
+Minnesota’s school districts and charter schools use general education revenue to pay for the 
+operating expenses of the district including employee salaries, employee benefits, and supply 
+costs.
+General education revenue, except for the portion of revenue attributable to compensatory 
+revenue, which must be passed through to each school site, is provided to school districts, and 
+each local school board determines how to allocate that money among school sites and programs, 
+subject to certain legislative restrictions.
+1. Basic Education Revenue
+Basic education revenue for each district equals the product of the formula allowance 
+multiplied by the adjusted pupil units for the school year. The basic formula allowance is
+$7,481 for fiscal year 2026. For fiscal years 2026 and later, the basic formula allowance
+increases by the rate of inflation but is limited to a band of not less than a 2 percent increase 
+over the previous year and not more than a 3 percent increase over the previous year. 
+(Minn. Stat. § 126C.10, subd. 2)
+Table 10: Basic Education Formula Allowances
+School Year Formula Allowance Statutory Inflation Amount* 
+2026-27** $7,705 3.00%
+2025-26 7,481 2.74
+2024-25 7,281
+2023-24 7,138
+2022-23 6,863
+Minnesota School Finance
+Minnesota House Research Department Page 25
+School Year Formula Allowance Statutory Inflation Amount* 
+2021-22 6,728
+*First effective for the 2025-26 school year.
+**Estimated; becomes final in February of 2026.
+House Research Department
+2. Extended Time Revenue
+Beginning in fiscal year 2004, school districts are prohibited from counting a student as more 
+than 1.0 in average daily membership (ADM). Prior to this, a student could be counted in 
+excess of 1.0 if the student was participating in a learning year program. A learning year 
+program may include extended day, extended week, summer school programming, or an 
+independent study program. The 1987 Legislature eliminated funding for summer school when 
+it replaced the foundation aid program with the general education revenue program. During 
+the 1990s, many school districts started using the learning year program as a method to fund 
+summer school programs. The growth in learning year pupils was quite significant. The 2003 
+Legislature adopted a provision that limits a student’s annual average daily membership to 1.0.
+The extended time revenue program allows a school district to count a student who 
+participates in extended programming for up to an additional 0.2 students in ADM for the time 
+the student spends in extended day, extended week, summer school, or other additional 
+programming authorized by the learning year program. This additional ADM counts only for 
+purposes of generating extended time revenue. The extended time revenue allowance is 
+$5,117. For charter schools offering extended time services per pupil extended time revenue 
+equals 25 percent of the district average amount for that year.
+(Minn. Stat. § 126C.10, subd. 2a)
+School District
+Extended Time Revenue = $5,117 x the district’s extended time adjusted pupil units
+3. Gifted and Talented Revenue
+A school district receives $13 per pupil unit for gifted and talented programming. The revenue 
+must be reserved and spent only to:
+1) identify gifted and talented students;
+2) provide education programs for gifted and talented students; or 
+3) provide staff development to prepare teachers to teach gifted and talented 
+students. 
+Gifted and Talented Revenue = $13 x Adjusted Pupil Units
+(Minn. Stat. § 126C.10, subd. 2b)
+Minnesota School Finance
+Minnesota House Research Department Page 26
+4. Small Schools Revenue
+A school district (but not a charter school) that serves less than 960 pupil units is eligible for 
+small schools revenue equal to $544 times the district’s adjusted pupil units, times the ratio of 
+960 less the district’s adjusted pupil units to 960.
+(Minn. Stat. § 126C.10, subd. 2c)
+5. Declining Enrollment Revenue
+A district’s declining enrollment revenue equals the greater of zero or 28 percent of the formula 
+allowance for that year and the difference between adjusted pupil units for the current year 
+and the adjusted pupil units for the previous year.
+(Minn. Stat. § 126C.10, subd. 2d)
+6. Local Optional Revenue
+A school district’s local optional revenue equals $724 per pupil unit. Local optional revenue is 
+available to school districts only and is not available to charter schools. 
+Local optional revenue consists of two tiers. The first tier of $300 per pupil is equalized at 
+$880,000 per pupil (the same equalizing factor that existed when this tier was included in 
+operating referendum revenue). The second tier, $424 per pupil, is equalized at $642,038 for 
+fiscal year 2026 and $671,345 for fiscal year 2027 and later. For fiscal year 2021 and later, there 
+is no longer any connection between local optional revenue and operating referendum revenue.
+(Minn. Stat. §§ 126C.10, subd. 2d; 126C.17) 
+7. Basic Skills Revenue
+Basic skills revenue consists of compensatory revenue and English learner (EL) revenue.
+Compensatory Revenue. The vast majority of basic skills revenue is generated by the 
+compensatory revenue formula. Compensatory revenue is site-based revenue. The revenue is 
+calculated based on the characteristics of each school site, and for fiscal years 2026 and 2027 
+only, at least 60 percent of the revenue must be distributed to qualifying programs at each site
+(for fiscal year 2028 and later, at least 80 percent of the revenue must be spent at the site 
+where the revenue was earned). Compensatory revenue must be used to meet the educational 
+needs of pupils whose progress toward meeting state or local content or performance 
+standards is below the level that is appropriate for learners of their age.
+Eligible uses of compensatory revenue include the following:
+ providing remedial instruction in reading, math, and other core curriculum; 
+ adding teachers and teacher aides to provide more individualized instruction; 
+ lengthening the school day, week, or year (including summer school); 
+Minnesota School Finance
+Minnesota House Research Department Page 27
+ operating programs to reduce truancy; providing counseling, guidance, and social 
+work services; and coordinating services from other governmental agencies;
+ providing bilingual and bicultural programs for English learner students;
+ providing early education programs, parent training programs, and home visiting 
+and other outreach efforts;
+ enabling transition programs for special education students until the age of 22; and
+ using professional development for teachers on meeting the needs of EL students, 
+using assessment and tools, reducing the use of exclusionary discipline, and training 
+for tutors and staff in extended day programs.
+Compensatory revenue must be reserved in a separate account, and each district must produce 
+an annual report describing how compensatory revenue has been spent at each site within the 
+district.
+The compensatory revenue increases as the number of compensatory pupil units goes up, 
+which is driven by the federally defined number of free and reduced-price meal eligible 
+students as well as the percentage of such students at the school site. A higher percentage 
+concentration of free and reduced-price meal students leads to a higher count of compensatory 
+pupil units. 
+Compensatory Pupil Units. Compensatory revenue is provided to school sites through the 
+compensatory revenue component of the general education formula based on the number of 
+students at the site federally eligible for free or reduced-price meals. The formula is often 
+referred to as a concentration formula because as the concentration of students eligible for 
+free or reduced-price meals increases, the compensatory revenue per compensatory pupil also 
+increases.
+Compensatory pupils are counted and calculated at the site where the students are being 
+educated. A pupil is counted as a compensatory pupil if the pupil is federally eligible for free or 
+reduced-price meals. Eligibility for free and reduced-price meals is set by the federal 
+government at 130 percent and 185 percent of the federal poverty guidelines, respectively (for 
+fiscal year 2026, these percentages limited yearly income for a family of four to not more than 
+$41,795 and $59,478). The compensatory pupil count is conducted during the fall at each 
+school site. In addition to parent-reported income data, school districts may also qualify 
+students through “direct match” with income information held by the state for participants in 
+certain public assistance programs including medical assistance (MA) and SNAP (the 
+Supplemental Nutrition Assistance Program). 
+Compensatory pupil units are calculated for each site as follows:
+1) Calculate the building concentration factor, which is equal to the ratio of the 
+number of pupils eligible for free lunch plus half of the number of pupils eligible 
+for reduced-price meals to the school site’s total enrollment
+2) Calculate a building weighting factor equal to the lesser of:
+(a) 1; or
+(b) the building’s concentration factor divided by .80
+Minnesota School Finance
+Minnesota House Research Department Page 28
+3) Multiply the compensation pupils calculated in step (1) by the weighting factor 
+calculated in step (2) by .60
+For fiscal years prior to 2026, the formula that generates compensatory revenue was a 
+concentration formula based on each school building’s count of students that are eligible for 
+free or reduced-price meals. For fiscal year 2026 only, there is a onetime adjustment so that 
+compensatory revenue is based on the greater of the fall 2022 pupil counts or the fall 2024 
+pupil counts. For fiscal year 2027 and later, compensatory revenue equals the compensatory 
+pupil units at each site times that site’s building compensatory allowance.
+Compensatory 
+Pupil Units = ( Free Lunch 
+Students + (.5 x Reduced Lunch 
+Students) ) x .6 x 
+the lesser of: 
+ (1) one; or
+ (2) (free lunch students + 
+ (.5 x reduced lunch students)/ 
+ building ADM)/.8
+Compensatory Revenue = (Basic Formula Allowance – $839) x Compensatory Pupil Units
+(Minn. Stat. §§ 126C.05, subd. 3; 126C.10, subd. 3; 126C.15) 
+The following table displays some characteristics of several selected school buildings and the 
+resulting compensatory revenue.
+Table 11: Compensatory Revenue Characteristics for
+Selected School Buildings for the 2025-26 School Year
+Dist. 
+No.
+District 
+Name
+Building 
+Name
+Fall 2024
+School 
+Enrollment
+Pupils 
+Federally 
+Eligible for 
+Free or 
+Red.-Price 
+Meals
+% of 
+Enrollees 
+Eligible
+Compensatory 
+Revenue
+Compensatory 
+Revenue/
+Enrollee
+1 Minneapolis Bethune 213 188 88% $966,000 $4,535
+1 Minneapolis Lake Harriet 
+Lower
+309 139 13 22,000 71
+38 Red Lake Elementary 526 428 81 1,734,000 3,297
+264 Herman Elementary 51 22 43 70,000 1,373
+273 Edina South View 1,021 184 18 208,000 204
+282 St. Anthony Sr. High 752 225 30 298,000 396
+284 Wayzata North Woods 775 45 6 11,000 14
+625 St. Paul Adams 605 245 40 421,000 696
+625 St. Paul Vento 445 387 87 1,925,000 4,326
+Minnesota School Finance
+Minnesota House Research Department Page 29
+Dist. 
+No.
+District 
+Name
+Building 
+Name
+Fall 2024
+School 
+Enrollment
+Pupils 
+Federally 
+Eligible for 
+Free or 
+Red.-Price 
+Meals
+% of 
+Enrollees 
+Eligible
+Compensatory 
+Revenue
+Compensatory 
+Revenue/
+Enrollee
+709 Duluth East 1,495 294 20 305,000 204
+709 Duluth Myers-Wilkins 329 279 85 1,156,000 3,514
+833 S. Wash. East Ridge 2,072 303 15 175,000 84
+State Average/Total 874,285 352,503 40% $901,903,000 $1,032
+House Research Department
+English Learner (EL) Revenue. Districts receive EL revenue to provide instruction to students 
+with limited English skills. Programs may include bilingual programs or English-as-a-secondlanguage (ESL) programs. Bilingual education programs provide curriculum instruction to 
+students in their native language. ESL program students are taught to read, write, listen, and 
+speak in English. The state has provided funding for EL programs since 1980. In the early 
+2000s, the maximum number of years that a student could qualify for EL funding was reduced 
+from seven to five years. This limitation was increased to six years for fiscal years 2015 and 
+2016 and restored to seven years for fiscal year 2017 and later.
+There are two parts to the EL portion of basic skills revenue: the first part or basic formula is a 
+set amount per EL pupil; the second part of the EL formula is a concentration formula. A school 
+district with at least one student eligible for EL services has a statutorily assigned minimum EL 
+pupil count of 20.
+Basic EL Revenue = $1,228 x district’s EL Pupil Units
+EL Concentration Pupils = EL pupils x the lesser of:
+ (1) 1; or
+ (2) (EL pupils/ADM)/.115
+EL Concentration Revenue = $436 x the district’s EL concentration pupils
+Beginning in 2027, the EL revenue formula is based on three components. The basic EL 
+allowance increases from $1,228 to $1,775 per EL pupil; the EL concentration revenue 
+allowance increases from $436 to $630 per EL pupil; and a new component, called EL cross 
+subsidy revenue, is added to the EL revenue formula. EL cross subsidy revenue equals 25 
+percent of the difference between the district’s EL spending and the district’s EL revenue for 
+the second previous year.
+(Minn. Stat. §§ 124D.58-124D.65; 126C.10, subd. 3)
+Minnesota School Finance
+Minnesota House Research Department Page 30
+Table 12: English Learner Revenue Characteristics
+for Selected School Districts 2025-26 School Year
+Dist. 
+No. District Name
+Est. FY 26 
+Pupils Served
+(AADM)
+Est. FY 26 
+English 
+Learners
+% English 
+Learner
+Total English 
+Learner Revenue
+English 
+Learner 
+Revenue 
+per Pupil
+Totals 847,570 71,827 8.5% $117,184,000 $138
+Mpls & St. Paul 58,637 14,349 24.5% 23,877,000 407
+Inner Ring Suburbs 85,907 8,023 9.3% 12,700,000 148
+Outer Ring Suburbs 268,139 17,123 6.4% 26,124,000 97
+Greater MN >2,000 186,300 10,433 5.6% 16,388,000 88
+Greater MN 1,000 to 
+2,000 pupils
+89,843 2,378 2.6% 4,059,000 45
+Greater MN <1,000 84,379 2,001 2.4% 4,497,000 53
+Charters 72,745 15,637 21.5% 26,501,000 364
+4269 Quantum Steam 
+Academy
+202 180 89.1% 300,000 1,483
+4178 Lincoln International 160 120 75.0% 200,000 1,248
+4073 Academia Cesar 
+Chavez
+544 306 56.3% 509,000 936
+518 Worthington 4,240 1,340 31.6% 2,230,000 532
+13 Columbia Heights 3,526 1,100 31.2% 1,830,000 519
+625 St. Paul 31,803 7,400 23.3% 12,313,000 387
+742 St. Cloud 9,180 1,500 15.1% 2,496,000 272
+347 Willmar 3,911 731 18.7% 1,216,000 311
+241 Albert Lea 3,174 313 9.9% 504,000 159
+284 Wayzata 13,086 581 4.4% 812,000 62
+4098 Nova Classical 
+Academy
+1,054 30 2.8% 40,000 38
+House Research Department
+8. Sparsity Revenue
+Secondary Sparsity Revenue. Secondary sparsity revenue provides additional revenue to 
+geographically large districts that have relatively few secondary pupils. The formula measures 
+sparsity and isolation of the district and then provides additional revenue to the district using 
+an assumption about how many pupil units are necessary to run an acceptable secondary 
+program. The formula assumes that a district with 400 secondary pupils in average daily 
+Minnesota School Finance
+Minnesota House Research Department Page 31
+attendance can provide an acceptable secondary program. Therefore, a district with one high 
+school, no matter how few pupils per square mile it has, will not receive any sparsity aid if the 
+district has a secondary average daily membership (SADM) in excess of 400. In addition, the 
+requirement of large geographic size ensures funding for districts that have few pupils due to 
+geographic isolation and not due to a school board’s reluctance to provide cooperative 
+programming with a neighboring school district. For the 2025-26 school year, 103 school 
+districts qualify for sparsity revenue.
+Secondary sparsity revenue is computed as follows:
+Isolation Index = 
+the greater of zero or the lesser of:
+(a) 1.5; or
+(b)(i) (�.55 x sq. mile attendance area), plus
+(ii) miles to next nearest high school, minus 
+(iii) 23,
+(iv) all divided by 10
+Secondary 
+Sparsity Revenue = 
+Sparsity
+Formula 
+Allowance2
+x
+Adjusted 
+Pupil 
+Units
+x (400 – SADM)
+(400 + SADM) x Isolation Index
+The isolation index is a numerical representation of the distance from the corner of the district 
+to the secondary school of the district (assuming a nearly square district with the school in the 
+center of the district which would represent the furthest a student would travel to the resident 
+secondary school) and the miles to the next nearest high school. 
+(Minn. Stat. § 126C.10, subds. 6 and 7)
+Elementary Sparsity Revenue. A school district qualifies for elementary sparsity revenue if it 
+has an elementary school that is located 19 or more miles from the next nearest elementary 
+school and has fewer than 20 pupils per elementary grade. As with secondary sparsity revenue, 
+the more elementary pupils in average daily membership (EADM) attending the school, the 
+lower the elementary sparsity revenue per pupil.
+Elementary Sparsity 
+Revenue
+= Sparsity Formula 
+Allowance
+x EADM x ( 140 – EADM
+140 + EADM )
+(Minn. Stat. § 126C.10, subds. 6 and 8)
+Table 15 (page 38) displays characteristics of the sparsest and densest districts in the state.
+Sparsity Guarantee. A school district that closes a school facility is eligible for at least as much 
+sparsity revenue as it received in the previous school year. A district that loses sparsity revenue 
+2 The sparsity allowance is the basic formula allowance less $530.
+Minnesota School Finance
+Minnesota House Research Department Page 32
+because of a neighboring district’s decision to relocate a school is eligible for at least as much 
+sparsity revenue as it received in the previous school year.
+(Minn. Stat. § 126C.10, subd. 8a)
+9. Operating Capital Revenue
+Operating capital revenue replaced two former capital formulas known as equipment revenue 
+and facilities revenue and moved the revenue stream to each district’s general fund. The 2023 
+Legislature added a “supplies” category to operating capital, with funding equal to $2 per pupil 
+unit for the costs associated with menstrual products and stocking opiate antagonists. 
+Operating capital revenue must be reserved and used for equipment, facility, and supplies 
+needs. A school board may spend other general fund money for operating capital expenses, 
+but general fund money provided by the operating capital revenue component must be 
+reserved and spent only for eligible equipment, facilities, and supplies needs.
+(Minn. Stat. § 126C.10, subds. 13, 14, 15, and 16)
+Revenue Computation. Operating capital revenue equals the sum of: (1) $2 per pupil unit for 
+supplies; (2) $79 per pupil unit (formerly limited for equipment); and (3) the product of $109 
+per pupil unit and the district’s average building age index (formerly limited for facility needs). 
+The age index is called the maintenance cost index (MCI) and is calculated as follows:
+Maintenance Cost Index (MCI) = 
+Weighted square footage of buildings
+Unweighted square footage of buildings
+The weighted square footage of each building is equal to the building’s square footage times 
+the lesser of:
+(a) 1.50; or 
+(b) the sum of 1.0 + (the age of each building or addition /100)
+Operating capital revenue is provided through an equalized aid and levy and is computed as 
+follows:
+Operating Capital Revenue = [$2 + $79 + (MCI x $109)] x Adjusted Pupil Units
+Operating Capital Levy = Operating Capital Revenue less 
+$2 per pupil unit
+x the lesser of:
+(1) one; or 
+(2) (ANTC/Adjusted Pupil 
+Units)/$22,912
+Operating Capital Aid = Operating Capital Revenue – Operating Capital Levy
+Eligible Uses. Eligible uses of operating capital revenue include the following:
+ acquiring land for school purposes
+Minnesota School Finance
+Minnesota House Research Department Page 33
+ acquiring or constructing buildings for school purposes
+ renting or leasing buildings, including the costs of building repair or improvement 
+that are part of a lease agreement
+ improving and repairing school sites and buildings, and equipping or reequipping 
+school buildings with permanent attached fixtures
+ using the revenue for a surplus school building that is used substantially for a public 
+nonschool purpose
+ eliminating barriers or increasing access to school buildings for individuals with a 
+disability
+ bringing school buildings into compliance with the uniform fire code adopted 
+according to chapter 299F
+ removing asbestos from school buildings, encapsulating asbestos, or making 
+asbestos-related repairs
+ cleaning and disposing of polychlorinated biphenyls found in school buildings
+ cleaning, removing, disposing of, and making repairs related to storing heating fuel 
+or transportation fuels such as alcohol, gasoline, fuel oil, and special fuel, as defined 
+in section 296.01
+ performing energy audits for school buildings and for modifying buildings if the audit 
+indicates the cost of the modification can be recovered within ten years
+ improving buildings that are leased according to section 123.36, subdivision 10
+ paying special assessments levied against school property but not paying 
+assessments for service charges
+ paying principal and interest on state loans for energy conservation according to 
+section 216C.37 or loans made under the northeast Minnesota Economic Protection 
+Trust Fund Act according to sections 298.292 to 298.298
+ purchasing or leasing interactive telecommunications equipment
+ paying principal and interest payments on certain debt obligations
+ paying capital expenditure equipment-related assessments of any entity formed 
+under a cooperative agreement between two or more districts
+ purchasing or leasing computers and related materials, copying machines, 
+telecommunications equipment, and other noninstructional equipment
+ purchasing or leasing assistive technology or equipment for instructional programs
+ purchasing textbooks
+ purchasing and replacing library books
+ purchasing or leasing vehicles
+ purchasing or leasing telecommunications equipment; computers hardware, 
+software, and any associated annual licensing fees; and related equipment for 
+integrated information management systems
+ paying personnel costs directly related to the acquisition, operation, and 
+maintenance of telecommunications systems, computers, related equipment, and 
+network and applications software
+Minnesota School Finance
+Minnesota House Research Department Page 34
+ paying the costs directly associated with closing a school facility, including moving 
+and storage costs
+ paying the costs of supplies and equipment for menstrual products
+ paying the costs of opiate antagonists
+10. Transportation Sparsity Revenue
+A compromise agreement reached during the 1995 Special Session and affirmed by the 1997 
+Legislature led to the elimination of the basic transportation funding formulas. In their place, 
+$170 was added to the basic formula allowance; a new component called transportation 
+sparsity revenue was added to the general education revenue program; and a portion of 
+transition revenue was designed to soften the impact of the funding changes. Transportation 
+sparsity revenue may be used for any general operating purpose. A district is not required to 
+use transportation sparsity revenue for pupil transportation expenses. Beginning in fiscal year 
+2018, transportation sparsity revenue includes an adjustment based on each district’s actual 
+unreimbursed transportation costs incurred during the previous year. The 2023 Legislature 
+increased this adjustment from 18.2 percent to 35 percent of each district’s unreimbursed 
+transportation costs. 
+Transportation sparsity revenue is computed as follows:
+Transportation Revenue = (1) Transportation Sparsity Allowance x Adjusted Pupil Units
++ (2) 35% of the districts’ unreimbursed costs of to and from school transportation
+The following steps are necessary to compute a district’s transportation sparsity allowance:
+Density Index = square mile area of the district
+Adjusted Pupil Units } but not less than .005 or more than .2
+Sparsity Index = the greater of: 
+ (a) .2; or
+ (b) square mile of the district
+Adjusted Pupil Units
+Transportation 
+Sparsity 
+Allowance
+= 
+(Basic 
+Formula 
+Allowance
+x .141) x (Sparsity Index26/100) x (Density Index13/100) – 
+(Basic 
+Formula 
+Allowance
+x .0466)
+(Minn. Stat. § 126C.10, subds. 17 and 18)
+11. Equity Revenue
+The equity revenue formula consists of three parts: basic equity revenue; low referendum 
+equity revenue; and a supplemental equity amount equal to $50 per pupil unit. Equity revenue 
+is designed to provide additional revenue to districts with lower amounts of referendum 
+revenue. To calculate equity revenue, the state is divided into two regions: a seven-county 
+Minnesota School Finance
+Minnesota House Research Department Page 35
+metro region and a greater Minnesota (nonmetro) region. Equity revenue is calculated 
+separately for districts within each of the two regions.
+(Minn. Stat. § 126C.10, subds. 24 to 30)
+Basic Equity Revenue. Basic equity revenue equals the product of: (1) 125 percent; (2) $14 plus 
+the product of $80 and the district’s equity index; and (3) the district’s adjusted pupil units for 
+that year. A school district equity index equals one minus the ratio of the sum of the district’s 
+per pupil basic formula allowance, local optional revenue, and referendum revenue to the per 
+pupil amount for the district at the 95th percentile in that region. School districts located in 
+cities of the first class (Minneapolis, St. Paul, and Duluth) as of July 1, 1999, do not receive basic 
+equity revenue.
+For fiscal year 2026, the 5th and 95th percentiles for the equity regions are estimated as 
+follows:
+Table 13: Equity Revenue Percentiles
+Fiscal Year 2026
+5th 95th
+Rural $7,781 $10,019
+Metro $7,792 $10,109
+House Research Department
+Low Referendum Revenue. A school district that has per pupil referendum revenue less than 
+10 percent of the statewide average amount of per pupil referendum revenue (the estimated 
+statewide average amount of referendum revenue per pupil is $1,158 for fiscal year 2026) 
+receives an additional equity amount equal to the lesser of $100,000 or the difference between 
+10 percent of the statewide average referendum revenue and the district’s current amount of 
+referendum revenue.
+Supplemental Equity Revenue. All school districts receive supplemental equity revenue equal 
+to $50 per pupil unit. 
+Equity Aid and Levy. A district’s total equity revenue is equalized on referendum market value 
+using an equalizing factor of $510,000.
+12. Transition Revenue
+Transition revenue provides school districts with a partial grandfather or hold-harmless due to 
+the 2003 Legislature’s changes to general education revenue. Transition revenue guarantees a 
+school district the lesser of (a) its fiscal year 2003 general education revenue per pupil or (b) the 
+amount of revenue per pupil that the district would have received during the 2004 fiscal year 
+under the old definitions of general education revenue. The difference between the actual 
+fiscal year 2004 revenue and the guaranteed amount is the new transition revenue. Beginning 
+Minnesota School Finance
+Minnesota House Research Department Page 36
+in fiscal year 2015, transition revenue is adjusted for a number of changes to the general 
+education revenue program.
+This revenue was provided entirely in state aid for fiscal year 2004 and is an equalized aid and 
+levy for later years. Transition revenue is provided through an equalized aid and levy based on 
+a referendum market value equalizing factor of $510,000.
+(Minn. Stat. § 126C.10, subds. 31, 32, 33)
+13. Pension Adjustment Revenue
+School districts receive general education revenue pension adjustment revenue to compensate 
+for some past legislative changes to the employer contribution rates to the public employee 
+retirement systems—Public Employee Retirement Association (PERA) for nonlicensed staff and 
+Teacher Retirement Association (TRA) for licensed teachers. There are two parts to this 
+revenue: (1) a fixed amount based on past contribution rate changes; and (2) beginning in fiscal 
+year 2019, an amount equal to the TRA employer contribution rate increases approved by the 
+2018, 2023, and 2025 Legislatures. The amount equals the difference between the rate for the 
+current year and the rate for fiscal year 2018, times the district’s covered payroll (teacher 
+salaries) for the previous fiscal year.
+Table 14 shows the statewide pension adjustment aid and the annual rate applied to each 
+school district’s percent of covered teacher payroll. See page 130 for additional information on 
+Minnesota’s teacher retirement system.
+FY 26 Pension 
+Adjustment Revenue = 
+2015 
+Fixed Amount + ( .0231 x 
+FY 25 Covered 
+Teacher Payroll )
+Table 14: Pension Adjustment Aid Entitlement
+Fiscal Year
+Pension Adjustment 
+Aid
+All Schools 
+except St. 
+Paul; % of 
+Payroll
+St Paul; % of 
+Payroll 
+2027 $165,211,000 2.31% 3.25%
+2026 158,932,000 2.31 3.25
+2025 83,503,000 1.25 2.50
+2024 84,487,000 1.25 2.50
+2023 70,098,000 1.05 2.30
+2022 56,646,000 0.84 2.09
+House Research Department
+(Minn. Stat. §§ 126C.10, subd. 38; 127A.50)
+Minnesota School Finance
+Minnesota House Research Department Page 37
+14. Options Adjustments
+A school district’s general education revenue is adjusted by three “options” adjustments, based 
+on enrollment changes made under student movement programs. A district’s general 
+education revenue is: 
+1) reduced by the amount of referendum aid attributable to resident pupils who are 
+open-enrolled or attend a charter school and increased by the referendum aid 
+amounts for nonresident students enrolled in the school;
+2) reduced by certain aid payments for resident pupils who attend the Minnesota 
+Academies for the Deaf or Blind; and
+3) increased by an aid amount equal to the transportation portion of each charter 
+school pupil whom the resident school district transports.
+(Minn. Stat. § 127A.47)
+Minnesota School Finance
+Minnesota House Research Department Page 38
+Table 15: Characteristics of Largest and Smallest School Districts
+Fiscal Year 2026
+Sparsest District
+District #363 197 APU 
+South Koochiching 90 secondary ADM
+1,279 population 0.12 pupils/sq. mile
+1,532 sq. miles $6,072 sparsity/APU
+179 pupils 1 PK-12 school
+House Research Department
+Geographically 
+Smallest District
+District #282 
+St. Anthony-New Brighton
+11,033 population 
+2.59 sq. miles 
+1,877 pupils
+2,085 APU
+1,028 secondary ADM
+722 pupils/sq. mile
+$0 sparsity/APU
+1 elementary school
+1 middle school
+1 high school
+Geographically Largest 
+District
+District #2142 
+St. Louis County 
+17,488 population 
+4,201 sq. miles 
+1,873 pupils 
+2,046APU
+845 secondary ADM
+0.45 pupils/sq. mile
+$1,577 sparsity/APU
+4 PK-12 schools
+1 PK-6 school
+Densest District
+District #286 732 secondary ADM
+Brooklyn Center 805 pupils/sq. mile
+9,891 population $0 sparsity/APU
+2.7 sq. miles 1 elementary school
+2,174 pupils 1 middle school
+2,427 APU 1 secondary school
+Minnesota School Finance
+Minnesota House Research Department Page 39
+Reserved Revenue 
+School districts are required to reserve a portion of their general education revenue for certain 
+purposes. The reserved amounts and purposes are as follows.
+Staff development. School districts must reserve 2 percent of their basic general education 
+revenue ($149.62 per pupil unit for fiscal year 2026) for staff development purposes. A school 
+board and its teacher union may mutually agree to waive this requirement. This staff 
+development reserve was legislatively suspended for fiscal years 2004 and 2005 and was 
+legislatively suspended again for fiscal years 2010 through 2013. 
+Class size reduction. A portion of each district’s general education revenue must be reserved 
+to reduce class sizes in the early elementary grades. The reserved revenue for class size 
+reduction equals the sum of $299 times the number of kindergarten students (measured by 
+adjusted average daily membership) and $459 times the adjusted average daily membership in 
+grades 1 to 6.
+The reserved revenue must be used to reduce kindergarten, and first through third grade class 
+sizes to a ratio of 17 students to one classroom teacher. Once the district achieves a class size 
+of 17:1 in grades kindergarten through 3, the district must use the remaining reserved revenue 
+(if any) to reduce class sizes in subsequent elementary grades. 
+In fiscal year 2026, school districts are expected to reserve $189 million for class size reduction.
+Table 16: Revenue Reserved for Class Size Reduction
+Fiscal Year Formula Allowance Reserved Revenue
+2027 $299 per pupil for K; 
+$459 per pupil for 1-6
+$187,076,000
+2026 $299 per pupil for K; 
+$459 per pupil for 1-6
+188,909,000
+2025 $299 per pupil for K; 
+$459 per pupil for 1-6
+191,226,000
+2024 $299 per pupil for K; 
+$459 per pupil for 1-6
+191,699,000
+2023 $299 per pupil for K; 
+$459 per pupil for 1-6
+191,125,000
+2022 $299 per pupil for K; 
+$459 per pupil for 1-6
+190,378,000
+House Research Department
+Operating capital revenue. For purposes of eligible operating capital expenditures (see page 
+32 for details), a district must reserve an amount equal to its operating capital revenue.
+(Minn. Stat. §§ 122A.61; 126C.12)
+Minnesota School Finance
+Minnesota House Research Department Page 40
+Aid and Levy Calculations
+School districts receive the vast majority of general education revenue from state aid payments 
+(charter schools receive their general education revenue entirely in state aid). The mix of aid 
+and levy is designed to equalize local tax burdens. A school finance program that provides the 
+same amount of total revenue per pupil unit to each district and requires the same tax rate of 
+local effort is said to be fully equalized. Under an equalized system, the higher a district’s 
+property wealth per pupil unit, the lower the amount of education aid the district receives from 
+the state for that program and the higher the amount of revenue provided through the local 
+district’s property tax.
+Operating Capital Levy and Aid. A district’s operating capital is provided through an equalized 
+aid and levy (for the decade prior to fiscal year 2005, the full amount of operating capital was 
+provided through state aid). The operating capital equalizing factor has changed a fair amount 
+in the last decade. This levy has often changed to balance out other levy changes in the annual 
+K-12 bills. The equalizing factor equals $22,912 for fiscal year 2026 and later.
+Equity Levy and Aid. A district’s equity revenue is equalized on referendum market value using 
+an equalizing factor of $510,000 for fiscal year 2025 and later. This revenue is calculated and 
+spread on referendum market value—so the levy is not spread on agricultural lands or seasonal 
+recreational property. 
+Transition Levy and Aid. A district’s transition revenue is equalized on referendum market 
+value using an equalizing factor of $510,000.
+Table 17: General Education Program Aid Entitlement and Levy
+Fiscal Year
+2024 2025 2026 2027
+Basic 
+General 
+Education
+Aid $6,686,404,000 $6,797,124,000 $6,934,496,000 $7,107,509,000
+Levy 0 0 0 0
+Operating 
+Capital
+Aid 119,734,000 106,545,000 94,727,000 92,693,000
+Levy 93,279,000 106,947,000 117,618,000 118,629,000
+Equity
+Aid 14,352,000 11,483,000 10,393,000 10,144,000
+Levy 92,112,000 94,407,000 93,829,000 93,708,000
+Transition
+Aid 3,392,000 3,270,000 2,879,000 2,930,000
+Levy 24,292,000 24,538,000 24,382,000 24,257,000
+Minnesota School Finance
+Minnesota House Research Department Page 41
+Fiscal Year
+2024 2025 2026 2027
+House Research Department
+Referendum Revenue
+The referendum revenue program, often referred to as the operating referendum levy or the 
+excess levy referendum, is a mechanism that allows a school district to obtain voter approval to 
+increase its revenue beyond the limits set in statute. Because of the exceptional growth in the 
+referendum levy in the late 1980s and early 1990s, the legislature made several changes to the 
+program including: equalizing a portion of the revenue; capping the total amount of per pupil 
+revenue a district may have; limiting the length of time that new referendums may run
+(currently no longer than ten years); and requiring referendums approved after November 1, 
+1992, to be spread on referendum market value instead of tax capacity.
+The 2001 Legislature reduced the referendum levy beginning in fiscal year 2003. Each district’s 
+referendum revenue was reduced by $415 per pupil unit. (A district with less than $415 per 
+pupil in referendum authority lost the full amount of its authority.) At the same time the 
+referendum was reduced, the basic formula allowance for all districts was increased by $415 
+per pupil unit. As a result, referendum revenue was reduced by approximately $200 million. 
+Since that time, referendum revenue has increased substantially as a result of subsequent 
+elections. The 2013 Legislature made a number of significant changes to referendum revenue 
+beginning in fiscal year 2015. These changes included:
+1) changing the allowance from an amount per resident pupil unit to an amount per 
+adjusted pupil unit (the fiscal year 2015 conversion will keep the total dollar 
+amount of authority the same);
+2) allowing a district to implement the first $300 per pupil of referendum authority 
+by board action;
+3) creating a new category of revenue called location equity revenue and allowing a 
+board to choose to convert referendum authority to location equity revenue;
+4) dividing the equalization aid into three tiers and increasing the equalization of the 
+first tier; and
+5) modifying the referendum revenue cap and eliminating the grandfather cap.
+The 2019 Legislature switched the first $300 per pupil (the board-approved amount) from 
+operating referendum revenue to local optional revenue beginning in fiscal year 2021. This 
+shift is revenue neutral but returns all referendum revenue to voter-approved authority.
+(Minn. Stat. § 126C.17)
+Referendum Revenue Cap. A school district eligible for sparsity revenue is not subject to a cap 
+on referendum revenue (104 school districts were eligible for sparsity revenue during the 2024-
+25 school year). For other districts, the estimated referendum revenue cap is $2,194 per pupil 
+unit for fiscal year 2025. 
+Minnesota School Finance
+Minnesota House Research Department Page 42
+Referendum Revenue Equalization. A school district’s referendum revenue consists of two
+equalized tiers. The first tier of equalization aid is the amount up to $460 per adjusted pupil. 
+This tier carries an equalizing factor of $576,000 per pupil. The second tier is the per pupil 
+amount up to 25 percent of the basic formula allowance. This tier is equalized at $290,000 per 
+pupil. Referendum revenue for fiscal year 2026 is computed as follows:
+Total Referendum 
+Revenue = Adjusted Pupil Units x Referendum Allowance
+Tier 1 Revenue = the lesser of:
+(1) $460 per adjusted pupil unit; or
+(2) the district’s Total Referendum Revenue
+Tier 1 Equalization Levy = Tier 1 Revenue x the lesser of:
+(1) 1; or 
+(2) district referendum market value per pupil unit
+$576,000
+Tier 1 Equalization Aid = Tier 1 Revenue – Tier 1 Equalized Levy
+Tier 2 Revenue = (1) the lesser of:
+(i) the district’s referendum revenue; or 
+(ii) an amount equal to 25 percent of the basic formula allowance 
+times the district’s resident pupil units less,
+(2) its tier 1 referendum revenue
+Tier 2 Equalization Levy = Tier 2 Revenue x the lesser of:
+(1) 1; or
+(2) district’s market value per pupil unit
+$290,000
+Tier 2 Equalization Aid = Tier 2 Revenue – Tier 2 Equalized Levy
+Total Referendum 
+Equalization Aid = 
+Tier 1 Equalization 
+Aid + Tier 2 Equalization Aid
+Total Referendum Levy = Total Referendum Revenue – Total Referendum Equalization Aid
+Referendum Tax Base Replacement Aid. Referendum tax base replacement aid was 
+implemented by the 2001 Legislature as a mechanism designed to compensate school districts 
+for the loss of agricultural land and cabin tax base. Tax base replacement aid is a frozen dollar 
+amount based on fiscal year 2003 characteristics. Any referendum equalization aid earned by 
+the school district is first offset by referendum tax base replacement aid. The remaining 
+equalization aid, if any, is the amount used when computing the referendum aid accompanying 
+charter schools and open enrollment pupils. 
+Minnesota School Finance
+Minnesota House Research Department Page 43
+Election Requirements. A district’s general levy can be increased with the approval of the 
+voters at a referendum called by the school board. The election must be held during the 
+November election only, unless the election is held by mail ballot or upon approval of the 
+Commissioner of Education, if the district is in statutory operating debt. If the election is 
+conducted by mail ballot, it must be in accordance with state election law, and each taxpayer 
+must receive notice of the election and of the proposed tax increase at least 20 days before the 
+referendum. 
+Onetime Board Renewal. A school board may renew an existing referendum at the same per 
+pupil dollar allowance and for the same time term (most referenda are approved for a term of 
+ten years). The onetime board renewal must occur after a school board meeting where public 
+testimony on the proposed renewal is considered. 
+Referendum Market Value. Unlike most other school district levies, referendum levies are 
+spread on referendum market value instead of net tax capacity. Referendum market value is 
+the market value of all property within the school district with two exceptions. First, all 
+seasonal recreational property (cabins) and farmland are excluded from referendum market 
+value. Second, any property with a class rate of less than 1.0 percent is taxed at its market 
+value times its class rate.
+(Minn. Stat. § 126C.17)
+Table 18: Referendum Revenue Allowances and Equalizing Factors
+Fiscal 
+Year
+Referendum Cap 
+Per Pupil
+First-tier 
+Allowance Per 
+Pupil
+First-tier 
+Equalizing 
+Factor 
+Second-tier 
+Allowance 
+Per Pupil
+Second-tier 
+Equalizing 
+Factor 
+2027* $2,367 $460 $567,000 >$460 $290,000
+2026* 2,294 460 567,000 >460 290,000
+2025 2,210 460 567,000 >460 290,000
+2024 2,146 460 567,000 >460 290,000
+2023 2,068 460 567,000 >460 290,000
+2022 1,928 460 567,000 >460 290,000
+*Estimated
+House Research Department
+Table 19: Referendum Revenue Amounts
+Fiscal Year
+Referendum Aid
+Entitlement Referendum Levy
+2027 $9,622,000 $1,021,013,000
+2026 9,638,000 972,395,000
+Minnesota School Finance
+Minnesota House Research Department Page 44
+Fiscal Year
+Referendum Aid
+Entitlement Referendum Levy
+2025 17,252,000 913,701,000
+2024 18,800,000 861,495,000
+2023 20,961,000 829,250,000
+2022 24,639,000 742,246,000
+House Research Department
+Permanent School Fund Income
+The Permanent School Fund (PSF) of Minnesota consists of the proceeds of the lands granted to 
+the state by the federal government for the use of schools, proceeds from swamplands granted 
+to the state, and cash and investments credited to the fu
