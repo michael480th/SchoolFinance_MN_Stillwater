@@ -1,0 +1,45 @@
+{
+  "site": {
+    "name": "Stillwater Schools Finance Project",
+    "seal": "834",
+    "sub": "Independent Fiscal Research",
+    "tagline": "Independent research and analysis on the finances of Stillwater Area Public Schools (ISD 834).",
+    "hero_title": "Following the dollars in Stillwater Area Public Schools.",
+    "hero_lede": "A nonpartisan research effort that reads the audits, budgets, and levy filings of Independent School District No. 834 so that residents, journalists, and board members don't have to. We gather the primary documents, reconcile the numbers, and publish plain-language analysis of where the district's money comes from and where it goes.",
+    "as_of": "Headline figures reflect the audited fiscal year ended June 30, 2025 (FY2024–25) and the district's published FY2025–26 budget."
+  },
+  "repo": {
+    "owner": "michael480th",
+    "name": "schoolfinance_mn_stillwater",
+    "branch": "claude/stillwater-schools-homepage-r5jll4"
+  },
+  "stats": [
+    { "num": "8,223",    "lab": "Students served", "note": "2024–25" },
+    { "num": "$155.9M",  "lab": "General Fund expenditures", "note": "FY2024–25 (audited)" },
+    { "num": "$18,749",  "lab": "Operating cost per pupil (ADM)", "note": "FY2024–25" },
+    { "num": "1.1%",     "lab": "Unassigned reserve vs. 5% board-policy floor", "note": "6/30/2025", "tone": "alert" },
+    { "num": "$167.3M",  "lab": "Long-term debt outstanding", "note": "Bonds + COPs, 6/30/2025" }
+  ],
+  "collections": [
+    {
+      "path": "02_Summaries_and_Analysis",
+      "title": "Analysis & Summaries",
+      "blurb": "Consolidated, reconciled financial summaries the project has prepared from the primary documents."
+    },
+    {
+      "path": "01_Source_Documents",
+      "title": "Source Document Library",
+      "blurb": "Primary audited financial reports and official budget publications, saved here for direct reference. Grouped by document type."
+    },
+    {
+      "path": "03_Reference_Notes",
+      "title": "Reference & Methodology",
+      "blurb": "Working notes on how Minnesota school finance works, how district financial health is measured, and where the underlying public data lives."
+    }
+  ],
+  "labels": {
+    "ACFRs": "Annual Comprehensive Financial Reports (audited)",
+    "Budget_FY2025-26": "Budget — FY2025–26",
+    "Budget_FY2026-27": "Budget — FY2026–27"
+  }
+}
