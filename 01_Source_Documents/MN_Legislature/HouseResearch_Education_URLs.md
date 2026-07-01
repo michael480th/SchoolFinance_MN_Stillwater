@@ -19,12 +19,13 @@
 | 2024 Act Summary - Ch. 109: Education Policy | https://www.house.mn.gov/hrd/as/93/as109.pdf |
 
 ### K-12 Funding Publications
-| Publication | URL | Notes |
-|-------------|-----|-------|
-| K-12 Education Compensatory Revenue | https://www.house.mn.gov/hrd/pubs/edcomprev.pdf | 4 pages, Nov 2025 |
-| Minnesota's K-12 Education Subtraction and Credit | https://www.house.mn.gov/hrd/pubs/ss/sseducdc.pdf | Jan 2026 |
-| School Aid Payment Shifts | (see archived) | 5 pages, Sep 2020 |
-| Estimated Federal Covid-19 Funds for Schools | https://www.house.mn.gov/hrd/issinfo/FedCovidMoneySchools.pdf | |
+| Publication | URL | Notes | File Saved |
+|-------------|-----|-------|------------|
+| K-12 Education Compensatory Revenue | https://www.house.mn.gov/hrd/pubs/edcomprev.pdf | 4 pages, Nov 2025 | CompensatoryRevenue_Nov2025.md ✅ |
+| Minnesota's K-12 Education Subtraction and Credit | https://www.house.mn.gov/hrd/pubs/ss/sseducdc.pdf | Jan 2026 | K12EducationSubtractionCredit_Jan2026.md ✅ |
+| School Aid Payment Shifts | https://www.house.mn.gov/hrd/pubs/aidshifts.pdf | 5 pages, Sep 2020 | SchoolAidPaymentShifts_Sep2020.md ✅ |
+| MN PreK-12 Education Finance System Overview | https://www.house.mn.gov/hrd/issinfo/2025EducFinance.pdf | Committee overview, Jan 2025 | MNPreK12EducationFinanceOverview_Jan2025.md ✅ |
+| Estimated Federal Covid-19 Funds for Schools | https://www.house.mn.gov/hrd/issinfo/FedCovidMoneySchools.pdf | | Not yet saved |
 
 ### Students / Enrollment Data
 | Publication | URL |
@@ -33,14 +34,14 @@
 | Student Movement by District (interactive spreadsheets) | https://www.house.mn.gov/hrd/tools.aspx (via Data & Tools) |
 
 ### Other Education Publications
-| Publication | URL |
-|-------------|-----|
-| Academic Standards | https://www.house.mn.gov/hrd/pubs/ss/ssacadstand.pdf |
-| Minnesota's Graduation Requirements | https://www.house.mn.gov/hrd/pubs/hsgradreq.pdf |
-| Minnesota's Student Assessments | https://www.house.mn.gov/hrd/pubs/ss/ssgradasst.pdf |
-| School Transportation Regulation (25 pages, Jul 2023) | (see archived/topics) |
-| Dual Enrollment Programs (4 pages, Mar 2025) | https://www.house.mn.gov/hrd/ |
-| Teacher Recruitment Programs (12 pages, Mar 2025) | https://www.house.mn.gov/hrd/ |
+| Publication | URL | File Saved |
+|-------------|-----|------------|
+| Academic Standards | https://www.house.mn.gov/hrd/pubs/ss/ssacadstand.pdf | Not yet saved |
+| Minnesota's Graduation Requirements | https://www.house.mn.gov/hrd/pubs/hsgradreq.pdf | Not yet saved |
+| Minnesota's Student Assessments | https://www.house.mn.gov/hrd/pubs/ss/ssgradasst.pdf | Not yet saved |
+| School Transportation Regulation (25 pages, Jul 2023) | https://www.house.mn.gov/hrd/pubs/schoolbus.pdf | SchoolTransportationRegulation_Jul2023.md ✅ |
+| Dual Enrollment Programs (4 pages, Mar 2025) | https://www.house.mn.gov/hrd/pubs/dualenrl.pdf | DualEnrollmentPrograms_Mar2025.md ✅ |
+| Teacher Recruitment Programs (12 pages, Mar 2025) | https://www.house.mn.gov/hrd/pubs/teachrecruit.pdf | TeacherRecruitmentPrograms_Mar2025.md ✅ |
 
 ---
 

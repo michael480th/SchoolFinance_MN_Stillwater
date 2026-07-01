@@ -1,6 +1,6 @@
 # Data Collection Status — Stillwater Area Public Schools (ISD 834)
-*Last updated: 2026-07-01 (Session 4)*
-*Resume point: MDE School Finance page navigation COMPLETE. All subpages documented in Navigation Reference. 2025 Act Summary saved. Next: manual downloads of idcplg docs and NCES ZIPs.*
+*Last updated: 2026-07-01 (Session 4 continued)*
+*Resume point: House Research publications batch COMPLETE (6 new files saved). MDE Navigation Reference extended with 11 new sections (Special Ed, Charter Schools, Facilities, Child Count, Federal Aid, etc.). Next: manual downloads of idcplg docs, Data Center Flash portal docs, and NCES ZIPs.*
 
 ---
 
@@ -22,6 +22,12 @@
 | 6b | MN Legislature — Act Summaries | ✅ 2025 SS1 Ch.10, 2024 Ch.115, 2024 Ch.109 | MN_Legislature/ |
 | 6c | MN Legislature — Compensatory Revenue | ✅ Nov 2025 | MN_Legislature/ |
 | 6d | MN Legislature — K-12 Education Tax Credit | ✅ Jan 2026 | MN_Legislature/ |
+| 6e | MN Legislature — Dual Enrollment Programs | ✅ Mar 2025 (PSEO + concurrent enrollment funding) | MN_Legislature/ |
+| 6f | MN Legislature — Teacher Recruitment Programs | ✅ Mar 2025 (GYO, PELSB, tiered licensing) | MN_Legislature/ |
+| 6g | MN Legislature — School Aid Payment Shifts | ✅ Sep 2020 (90/10 aid structure, historical shifts) | MN_Legislature/ |
+| 6h | MN Legislature — PreK-12 Finance Overview | ✅ Jan 2025 committee overview (gen ed, sped costs) | MN_Legislature/ |
+| 6i | MN Legislature — School Transportation Regulation | ✅ Jul 2023 (2-mile rule, vehicle types, MDE role) | MN_Legislature/ |
+| 6j | MN Legislature — Minnesota Student Assessments | ✅ Feb 2026 (MCA schedule, opt-out, accountability) | MN_Legislature/ |
 | 7a | Budget documents | ✅ FY2025-26, FY2026-27 (pre-existing) | Budget_FY2025-26/, Budget_FY2026-27/ |
 | 8a | MMB Payroll | ❌ NOT APPLICABLE — state employees only; excludes ISD 834 staff | — |
 
@@ -75,7 +81,13 @@
 - `ActSummary_2024_Ch109_EducationPolicy.txt` — 2024 Ch.109 Education Policy ✅
 - `CompensatoryRevenue_Nov2025.md` — compensatory revenue formula reference ✅
 - `K12EducationSubtractionCredit_Jan2026.md` — tax subtraction/credit reference ✅
-- `HouseResearch_Education_URLs.md` — index of all MN House Research education publications ✅
+- `DualEnrollmentPrograms_Mar2025.md` — PSEO + concurrent enrollment; 88%/12% funding split ✅
+- `TeacherRecruitmentPrograms_Mar2025.md` — GYO, PELSB tiered licensing, teacher pipeline programs ✅
+- `SchoolAidPaymentShifts_Sep2020.md` — 90/10 aid structure; historical shift tables 1983–2021 ✅
+- `MNPreK12EducationFinanceOverview_Jan2025.md` — committee overview; gen ed/sped costs; property tax ✅
+- `SchoolTransportationRegulation_Jul2023.md` — two-mile rule, vehicle types, MDE funding role ✅
+- `MinnesotaStudentAssessments_Feb2026.md` — MCA schedule, opt-out rules, accountability system ✅
+- `HouseResearch_Education_URLs.md` — index of all MN House Research education publications ✅ (updated)
 
 ---
 
@@ -122,6 +134,9 @@ All at: `https://public.education.mn.gov/MDEAnalytics/DataTopic.jsp?TOPICID=XX`
 | Indirect Cost Rates | 45 | Indirect cost rate tables |
 | Transportation | 47 | Transportation revenue/expenditure data |
 | Facilities and Technology | 48 | Building age reports, review & comment |
+| Special Education | 46 | Special ed aid, cross subsidy data |
+| **Child Count** | **455** | **Special ed child count by disability category** |
+| Charter Schools | 35 | Charter school finance data |
 
 ### NCES F-33 ZIP Files (manual download — filter NCESDISTID=2738190)
 | Year | URL |
@@ -178,12 +193,13 @@ All at: `https://public.education.mn.gov/MDEAnalytics/DataTopic.jsp?TOPICID=XX`
 
 **NCES F-33 ZIP files** → filter to NCESDISTID=2738190 → save rows to `NCES_F33/`
 
-### 2. Potentially Automatable (lower priority)
-- MDE MARSS subpages (memo lists, reporting instructions) — additional document IDs
-- MDE Facilities subpages (Lease Authority, School Construction, Alternative Facilities)
-- MDE Charter Schools page (/MDE/dse/schfin/char/)
-- Additional MN House Research publications (Dual Enrollment, Teacher Recruitment)
-- MN Report Card — test scores/proficiency data for ISD 834
+### 2. Blocked by JavaScript Rendering (Cannot Automate)
+- MN Report Card — test score/proficiency data for ISD 834 (SPA, JS-rendered; RC API returns empty)
+- NCES ELSI — district-level enrollment/finance table generator (JS-rendered)
+- MDE school finance pages — entire MDE site returns empty via web_fetch (SPA)
+
+### 3. No Further Action Needed for MN Legislature Docs
+- All key House Research publications saved ✅ (13 files in MN_Legislature/)
 
 ### 3. No Action Needed
 - MMB payroll data: state employees only — ISD 834 staff NOT included
