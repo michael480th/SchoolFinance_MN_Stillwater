@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import html
 import json
+import math
 import os
 import re
 import sys
@@ -38,6 +39,19 @@ WEB_SERVED = {".pdf", ".html", ".htm", ".csv", ".xlsx", ".xls", ".png",
               ".jpg", ".jpeg", ".svg", ".json", ".txt"}
 # Extensions we'd rather link to GitHub's rendered view.
 GITHUB_RENDERED = {".md", ".markdown"}
+# Editor/OS backup artifacts that should never appear on the public site.
+IGNORE_SUFFIXES = (" - copy",)
+IGNORE_NAMES = {".ds_store", "thumbs.db", ".nojekyll"}
+
+
+def is_ignored_file(name: str) -> bool:
+    lower = name.lower()
+    if lower in IGNORE_NAMES or name.startswith("."):
+        return True
+    if name.startswith("~$"):
+        return True
+    stem = os.path.splitext(lower)[0]
+    return stem.endswith(IGNORE_SUFFIXES)
 
 
 # --------------------------------------------------------------------------- #
@@ -179,7 +193,7 @@ def collect_files(coll_path: Path) -> dict[str, list[Path]]:
         rel_dir = os.path.relpath(dirpath, coll_path)
         key = "" if rel_dir == "." else rel_dir.split(os.sep)[0]
         for fn in sorted(filenames):
-            if fn.startswith(".") or fn == ".nojekyll":
+            if is_ignored_file(fn):
                 continue
             groups.setdefault(key, []).append(Path(dirpath) / fn)
     return groups
@@ -201,7 +215,7 @@ def render_collection(coll: dict, config: dict) -> str:
         for key in ordered_keys:
             files = groups[key]
             heading = (humanize_dirname(key, labels) if key
-                       else "Documents")
+                       else coll.get("root_label", "Documents"))
             items = []
             for f in files:
                 ext = f.suffix.lower()
@@ -267,18 +281,161 @@ def render_stats(stats: list[dict]) -> str:
     return '      <div class="stats">\n' + "\n".join(tiles) + "\n      </div>"
 
 
+def svg_line_chart(trends: dict) -> str:
+    """Render a small, accessible multi-series line chart as inline SVG.
+
+    Single axis only (all series share the same $ scale). Every series is
+    direct-labeled at its endpoint and named in a legend, so identity never
+    depends on color alone; the adjacent data table is the table view.
+    """
+    x = trends["x"]
+    series = trends["series"]
+    n = len(x)
+    step = trends.get("y_tick_step", 2000)
+    unit = trends.get("y_unit", "")
+
+    values = [v for s in series for v in s["values"]]
+    lo = math.floor(min(values) / step) * step
+    hi = math.ceil(max(values) / step) * step
+    if hi == lo:
+        hi = lo + step
+    ticks = list(range(lo, hi + 1, step))
+
+    W, H = 760, 340
+    padL, padR, padT, padB = 60, 118, 52, 42
+    x0, x1 = padL, W - padR
+    y0, y1 = padT, H - padB
+
+    def px(i: int) -> float:
+        return x0 if n == 1 else x0 + (x1 - x0) * (i / (n - 1))
+
+    def py(v: float) -> float:
+        return y1 - (v - lo) / (hi - lo) * (y1 - y0)
+
+    def money(v: float) -> str:
+        return f"{unit}{v/1000:.1f}k" if abs(v) >= 1000 else f"{unit}{v:.0f}"
+
+    parts = [
+        f'<svg viewBox="0 0 {W} {H}" role="img" '
+        f'aria-labelledby="chart-title chart-desc" class="trend-chart" '
+        f'preserveAspectRatio="xMidYMid meet">',
+        f'<title id="chart-title">{esc(trends["title"])}</title>',
+        '<desc id="chart-desc">Line chart comparing total per-pupil spending '
+        'for Stillwater Area Public Schools against the Minnesota statewide '
+        'average, fiscal years 2021 through 2025. Full figures appear in the '
+        'table below.</desc>',
+    ]
+
+    # Horizontal gridlines + y labels
+    for t in ticks:
+        y = py(t)
+        parts.append(
+            f'<line x1="{x0}" y1="{y:.1f}" x2="{x1}" y2="{y:.1f}" '
+            f'stroke="#e8e2d6" stroke-width="1"/>')
+        parts.append(
+            f'<text x="{x0-10:.1f}" y="{y+4:.1f}" text-anchor="end" '
+            f'class="axis">{esc(money(t))}</text>')
+
+    # X labels
+    for i, lab in enumerate(x):
+        parts.append(
+            f'<text x="{px(i):.1f}" y="{y1+24:.1f}" text-anchor="middle" '
+            f'class="axis">{esc(lab)}</text>')
+
+    # Series: polyline, markers, endpoint value label
+    for s in series:
+        color = s.get("color", "#3a7cc0")
+        pts = " ".join(f"{px(i):.1f},{py(v):.1f}"
+                       for i, v in enumerate(s["values"]))
+        parts.append(
+            f'<polyline points="{pts}" fill="none" stroke="{esc(color)}" '
+            f'stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>')
+        for i, v in enumerate(s["values"]):
+            parts.append(
+                f'<circle cx="{px(i):.1f}" cy="{py(v):.1f}" r="4.5" '
+                f'fill="{esc(color)}" stroke="#ffffff" stroke-width="1.5"/>')
+        last = len(s["values"]) - 1
+        parts.append(
+            f'<text x="{px(last)+12:.1f}" y="{py(s["values"][last])+4:.1f}" '
+            f'class="endlabel">{esc(money(s["values"][last]))}</text>')
+
+    # Legend (top-left)
+    lx, ly = x0, 26
+    for s in series:
+        color = s.get("color", "#3a7cc0")
+        parts.append(
+            f'<rect x="{lx:.1f}" y="{ly-9:.1f}" width="12" height="12" '
+            f'rx="2.5" fill="{esc(color)}"/>')
+        parts.append(
+            f'<text x="{lx+18:.1f}" y="{ly+1:.1f}" class="legend">'
+            f'{esc(s["name"])}</text>')
+        lx += 20 + len(s["name"]) * 7.4 + 26
+
+    parts.append("</svg>")
+    return "\n".join(parts)
+
+
+def render_trends(config: dict) -> str:
+    trends = config.get("trends")
+    if not trends:
+        return ""
+    chart = svg_line_chart(trends)
+
+    highlights = "".join(
+        f"<li>{esc(h)}</li>" for h in trends.get("highlights", []))
+    highlights_html = (
+        f'<ul class="highlights">{highlights}</ul>' if highlights else "")
+
+    # Data table (the accessible "table view")
+    head_cells = "".join(f'<th class="num">{esc(c)}</th>' for c in trends["x"])
+    body_rows = []
+    for s in trends["series"]:
+        cells = "".join(
+            f'<td class="num">${v:,.0f}</td>' for v in s["values"])
+        body_rows.append(
+            f'<tr><th scope="row"><span class="swatch" '
+            f'style="background:{esc(s.get("color","#3a7cc0"))}"></span>'
+            f'{esc(s["name"])}</th>{cells}</tr>')
+    table = (
+        f'<table class="trend-table"><caption class="sr-only">'
+        f'{esc(trends["title"])}</caption><thead><tr>'
+        f'<th scope="col">Per-pupil spending</th>{head_cells}</tr></thead>'
+        f'<tbody>{"".join(body_rows)}</tbody></table>')
+
+    return f"""    <section class="block trends" id="data-trends">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="kicker">Data &amp; trends</p>
+          <h2>{esc(trends['title'])}</h2>
+          <p>{esc(trends.get('blurb',''))}</p>
+        </div>
+        <div class="trend-grid">
+          <figure class="trend-figure">
+            {chart}
+            <figcaption>{esc(trends.get('source',''))}</figcaption>
+          </figure>
+          <div class="trend-side">
+            {highlights_html}
+          </div>
+        </div>
+        {table}
+      </div>
+    </section>"""
+
+
 def render_page(config: dict) -> str:
     site = config["site"]
     pubs = discover_publications()
     stats_html = render_stats(config.get("stats", []))
+    trends_html = render_trends(config)
     pubs_html = render_publications(pubs)
     collections_html = "\n".join(
         render_collection(c, config) for c in config.get("collections", []))
     year = "2026"
 
     nav_links = [
+        ("Data & Trends", "#data-trends"),
         ("Publications", "#publications"),
-        ("Analysis", "#analysis-summaries"),
         ("Source Library", "#source-document-library"),
         ("Reference", "#reference-methodology"),
         ("About", "#about"),
@@ -329,6 +486,8 @@ def render_page(config: dict) -> str:
   </div>
 
   <main>
+{trends_html}
+
     <section class="block" id="publications">
       <div class="wrap">
         <div class="section-head">

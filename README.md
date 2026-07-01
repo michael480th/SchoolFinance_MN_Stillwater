@@ -80,11 +80,21 @@ PDFs, spreadsheets, and HTML are linked directly (served by Pages); Markdown
 notes link to their rendered view on GitHub. To add a whole new collection or
 change section blurbs, edit the `collections` list in `site.json`.
 
-## Updating the headline numbers
+## Updating the headline numbers and trend chart
 
-The five figures in the hero band live in the `stats` array in `site.json`.
-Set `"tone": "alert"` on a stat to render it in caution red. Update these when
-a new audit or budget lands, then rebuild.
+- **Hero stat tiles** live in the `stats` array in `site.json`. Set
+  `"tone": "alert"` on a stat to render it in caution red.
+- **The "Data & Trends" chart** (the per-pupil line chart on the homepage) is
+  driven by the `trends` block in `site.json`: edit `x` (the year labels),
+  each series' `values`, the `highlights` bullets, and the `source` line. The
+  builder redraws the SVG and the data table from those numbers — no chart code
+  to touch. Add a third series by appending another `{name, color, values}`
+  object (use a validated, colorblind-safe hue).
+
+Update these when a new audit, budget, or Report Card release lands, then rebuild.
+
+> Editor/OS backup artifacts (`* - Copy.md`, `~$*`, `.DS_Store`, `Thumbs.db`)
+> are automatically skipped, so they never show up in the document lists.
 
 ---
 

@@ -5,21 +5,39 @@
     "sub": "Independent Fiscal Research",
     "tagline": "Independent research and analysis on the finances of Stillwater Area Public Schools (ISD 834).",
     "hero_title": "Following the dollars in Stillwater Area Public Schools.",
-    "hero_lede": "A nonpartisan research effort that reads the audits, budgets, and levy filings of Independent School District No. 834 so that residents, journalists, and board members don't have to. We gather the primary documents, reconcile the numbers, and publish plain-language analysis of where the district's money comes from and where it goes.",
-    "as_of": "Headline figures reflect the audited fiscal year ended June 30, 2025 (FY2024–25) and the district's published FY2025–26 budget."
+    "hero_lede": "A nonpartisan research effort that reads the audits, budgets, levy filings, and state data behind Independent School District No. 834 so residents, journalists, and board members don't have to. We gather the primary documents — five years of audited reports, the state's per-pupil spending data, and Minnesota's school-finance law — reconcile the numbers, and publish plain-language analysis of where the district's money comes from and where it goes.",
+    "as_of": "Figures span the FY2021–FY2025 audited and MN Report Card period and the district's FY2025–26 budget. Enrollment is the October 2025 (FY2026) count."
   },
   "repo": {
     "owner": "michael480th",
-    "name": "schoolfinance_mn_stillwater",
-    "branch": "claude/stillwater-schools-homepage-r5jll4"
+    "name": "SchoolFinance_MN_Stillwater",
+    "branch": "main"
   },
   "stats": [
-    { "num": "8,223",    "lab": "Students served", "note": "2024–25" },
-    { "num": "$155.9M",  "lab": "General Fund expenditures", "note": "FY2024–25 (audited)" },
-    { "num": "$18,749",  "lab": "Operating cost per pupil (ADM)", "note": "FY2024–25" },
-    { "num": "1.1%",     "lab": "Unassigned reserve vs. 5% board-policy floor", "note": "6/30/2025", "tone": "alert" },
-    { "num": "$167.3M",  "lab": "Long-term debt outstanding", "note": "Bonds + COPs, 6/30/2025" }
+    { "num": "8,461",   "lab": "Students enrolled", "note": "Oct 2025 (FY2026)" },
+    { "num": "$155.9M", "lab": "General Fund expenditures", "note": "FY2024–25 (audited)" },
+    { "num": "$17,272", "lab": "Total spending per pupil", "note": "FY2025 · +26% since FY2021" },
+    { "num": "20.0%",   "lab": "Students in special education", "note": "FY2026 · up from 17.3% in FY2023" },
+    { "num": "1.1%",    "lab": "Unassigned reserve vs. 5% policy floor", "note": "6/30/2025", "tone": "alert" },
+    { "num": "$167.3M", "lab": "Long-term debt outstanding", "note": "Bonds + COPs, 6/30/2025" }
   ],
+  "trends": {
+    "title": "Per-pupil spending: five-year trend",
+    "blurb": "Total spending per student (General Operating Fund, state, local, and federal) as reported to the Minnesota Report Card. Stillwater has pulled steadily above the statewide average since FY2022.",
+    "x": ["FY21", "FY22", "FY23", "FY24", "FY25"],
+    "y_unit": "$",
+    "y_tick_step": 2000,
+    "series": [
+      { "name": "Stillwater (ISD 834)", "color": "#3a7cc0", "values": [13743, 13658, 15223, 16050, 17272] },
+      { "name": "Minnesota statewide",  "color": "#d89a2c", "values": [13266, 14036, 14677, 15560, 16265] }
+    ],
+    "highlights": [
+      "Stillwater's per-pupil spending rose 25.7% in four years — from $13,743 (FY2021) to $17,272 (FY2025).",
+      "Special-education spending per pupil climbed from $2,576 to $3,558 (+38%) over the same period.",
+      "Federal dollars per pupil fell from $546 (FY2021) to $335 (FY2025) as pandemic aid wound down."
+    ],
+    "source": "MN Report Card — Fiscal Transparency, ISD 834, FY2021–FY2025 (data as of April 17, 2026)."
+  },
   "collections": [
     {
       "path": "02_Summaries_and_Analysis",
@@ -29,7 +47,8 @@
     {
       "path": "01_Source_Documents",
       "title": "Source Document Library",
-      "blurb": "Primary audited financial reports and official budget publications, saved here for direct reference. Grouped by document type."
+      "blurb": "The primary record: five years of audited reports and official budgets, plus the state enrollment, per-pupil, legislative, and audit-standard sources behind the analysis. Grouped by origin.",
+      "root_label": "Project notes & navigation"
     },
     {
       "path": "03_Reference_Notes",
@@ -40,6 +59,11 @@
   "labels": {
     "ACFRs": "Annual Comprehensive Financial Reports (audited)",
     "Budget_FY2025-26": "Budget — FY2025–26",
-    "Budget_FY2026-27": "Budget — FY2026–27"
+    "Budget_FY2026-27": "Budget — FY2026–27",
+    "MDE_UFARS": "MDE — UFARS chart of accounts",
+    "MN_Legislature": "Minnesota Legislature — finance law & guides",
+    "MN_Report_Card": "MN Report Card — enrollment & per-pupil spending",
+    "NCES_F33": "NCES F-33 — federal school-finance survey",
+    "OSA_Audit_Reports": "Office of the State Auditor — audit standards"
   }
 }
