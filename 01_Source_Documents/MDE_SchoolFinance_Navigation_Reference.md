@@ -297,6 +297,181 @@ URL: https://education.mn.gov/MDE/dse/schfin/trend/
 
 ---
 
+## Charter Schools
+URL: https://education.mn.gov/MDE/dse/schfin/char/
+Contact: mde.funding@state.mn.us
+Data Center: TOPICID=35 (Charter School Lease Aid spreadsheets) — Flash portal barrier
+
+| Document | Date | dDocName |
+|----------|------|----------|
+| FY 2027 Charter School Lease Aid Requirements | 4/20/26 | PROD099197 |
+| FY 2026 Charter School Lease Aid Requirements | 4/4/25 | PROD086102 |
+| FY 2025 Charter School Lease Aid Requirements | 4/10/24 | PROD083866 |
+| Charter School Audit Exception Summary | 10/5/17 | MDE071291 |
+| Facilities ADA/AHERA Info | 10/18/11 | 002678 |
+
+*Note: Charter schools serve ~60,000 students in 160+ schools statewide; not directly relevant to ISD 834 operations.*
+
+---
+
+## Facilities and Technology — Lease Authority
+URL: https://education.mn.gov/MDE/dse/schfin/fac/lease/
+
+| Document | Date | dDocName |
+|----------|------|----------|
+| Capital Lease Levy Application Guidance | 12/9/25 | PROD045788 |
+| Levy for Leasing Administrative Space | 11/25/25 | 046719 |
+| Operating Lease Levy Application | 11/6/25 | PROD084483 |
+| Operating Lease Levy Guidance | 10/28/25 | PROD083213 |
+
+---
+
+## Facilities and Technology — School Construction
+URL: https://education.mn.gov/MDE/dse/schfin/fac/cons/
+Data Center: TOPICID=48 (same as Facilities main — Flash portal barrier)
+
+| Document | Date | dDocName |
+|----------|------|----------|
+| Review and Comment Checklist (projects >$2M/site) | 1/23/20 | 003127 |
+| Guide for Planning School Construction Projects in MN | 11/8/18 | 003121 |
+| School Facility Commissioning Guidelines | 10/1/14 | 003120 |
+
+*Note: Districts must submit Review & Comment to MDE commissioner before initiating building projects over $2M per school site.*
+
+---
+
+## Facilities and Technology — Alternative Facilities
+URL: https://education.mn.gov/MDE/dse/schfin/fac/alt/
+Statute: Minn. Stat. § 123B.59
+
+| Document | Date | dDocName |
+|----------|------|----------|
+| Alternative Facilities Bonding and Levy Program Reference Manual | 3/6/15 | 003895 |
+
+---
+
+## Federal Aid
+URL: https://education.mn.gov/MDE/dse/schfin/aid/
+Contact: mde.funding@state.mn.us
+
+*Note: This page is primarily historical — documents are all related to the 2010 Education Jobs Fund (EdJobs), a one-time federal program. Not a source of ongoing annual data.*
+
+| Document | dDocName |
+|----------|----------|
+| EdJobs Fund Final Allocations to Districts and Charters | 042945 |
+| EdJobs Fund Estimated Allocations (primary state formula) | 004974 |
+| EdJobs Fund Estimated Allocations (primary state formula, earlier) | 002807 |
+| Education Jobs Fund FAQ | 002806 |
+| Education Jobs Fund FAQ Addendum | 002805 |
+| Federal Aid Program with Approved Budgets and No Payments | 002804 |
+
+---
+
+## Special Education (Main)
+URL: https://education.mn.gov/MDE/dse/schfin/sped/
+Contact: mde.spedfunding@state.mn.us
+Data Center: TOPICID=46
+
+**Subpages:**
+- Child Count: /MDE/dse/schfin/sped/count/
+- Federal Allocations: /MDE/dse/schfin/sped/Fed/
+- Special Education Funding Guide: /MDE/dse/schfin/sped/guide/
+- State Funding/Code Sheets: /MDE/dse/schfin/sped/fund/
+- Training: Special Education Funding: /MDE/dse/schfin/sped/train/
+- Tuition Billing: /MDE/dse/schfin/sped/tuit/
+
+| Document | Date | dDocName |
+|----------|------|----------|
+| SFY 2027 Application SPED Funds — Statement of Assurances | — | PROD099085 |
+| SFY 2027 SPED State Aid Calc Calendar | — | PROD099202 |
+| SFY 2027 SPED Application Materials and Eligibility | — | PROD099087 |
+| SPED Construction or Remodeling Q&A | — | MDE089381 |
+| Prior Approval for Federal Funds | — | PROD058405 |
+| SFY 2026 Statement of Assurances | — | PROD083860 |
+| SFY 2026 SPED Application Materials and Eligibility | — | PROD086118 |
+| Appropriate Use of Federal Funds for Conferences/Meals | — | MDE073317 |
+| SPED Out-of-State Travel Request | — | 054184 |
+| SFY 2026 SPED State Aid Calc Calendar | — | PROD086287 |
+
+---
+
+## Special Education — Special Education Funding Guide
+URL: https://education.mn.gov/MDE/dse/schfin/sped/guide/
+
+*Note: 10-section reference guide for SE funding. Each section is a separate downloadable document.*
+
+| Section | dDocName |
+|---------|----------|
+| Title Page / 2026 Reference Guide Cover | MDE059268 |
+| Introduction and Overview | MDE059269 |
+| Section 1 — Introduction to Special Education Funding | MDE059273 |
+| Section 2 — State Special Education Aid | MDE059274 |
+| Section 3 — State and Federal Application and Aid Approval | MDE059346 |
+| Section 4 — Federal Funds | MDE059347 |
+| Section 5 — Third-Party Funding | MDE075213 |
+| Section 5A — Use of Third-Party Revenue | MDE032204 |
+| Section 6 — Maintenance of Effort (MOE) | PROD086201 |
+| Section 7 — Reconciliation | MDE089189 |
+| Section 8 — Special Education Data Reporting Application (SEDRA) | MDE089240 |
+| Section 9 — Code Sheets | MDE059354 |
+| Section 10 — Funding Source Codes | MDE071943 |
+
+---
+
+## Special Education — State Funding/Code Sheets
+URL: https://education.mn.gov/MDE/dse/schfin/sped/fund/
+
+| Document | dDocName |
+|----------|----------|
+| Special Expenditure Application — Pupils Without IEPs (2025-26) | 043814 |
+| Special Expenditure Application — Pupils With IEPs (2025-26) | 005553 |
+| Special Expenditure Application — Out-of-State Tuition for MN Residents (2025-26) | 005554 |
+| Special Expenditure Application — Court Placed Non-MN Residents with IEPs | 005555 |
+
+---
+
+## Special Education — Child Count
+URL: https://education.mn.gov/MDE/dse/schfin/sped/count/
+Data Center: TOPICID=455 (Child Count spreadsheets — Flash portal barrier)
+
+| Document | dDocName/Link |
+|----------|---------------|
+| December 2025 MARSS Child Count Turnaround Reports | PROD098406 (page link) |
+| December 1, 2024 FINAL Child Count Reporting Memo | PROD085614 (page link) |
+| December 2024 MARSS Child Count Turnaround Reports | PROD085398 (idcplg) |
+
+*Note: New Data Center topic ID discovered here: TOPICID=455 (Child Count) — in addition to TOPICID=46 (Special Education main).*
+
+---
+
+## Special Education — Tuition Billing
+URL: https://education.mn.gov/MDE/dse/schfin/sped/tuit/
+
+| Document | dDocName |
+|----------|----------|
+| Tuition Billing Org-Site Rate Users SFY 2025-26 | PROD098211 |
+| SFY 2024-25 Final General Education Revenue Per Pupil Unit | PROD087289 |
+| Guide to Tuition Invoice Data Extract from SEDRA | MDE032878 |
+| Request for SFY 2026 Federal Funds for SPED Tuition Adjustment | PROD083895 |
+| Tuition Billing Org-Site Rate Users SFY 2024-25 | PROD085185 |
+| New One-to-One Form Procedures | PROD081436 |
+| Tuition Billing Reference Guide 2024 | 048687 |
+| Midpoints to Determine Special Education Service Hours | MDE071535 |
+| Instructional Percentage for Tuition Billing and Excess Cost Aid Calculation | MDE032874 |
+| Uniform Tuition Billing Invoice for Transition Services | MDE036029 |
+| Special Education Student Acknowledgement | 056317 |
+| Invoice for Educational Services — Students in Care and Treatment | 050342 |
+
+---
+
+## Special Education — Federal Allocations
+URL: https://education.mn.gov/MDE/dse/schfin/sped/Fed/
+Data Center: TOPICID=46 (same as Special Education main — Flash portal barrier)
+
+*No downloadable idcplg documents on this page — all data is in Data Center Flash portal.*
+
+---
+
 ## Fiscal Monitoring
 URL: https://education.mn.gov/MDE/dse/schfin/fismont/
 Contact: spedfiscalmonitoring.mde@state.mn.us
