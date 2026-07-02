@@ -51,6 +51,11 @@
       "root_label": "Project notes & navigation"
     },
     {
+      "path": "04_News_Coverage",
+      "title": "News Coverage",
+      "blurb": "A compiled, sourced index of a decade of public news about the district — the BOLD school closures, leadership changes, referendums, and budget pressures — with links to primary articles."
+    },
+    {
       "path": "03_Reference_Notes",
       "title": "Reference & Methodology",
       "blurb": "Working notes on how Minnesota school finance works, how district financial health is measured, and where the underlying public data lives."
