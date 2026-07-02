@@ -1,14 +1,12 @@
 name: Build and deploy to GitHub Pages
 
-# Rebuilds index.html from the repository contents and publishes the site.
-# The homepage regenerates automatically on every push, so adding a source
-# document or a new publication is all it takes to update the site.
+# On every push we rebuild index.html from the repository contents to confirm
+# the site still generates cleanly. The site is only *deployed* from the
+# default branch (main) — GitHub Pages rejects deploys from other branches, so
+# feature branches run the build check only and never attempt a deploy.
 
 on:
   push:
-    branches:
-      - main
-      - claude/stillwater-schools-homepage-r5jll4
   workflow_dispatch:
 
 permissions:
@@ -17,7 +15,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -35,16 +33,20 @@ jobs:
       - name: Regenerate index.html
         run: python3 build.py
 
+      # Only the default branch deploys, so only it needs the Pages artifact.
       - name: Configure Pages
+        if: github.ref == 'refs/heads/main'
         uses: actions/configure-pages@v5
 
       - name: Upload site artifact
+        if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
   deploy:
     needs: build
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
